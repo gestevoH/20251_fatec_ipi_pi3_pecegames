@@ -1,0 +1,1001 @@
+id_cliente,nome,sobrenome,email,sexo,Telefone,game_rank,game,plataforma,publicadora,lancamento,genero,na_sales,eu_sales,jp_sales,other_sales,global_sales
+1,Bobbi,Rivett,brivett0@google.co.uk,Female,(50) 95407-5484,1,Wii Sports,Wii,Nintendo,2006,Sports,41.49,29.02,3.77,8.46,82.74
+2,Avril,Skitteral,askitteral1@redcross.org,Female,(23) 96952-2057,2,Super Mario Bros.,NES,Nintendo,1985,Platform,29.08,3.58,6.81,0.77,40.24
+3,Alessandra,Osburn,aosburn2@jimdo.com,Female,(64) 98720-5179,3,Mario Kart Wii,Wii,Nintendo,2008,Racing,15.85,12.88,3.79,3.31,35.82
+4,Prince,Thickens,pthickens3@t-online.de,Male,(96) 90468-2246,4,Wii Sports Resort,Wii,Nintendo,2009,Sports,15.75,11.01,3.28,2.96,33.00
+5,Nettie,Tourner,ntourner4@mashable.com,Female,(27) 92712-7392,5,Pokemon Red/Pokemon Blue,GB,Nintendo,1996,Role-Playing,11.27,8.89,10.22,1.00,31.37
+6,Candy,Confait,cconfait5@quantcast.com,Female,(55) 95766-9655,6,Tetris,GB,Nintendo,1989,Puzzle,23.20,2.26,4.22,0.58,30.26
+7,Hayyim,Larter,hlarter6@ted.com,Male,(54) 93894-3865,7,New Super Mario Bros.,DS,Nintendo,2006,Platform,11.38,9.23,6.50,2.90,30.01
+8,Konstanze,Ianson,kianson7@weather.com,Female,(58) 96312-8079,8,Wii Play,Wii,Nintendo,2006,Misc,14.03,9.20,2.93,2.85,29.02
+9,Hector,Meiner,hmeiner8@paypal.com,Male,(19) 97271-4346,9,New Super Mario Bros. Wii,Wii,Nintendo,2009,Platform,14.59,7.06,4.70,2.26,28.62
+10,Stefan,Baumaier,sbaumaier9@vkontakte.ru,Male,(13) 98841-1926,10,Duck Hunt,NES,Nintendo,1984,Shooter,26.93,0.63,0.28,0.47,28.31
+11,Baxy,Alonso,balonsoa@dailymotion.com,Male,(86) 95622-5852,11,Nintendogs,DS,Nintendo,2005,Simulation,9.07,11.00,1.93,2.75,24.76
+12,Oliviero,O'Hannay,oohannayb@google.com,Male,(78) 92383-4720,12,Mario Kart DS,DS,Nintendo,2005,Racing,9.81,7.57,4.13,1.92,23.42
+13,Micki,Keele,mkeelec@instagram.com,Female,(49) 90697-2475,13,Pokemon Gold/Pokemon Silver,GB,Nintendo,1999,Role-Playing,9.00,6.18,7.20,0.71,23.10
+14,Burg,Quennell,bquennelld@buzzfeed.com,Non-binary,(71) 94085-4968,14,Wii Fit,Wii,Nintendo,2007,Sports,8.94,8.03,3.60,2.15,22.72
+15,Lorry,Altimas,laltimase@desdev.cn,Female,(95) 92534-3390,15,Wii Fit Plus,Wii,Nintendo,2009,Sports,9.09,8.59,2.53,1.79,22.00
+16,Marcellus,Farn,mfarnf@salon.com,Male,(11) 95816-8722,16,Kinect Adventures!,X360,Microsoft Game Studios,2010,Misc,14.97,4.94,0.24,1.67,21.82
+17,Rebecka,Abramovitz,rabramovitzg@wix.com,Polygender,(61) 97042-5015,17,Grand Theft Auto V,PS3,Take-Two Interactive,2013,Action,7.01,9.27,0.97,4.14,21.40
+18,Merrielle,Stanion,mstanionh@newyorker.com,Female,(33) 98066-7475,18,Grand Theft Auto: San Andreas,PS2,Take-Two Interactive,2004,Action,9.43,0.40,0.41,10.57,20.81
+19,Ahmed,Grice,agricei@elegantthemes.com,Male,(12) 90158-5358,19,Super Mario World,SNES,Nintendo,1990,Platform,12.78,3.75,3.54,0.55,20.61
+20,Caroline,Whotton,cwhottonj@twitter.com,Female,(68) 99039-6234,20,Brain Age: Train Your Brain in Minutes a Day,DS,Nintendo,2005,Misc,4.75,9.26,4.16,2.05,20.22
+21,Melesa,Atwood,matwoodk@zimbio.com,Female,(83) 98200-0375,21,Pokemon Diamond/Pokemon Pearl,DS,Nintendo,2006,Role-Playing,6.42,4.52,6.04,1.37,18.36
+22,Amery,Warwicker,awarwickerl@eventbrite.com,Male,(23) 96665-3956,22,Super Mario Land,GB,Nintendo,1989,Platform,10.83,2.71,4.18,0.42,18.14
+23,Jerald,Maxstead,jmaxsteadm@twitter.com,Male,(17) 93857-9784,23,Super Mario Bros. 3,NES,Nintendo,1988,Platform,9.54,3.44,3.84,0.46,17.28
+24,Koenraad,Roskams,kroskamsn@bandcamp.com,Male,(30) 95314-5337,24,Grand Theft Auto V,X360,Take-Two Interactive,2013,Action,9.63,5.31,0.06,1.38,16.38
+25,Marijo,Robak,mrobako@instagram.com,Female,(64) 96641-8307,25,Grand Theft Auto: Vice City,PS2,Take-Two Interactive,2002,Action,8.41,5.49,0.47,1.78,16.15
+26,Sheppard,Costain,scostainp@usgs.gov,Male,(96) 90145-9370,26,Pokemon Ruby/Pokemon Sapphire,GBA,Nintendo,2002,Role-Playing,6.06,3.90,5.38,0.50,15.85
+27,Ronalda,Goodwill,rgoodwillq@blogspot.com,Female,(77) 94628-3325,27,Pokemon Black/Pokemon White,DS,Nintendo,2010,Role-Playing,5.57,3.28,5.65,0.82,15.32
+28,Madeline,McCurry,mmccurryr@ted.com,Female,(67) 91112-0487,28,Brain Age 2: More Training in Minutes a Day,DS,Nintendo,2005,Puzzle,3.44,5.36,5.32,1.18,15.30
+29,Eugine,Garz,egarzs@deviantart.com,Female,(21) 92021-4286,29,Gran Turismo 3: A-Spec,PS2,Sony Computer Entertainment,2001,Racing,6.85,5.09,1.87,1.16,14.98
+30,Keary,Djordjevic,kdjordjevict@mac.com,Male,(73) 98337-1727,30,Call of Duty: Modern Warfare 3,X360,Activision,2011,Shooter,9.03,4.28,0.13,1.32,14.76
+31,Sheri,Goldhawk,sgoldhawku@devhub.com,Female,(30) 98364-7137,31,Pokemon Yellow: Special Pikachu Edition,GB,Nintendo,1998,Role-Playing,5.89,5.04,3.12,0.59,14.64
+32,Ivar,O Mullen,iomullenv@flavors.me,Male,(17) 91506-2584,32,Call of Duty: Black Ops,X360,Activision,2010,Shooter,9.67,3.73,0.11,1.13,14.64
+33,Natalya,Camden,ncamdenw@marriott.com,Female,(95) 96011-1688,33,Pokemon X/Pokemon Y,3DS,Nintendo,2013,Role-Playing,5.17,4.05,4.34,0.79,14.35
+34,Trescha,Skain,tskainx@cdbaby.com,Female,(39) 90703-1302,34,Call of Duty: Black Ops 3,PS4,Activision,2015,Shooter,5.77,5.81,0.35,2.31,14.24
+35,Ian,Roylance,iroylancey@thetimes.co.uk,Male,(85) 90456-0624,35,Call of Duty: Black Ops II,PS3,Activision,2012,Shooter,4.99,5.88,0.65,2.52,14.03
+36,Kyle,Roycroft,kroycroftz@theguardian.com,Female,(43) 92638-1708,36,Call of Duty: Black Ops II,X360,Activision,2012,Shooter,8.25,4.30,0.07,1.12,13.73
+37,Aubrey,Cordon,acordon10@instagram.com,Male,(45) 98197-9145,37,Call of Duty: Modern Warfare 2,X360,Activision,2009,Shooter,8.52,3.63,0.08,1.29,13.51
+38,Clarey,Martineau,cmartineau11@census.gov,Female,(95) 93380-2372,38,Call of Duty: Modern Warfare 3,PS3,Activision,2011,Shooter,5.54,5.82,0.49,1.62,13.46
+39,Babette,Cowx,bcowx12@ebay.co.uk,Female,(64) 96012-1723,39,Grand Theft Auto III,PS2,Take-Two Interactive,2001,Action,6.99,4.51,0.30,1.30,13.10
+40,Mirabel,Buckenham,mbuckenham13@sun.com,Polygender,(67) 98676-9803,40,Super Smash Bros. Brawl,Wii,Nintendo,2008,Fighting,6.75,2.61,2.66,1.02,13.04
+41,Florida,Molesworth,fmolesworth14@rediff.com,Bigender,(81) 94469-9074,41,Call of Duty: Black Ops,PS3,Activision,2010,Shooter,5.98,4.44,0.48,1.83,12.73
+42,Zora,Yonnie,zyonnie15@nps.gov,Female,(28) 90224-0106,42,Animal Crossing: Wild World,DS,Nintendo,2005,Simulation,2.55,3.52,5.33,0.88,12.27
+43,Britt,Bassill,bbassill16@mac.com,Male,(35) 93907-7002,43,Mario Kart 7,3DS,Nintendo,2011,Racing,4.74,3.91,2.67,0.89,12.21
+44,Kahlil,Huffy,khuffy17@pen.io,Male,(86) 99026-1462,44,Halo 3,X360,Microsoft Game Studios,2007,Shooter,7.97,2.83,0.13,1.21,12.14
+45,Mathew,Lindback,mlindback18@jigsy.com,Genderqueer,(51) 97512-4911,45,Grand Theft Auto V,PS4,Take-Two Interactive,2014,Action,3.80,5.81,0.36,2.02,11.98
+46,Roy,Hoogendorp,rhoogendorp19@wp.com,Male,(44) 96587-5632,46,Pokemon HeartGold/Pokemon SoulSilver,DS,Nintendo,2009,Action,4.40,2.77,3.96,0.77,11.90
+47,Isobel,Yellowlees,iyellowlees1a@g.co,Female,(12) 93517-6992,47,Super Mario 64,N64,Nintendo,1996,Platform,6.91,2.85,1.91,0.23,11.89
+48,Maurise,Crum,mcrum1b@mediafire.com,Female,(47) 97693-3084,48,Gran Turismo 4,PS2,Sony Computer Entertainment,2004,Racing,3.01,0.01,1.10,7.53,11.66
+49,Guthrey,Agronski,gagronski1c@wsj.com,Agender,(26) 96510-2932,49,Super Mario Galaxy,Wii,Nintendo,2007,Platform,6.16,3.40,1.20,0.76,11.52
+50,Gaby,Licquorish,glicquorish1d@exblog.jp,Male,(66) 91597-7875,50,Pokemon Omega Ruby/Pokemon Alpha Sapphire,3DS,Nintendo,2014,Role-Playing,4.23,3.37,3.08,0.65,11.33
+51,Den,Chill,dchill1e@hao123.com,Male,(55) 99187-9808,51,Super Mario Land 2: 6 Golden Coins,GB,Nintendo,1992,Adventure,6.16,2.04,2.69,0.29,11.18
+52,Claiborn,Melloi,cmelloi1f@home.pl,Male,(78) 97369-7278,52,Grand Theft Auto IV,X360,Take-Two Interactive,2008,Action,6.76,3.10,0.14,1.03,11.02
+53,Shannon,Figgins,sfiggins1g@who.int,Female,(23) 97161-7791,53,Gran Turismo,PS,Sony Computer Entertainment,1997,Racing,4.02,3.87,2.54,0.52,10.95
+54,Viva,Prestland,vprestland1h@typepad.com,Agender,(95) 93178-4654,54,Super Mario 3D Land,3DS,Nintendo,2011,Platform,4.89,2.99,2.13,0.78,10.79
+55,Athena,Achrameev,aachrameev1i@ovh.net,Female,(84) 95120-6043,55,Gran Turismo 5,PS3,Sony Computer Entertainment,2010,Racing,2.96,4.88,0.81,2.12,10.77
+56,Colline,McLarty,cmclarty1j@livejournal.com,Polygender,(82) 97707-7964,56,Call of Duty: Modern Warfare 2,PS3,Activision,2009,Shooter,4.99,3.69,0.38,1.63,10.69
+57,Gradeigh,Twentyman,gtwentyman1k@ibm.com,Male,(19) 96897-5339,57,Grand Theft Auto IV,PS3,Take-Two Interactive,2008,Action,4.76,3.76,0.44,1.62,10.57
+58,Jacquette,O'Scully,joscully1l@salon.com,Female,(28) 93153-4448,58,Super Mario All-Stars,SNES,Nintendo,1993,Platform,5.99,2.15,2.12,0.29,10.55
+59,Ellis,Cescoti,ecescoti1m@plala.or.jp,Male,(59) 98861-6880,59,Pokemon FireRed/Pokemon LeafGreen,GBA,Nintendo,2004,Role-Playing,4.34,2.65,3.15,0.35,10.49
+60,Elberta,Fyrth,efyrth1n@google.com.br,Female,(16) 93730-2461,60,Super Mario 64,DS,Nintendo,2004,Platform,5.08,3.11,1.25,0.98,10.42
+61,James,Dadds,jdadds1o@istockphoto.com,Male,(48) 99159-0300,61,Just Dance 3,Wii,Ubisoft,2011,Misc,6.05,3.15,0.00,1.07,10.26
+62,Evaleen,Seamer,eseamer1p@tuttocitta.it,Female,(59) 93780-6190,62,Call of Duty: Ghosts,X360,Activision,2013,Shooter,6.72,2.63,0.04,0.82,10.21
+63,Dannie,Oliphand,doliphand1q@networksolutions.com,Female,(63) 95420-9947,63,Halo: Reach,X360,Microsoft Game Studios,2010,Shooter,7.03,1.98,0.08,0.78,9.88
+64,Obie,Lampard,olampard1r@cargocollective.com,Male,(39) 92907-1073,64,Mario Kart 64,N64,Nintendo,1996,Racing,5.55,1.94,2.23,0.15,9.87
+65,Harlene,Towers,htowers1s@nasa.gov,Female,(86) 98554-6800,65,New Super Mario Bros. 2,3DS,Nintendo,2012,Platform,3.66,3.07,2.47,0.63,9.82
+66,Dorena,Solomon,dsolomon1t@microsoft.com,Female,(42) 95318-7480,66,Halo 4,X360,Microsoft Game Studios,2012,Shooter,6.63,2.36,0.04,0.73,9.76
+67,Cointon,Edgley,cedgley1u@wix.com,Male,(62) 97894-9566,67,Final Fantasy VII,PS,Sony Computer Entertainment,1997,Role-Playing,3.01,2.47,3.28,0.96,9.72
+68,Elmore,Pesek,epesek1v@mediafire.com,Male,(54) 90720-7609,68,Call of Duty: Ghosts,PS3,Activision,2013,Shooter,4.09,3.73,0.38,1.38,9.59
+69,Lorrie,Flewan,lflewan1w@whitehouse.gov,Female,(61) 96327-4969,69,Just Dance 2,Wii,Ubisoft,2010,Misc,5.84,2.89,0.01,0.78,9.52
+70,Dilly,Ruhben,druhben1x@prlog.org,Polygender,(52) 95374-7722,70,Gran Turismo 2,PS,Sony Computer Entertainment,1999,Racing,3.88,3.42,1.69,0.50,9.49
+71,Zedekiah,Franses,zfranses1y@reverbnation.com,Male,(66) 92931-5203,71,Call of Duty 4: Modern Warfare,X360,Activision,2007,Shooter,5.91,2.38,0.13,0.90,9.32
+72,Yankee,Gilford,ygilford1z@surveymonkey.com,Bigender,(60) 91759-0513,72,Donkey Kong Country,SNES,Nintendo,1994,Platform,4.36,1.71,3.00,0.23,9.30
+73,Tracy,Dumingos,tdumingos20@theatlantic.com,Male,(11) 99646-3291,73,Minecraft,X360,Microsoft Game Studios,2013,Misc,5.58,2.83,0.02,0.77,9.20
+74,Morena,Omrod,momrod21@1688.com,Female,(22) 96248-2276,74,Animal Crossing: New Leaf,3DS,Nintendo,2012,Simulation,2.01,2.32,4.36,0.41,9.09
+75,Robina,Caherny,rcaherny22@loc.gov,Female,(35) 99042-4397,75,Mario Party DS,DS,Nintendo,2007,Misc,4.46,1.88,1.98,0.70,9.02
+76,Nicky,Yewdall,nyewdall23@php.net,Female,(13) 99983-4385,76,The Elder Scrolls V: Skyrim,X360,Bethesda Softworks,2011,Role-Playing,5.03,2.86,0.10,0.85,8.84
+77,Corrinne,Alaway,calaway24@gravatar.com,Genderfluid,(79) 97939-7592,77,Super Mario Kart,SNES,Nintendo,1992,Racing,3.54,1.24,3.81,0.18,8.76
+78,Kendrick,Kellick,kkellick25@sun.com,Male,(54) 98851-3067,78,FIFA 16,PS4,Electronic Arts,2015,Sports,1.11,6.06,0.06,1.26,8.49
+79,Carlie,Anselm,canselm26@netscape.com,Female,(84) 99968-5045,79,Wii Party,Wii,Nintendo,2010,Misc,1.79,3.53,2.49,0.68,8.49
+80,Ninnetta,Piolli,npiolli27@ocn.ne.jp,Female,(44) 93307-5255,80,Halo 2,XB,Microsoft Game Studios,2004,Shooter,6.82,1.53,0.05,0.08,8.49
+81,Mufinella,Herkess,mherkess28@plala.or.jp,Bigender,(34) 97872-8542,81,Mario Party 8,Wii,Nintendo,2007,Misc,3.81,2.30,1.58,0.73,8.42
+82,Giustina,Gravells,ggravells29@alibaba.com,Female,(66) 93369-2307,82,Pokemon Black 2/Pokemon White 2,DS,Nintendo,2012,Role-Playing,2.91,1.86,3.14,0.43,8.33
+83,Lambert,Avramovich,lavramovich2a@chron.com,Male,(71) 99997-5848,83,FIFA Soccer 13,PS3,Electronic Arts,2012,Action,1.06,5.05,0.13,2.01,8.24
+84,Laetitia,Jouhning,ljouhning2b@soundcloud.com,Female,(46) 93618-4346,84,The Sims 3,PC,Electronic Arts,2009,Simulation,0.98,6.42,0.00,0.71,8.11
+85,Uta,Hambling,uhambling2c@hexun.com,Female,(56) 98918-2172,85,GoldenEye 007,N64,Nintendo,1997,Shooter,5.80,2.01,0.13,0.15,8.09
+86,Eldredge,Ferandez,eferandez2d@ibm.com,Bigender,(11) 93236-9298,86,Mario & Sonic at the Olympic Games,Wii,Sega,2007,Sports,2.58,3.90,0.66,0.91,8.06
+87,Steve,Ellyatt,sellyatt2e@purevolume.com,Male,(29) 97158-2362,87,Final Fantasy X,PS2,Sony Computer Entertainment,2001,Role-Playing,2.91,2.07,2.73,0.33,8.05
+88,Sande,Djorevic,sdjorevic2f@themeforest.net,Female,(92) 92832-6024,88,Final Fantasy VIII,PS,SquareSoft,1999,Role-Playing,2.28,1.72,3.63,0.23,7.86
+89,Brodie,Grubey,bgrubey2g@google.com,Male,(79) 93855-0947,89,Pokémon Platinum Version,DS,Nintendo,2008,Role-Playing,2.82,1.78,2.69,0.55,7.84
+90,Ayn,Beaford,abeaford2h@smh.com.au,Female,(64) 92076-7204,90,Pac-Man,2600,Atari,1982,Puzzle,7.28,0.45,0.00,0.08,7.81
+91,Wiatt,Habbal,whabbal2i@cam.ac.uk,Male,(95) 93825-8395,91,Grand Theft Auto: Liberty City Stories,PSP,Take-Two Interactive,2005,Action,2.90,2.83,0.24,1.75,7.72
+92,Johnna,Becaris,jbecaris2j@plala.or.jp,Female,(39) 93156-6342,92,Super Mario Galaxy 2,Wii,Nintendo,2010,Platform,3.66,2.42,0.98,0.64,7.69
+93,Leo,Castelli,lcastelli2k@comcast.net,Male,(36) 93486-7453,93,Star Wars Battlefront (2015),PS4,Electronic Arts,2015,Shooter,2.93,3.29,0.22,1.23,7.67
+94,Gilly,Whines,gwhines2l@google.es,Female,(96) 92652-7737,94,Call of Duty: Advanced Warfare,PS4,Activision,2014,Shooter,2.80,3.30,0.14,1.37,7.60
+95,Mariel,Hannigane,mhannigane2m@deviantart.com,Genderfluid,(87) 92513-6954,95,The Legend of Zelda: Ocarina of Time,N64,Nintendo,1998,Action,4.10,1.89,1.45,0.16,7.60
+96,Lynda,Paddick,lpaddick2n@de.vu,Female,(57) 97418-3491,96,Crash Bandicoot 2: Cortex Strikes Back,PS,Sony Computer Entertainment,1997,Platform,3.78,2.17,1.31,0.31,7.58
+97,Klarrisa,Handaside,khandaside2o@aboutads.info,Bigender,(68) 90333-7724,97,Super Mario Bros. 2,NES,Nintendo,1988,Platform,5.39,1.18,0.70,0.19,7.46
+98,Newton,Berkery,nberkery2p@comsenz.com,Non-binary,(27) 98416-3441,98,Super Smash Bros. for Wii U and 3DS,3DS,Nintendo,2014,Fighting,3.24,1.35,2.42,0.43,7.45
+99,Howey,Kittoe,hkittoe2q@prweb.com,Male,(40) 93382-4028,99,Call of Duty: World at War,X360,Activision,2008,Shooter,4.79,1.90,0.00,0.69,7.37
+100,Magdalene,Lathwood,mlathwood2r@deviantart.com,Female,(99) 90945-4527,100,Battlefield 3,X360,Electronic Arts,2011,Shooter,4.46,2.13,0.06,0.69,7.34
+101,Doralin,Dunford,ddunford2s@hibu.com,Female,(18) 92118-2801,101,The Legend of Zelda: Twilight Princess,Wii,Nintendo,2006,Action,3.83,2.19,0.60,0.70,7.31
+102,Jacquenette,Tuckey,jtuckey2t@reuters.com,Female,(23) 99032-7617,102,Call of Duty: Black Ops 3,XOne,Activision,2015,Shooter,4.52,2.09,0.01,0.67,7.30
+103,Donnie,Suddards,dsuddards2u@microsoft.com,Female,(77) 93113-8226,103,Just Dance,Wii,Ubisoft,2009,Misc,3.51,3.03,0.00,0.73,7.27
+104,Maia,Clement,mclement2v@utexas.edu,Female,(14) 98512-8178,104,Battlefield 3,PS3,Electronic Arts,2011,Shooter,2.85,2.93,0.35,1.10,7.23
+105,Hulda,Moores,hmoores2w@bbc.co.uk,Female,(44) 96324-6093,105,Need for Speed Underground,PS2,Electronic Arts,2003,Racing,3.27,2.83,0.08,1.02,7.20
+106,Jenica,Pietesch,jpietesch2x@about.me,Female,(53) 99445-1019,106,Tekken 3,PS,Sony Computer Entertainment,1998,Fighting,3.27,2.22,1.40,0.29,7.16
+107,Ettore,Lintot,elintot2y@macromedia.com,Non-binary,(22) 93144-8941,107,Crash Bandicoot 3: Warped,PS,Sony Computer Entertainment,1998,Platform,3.68,1.75,1.42,0.28,7.13
+108,Tiffie,Rattray,trattray2z@freewebs.com,Bigender,(86) 92037-8080,108,Super Smash Bros. Melee,GC,Nintendo,2001,Fighting,4.41,1.04,1.39,0.22,7.07
+109,Carly,Demoge,cdemoge30@discuz.net,Female,(76) 95914-8087,109,Mario Kart 8,WiiU,Nintendo,2014,Racing,3.13,2.07,1.27,0.49,6.96
+110,Yelena,McKay,ymckay31@amazon.de,Female,(57) 97208-8305,110,Fallout 4,PS4,Bethesda Softworks,2015,Role-Playing,2.47,3.15,0.24,1.10,6.96
+111,Charmion,Bernot,cbernot32@reference.com,Female,(27) 99616-4531,111,Mario Kart: Double Dash!!,GC,Nintendo,2003,Racing,4.12,1.77,0.87,0.19,6.95
+112,Kincaid,Doerren,kdoerren33@github.io,Male,(98) 97942-0824,112,Just Dance 4,Wii,Ubisoft,2012,Misc,4.14,2.21,0.00,0.56,6.91
+113,Elvyn,Tudhope,etudhope34@time.com,Male,(82) 95704-1121,113,FIFA 14,PS3,Electronic Arts,2013,Sports,0.78,4.32,0.07,1.73,6.90
+114,Missy,Heustace,mheustace35@4shared.com,Non-binary,(68) 97028-1929,114,Need for Speed Underground 2,PS2,Electronic Arts,2004,Racing,2.71,3.02,0.08,1.09,6.90
+115,Frazier,Mumbey,fmumbey36@smugmug.com,Male,(63) 90094-5295,115,Medal of Honor: Frontline,PS2,Electronic Arts,2002,Shooter,2.93,2.75,0.17,0.99,6.83
+116,Tonnie,Hritzko,thritzko37@skype.com,Male,(66) 96090-8207,116,Uncharted 3: Drake's Deception,PS3,Sony Computer Entertainment,2011,Action,2.77,2.80,0.19,1.06,6.83
+117,Georgie,Emnoney,gemnoney38@slate.com,Female,(91) 93089-8021,117,Crash Bandicoot,PS,Sony Computer Entertainment,1996,Platform,3.23,2.35,0.94,0.30,6.82
+118,Celinka,Dukelow,cdukelow39@symantec.com,Female,(69) 93010-5582,118,Zumba Fitness,Wii,505 Games,2010,Sports,3.50,2.64,0.00,0.67,6.81
+119,Wiatt,Stormes,wstormes3a@oakley.com,Polygender,(61) 91337-7884,119,Gears of War 2,X360,Microsoft Game Studios,2008,Shooter,4.15,1.92,0.06,0.64,6.76
+120,Vasily,McLarens,vmclarens3b@t-online.de,Male,(54) 98107-1544,120,Uncharted 2: Among Thieves,PS3,Sony Computer Entertainment,2009,Action,3.27,2.25,0.21,1.00,6.73
+121,Bianka,Greenlies,bgreenlies3c@theglobeandmail.com,Genderfluid,(95) 92181-1227,121,Call of Duty 4: Modern Warfare,PS3,Activision,2007,Shooter,3.10,2.30,0.28,1.04,6.72
+122,Dwight,Merrell,dmerrell3d@youtube.com,Non-binary,(50) 92244-3277,122,FIFA 12,PS3,Electronic Arts,2011,Sports,0.84,4.32,0.11,1.42,6.69
+123,Ray,Prinnett,rprinnett3e@cbsnews.com,Male,(70) 97226-0968,123,Big Brain Academy,DS,Nintendo,2005,Misc,1.67,2.78,1.60,0.62,6.67
+124,Karleen,Goby,kgoby3f@fc2.com,Female,(41) 93106-6594,124,Red Dead Redemption,PS3,Take-Two Interactive,2010,Action,2.79,2.61,0.17,1.03,6.60
+125,Cally,Pollicote,cpollicote3g@mit.edu,Female,(22) 98892-1153,125,FIFA 15,PS4,Electronic Arts,2014,Sports,0.79,4.29,0.05,1.47,6.59
+126,Jerrome,Bartels-Ellis,jbartelsellis3h@plala.or.jp,Male,(38) 90234-2480,126,Donkey Kong Country Returns,Wii,Nintendo,2010,Platform,3.25,1.84,1.03,0.47,6.59
+127,Caesar,Scown,cscown3i@squarespace.com,Male,(20) 96675-3522,127,The Elder Scrolls V: Skyrim,PS3,Bethesda Softworks,2011,Role-Playing,2.55,2.71,0.25,1.05,6.56
+128,Joey,Brisseau,jbrisseau3j@fastcompany.com,Male,(40) 92872-6293,128,The Legend of Zelda,NES,Nintendo,1986,Action,3.74,0.93,1.69,0.14,6.51
+129,Ardys,Orlton,aorlton3k@cnn.com,Female,(89) 95364-9493,129,Assassin's Creed III,PS3,Ubisoft,2012,Action,2.64,2.56,0.16,1.14,6.50
+130,Jared,Shadrack,jshadrack3l@meetup.com,Male,(52) 98100-1735,130,Halo: Combat Evolved,XB,Microsoft Game Studios,2001,Shooter,4.98,1.30,0.08,0.07,6.43
+131,Reece,Bartolomeoni,rbartolomeoni3m@virginia.edu,Male,(72) 94755-8069,131,Pokemon Emerald Version,GBA,Nintendo,2004,Role-Playing,2.57,1.58,2.06,0.21,6.41
+132,Sibyl,Lotherington,slotherington3n@ca.gov,Male,(69) 95915-7908,132,Kingdom Hearts,PS2,Sony Computer Entertainment,2002,Role-Playing,3.64,1.20,1.49,0.07,6.40
+133,Cristobal,Ashburner,cashburner3o@zdnet.com,Male,(53) 98605-2367,133,Pokemon Crystal Version,GB,Nintendo,2000,Role-Playing,2.55,1.56,1.29,0.99,6.39
+134,Marnia,Sperwell,msperwell3p@hostgator.com,Female,(93) 90583-9732,134,Halo 3: ODST,X360,Microsoft Game Studios,2009,Shooter,4.34,1.35,0.06,0.61,6.36
+135,Debera,Bauld,dbauld3q@indiatimes.com,Female,(93) 94686-4052,135,Red Dead Redemption,X360,Take-Two Interactive,2010,Action,3.70,1.97,0.09,0.57,6.34
+136,Ruprecht,Osman,rosman3r@smugmug.com,Male,(58) 99383-7196,136,Super Mario Sunshine,GC,Nintendo,2002,Platform,4.01,1.26,0.87,0.17,6.31
+137,Othello,Paulazzi,opaulazzi3s@cisco.com,Male,(56) 97480-2447,137,Street Fighter II: The World Warrior,SNES,Capcom,1992,Fighting,2.47,0.83,2.87,0.12,6.30
+138,Beverley,Leupoldt,bleupoldt3t@smugmug.com,Female,(82) 96745-7623,138,World of Warcraft,PC,Activision,2004,Role-Playing,0.07,6.21,0.00,0.00,6.28
+139,Jocelin,Cowburn,jcowburn3u@washington.edu,Female,(18) 90919-7790,139,Driver,PS,GT Interactive,1999,Action,3.11,2.80,0.02,0.33,6.27
+140,Dennison,Isted,disted3v@yale.edu,Male,(16) 91394-7650,140,Kinect Sports,X360,Microsoft Game Studios,2010,Sports,3.92,1.78,0.03,0.51,6.24
+141,Marlene,Caveill,mcaveill3w@bravesites.com,Female,(55) 92316-3802,141,Gears of War 3,X360,Microsoft Game Studios,2011,Shooter,4.05,1.62,0.07,0.49,6.24
+142,Lorie,Bordis,lbordis3x@ocn.ne.jp,Female,(94) 91551-9460,142,Gears of War,X360,Microsoft Game Studios,2006,Shooter,3.54,1.90,0.07,0.60,6.11
+143,Chev,Tibbetts,ctibbetts3y@businessweek.com,Male,(80) 94984-3375,143,Metal Gear Solid 2: Sons of Liberty,PS2,Konami Digital Entertainment,2001,Action,2.45,2.01,0.87,0.72,6.05
+144,Cathee,Eastabrook,ceastabrook3z@addtoany.com,Female,(76) 99045-9755,144,Sonic the Hedgehog 2,GEN,Sega,1992,Platform,4.47,1.20,0.16,0.19,6.03
+145,Nichol,Cussins,ncussins40@bloglines.com,Non-binary,(42) 99805-0458,145,Metal Gear Solid 4: Guns of the Patriots,PS3,Konami Digital Entertainment,2008,Action,2.63,1.74,0.83,0.83,6.03
+146,Rianon,Dominichelli,rdominichelli41@feedburner.com,Female,(29) 90183-3118,146,Metal Gear Solid,PS,Konami Digital Entertainment,1998,Action,3.18,1.83,0.78,0.24,6.03
+147,Oswald,MacNeice,omacneice42@businessinsider.com,Male,(75) 91467-8602,147,The Last of Us,PS3,Sony Computer Entertainment Europe,2013,Action,2.41,2.28,0.28,1.01,5.99
+148,Worthington,Brookson,wbrookson43@nbcnews.com,Male,(54) 90711-4982,148,Final Fantasy XII,PS2,Square Enix,2006,Role-Playing,1.88,0.00,2.33,1.74,5.95
+149,Tamarra,McPheat,tmcpheat44@wikia.com,Female,(47) 91633-3158,149,LittleBigPlanet,PS3,Sony Computer Entertainment,2008,Platform,2.80,2.05,0.17,0.90,5.92
+150,Estel,Hugh,ehugh45@mysql.com,Female,(16) 93975-7044,150,Dragon Quest IX: Sentinels of the Starry Skies,DS,Nintendo,2009,Role-Playing,0.66,0.69,4.35,0.15,5.84
+151,Tate,Jura,tjura46@topsy.com,Male,(40) 93518-8993,151,LEGO Star Wars: The Complete Saga,Wii,LucasArts,2007,Action,3.66,1.63,0.00,0.53,5.83
+152,Milton,Ridolfi,mridolfi47@symantec.com,Male,(98) 96900-4131,152,Resident Evil 2,PS,Virgin Interactive,1998,Action,1.88,1.47,2.02,0.45,5.82
+153,Marja,Beniesh,mbeniesh48@archive.org,Female,(41) 95292-0802,153,Tekken 2,PS,Sony Computer Entertainment,1996,Fighting,2.26,1.89,1.36,0.23,5.74
+154,Elnar,Jorger,ejorger49@xinhuanet.com,Male,(16) 95042-4635,154,Cooking Mama,DS,505 Games,2006,Simulation,3.13,1.94,0.07,0.58,5.72
+155,Jackie,Okker,jokker4a@opera.com,Female,(37) 96463-1668,155,Destiny,PS4,Activision,2014,Shooter,2.49,2.05,0.16,0.96,5.65
+156,Maura,Tinkler,mtinkler4b@simplemachines.org,Female,(83) 95778-1496,156,Tetris,NES,Nintendo,1988,Puzzle,2.97,0.69,1.81,0.11,5.58
+157,Kacy,Markos,kmarkos4c@blinklist.com,Female,(28) 91269-0772,157,Assassin's Creed II,PS3,Ubisoft,2009,Action,2.54,1.95,0.21,0.87,5.57
+158,Evy,Nijs,enijs4d@squidoo.com,Female,(67) 90048-8303,158,Super Smash Bros.,N64,Nintendo,1999,Fighting,2.95,0.60,1.97,0.04,5.55
+159,Phaedra,Calow,pcalow4e@tumblr.com,Female,(50) 95682-1165,159,Assassin's Creed,X360,Ubisoft,2007,Adventure,3.28,1.65,0.07,0.55,5.55
+160,Giraldo,Bellhanger,gbellhanger4f@economist.com,Male,(90) 98022-3899,160,Batman: Arkham City,PS3,Warner Bros. Interactive Entertainment,2011,Action,2.70,1.91,0.11,0.80,5.53
+161,Curtice,Lerer,clerer4g@cnet.com,Male,(11) 90445-7882,161,Forza Motorsport 3,X360,Microsoft Game Studios,2009,Racing,2.99,1.92,0.10,0.51,5.51
+162,Marlena,Wilkes,mwilkes4h@booking.com,Female,(55) 98460-6227,162,Monster Hunter Freedom Unite,PSP,Capcom,2008,Role-Playing,0.47,0.57,4.13,0.34,5.50
+163,Wilburt,Tink,wtink4i@craigslist.org,Male,(60) 91941-9239,163,Super Mario Advance,GBA,Nintendo,2001,Platform,3.14,1.24,0.91,0.20,5.49
+164,Janey,Hardy,jhardy4j@ovh.net,Female,(67) 92369-1367,164,Mario Kart: Super Circuit,GBA,Nintendo,2001,Racing,2.62,1.64,0.99,0.23,5.47
+165,Donella,Carless,dcarless4k@latimes.com,Female,(63) 97904-8904,165,Super Mario World,GBA,Nintendo,2001,Platform,3.21,1.11,0.95,0.20,5.46
+166,Janessa,De Vaan,jdevaan4l@wunderground.com,Genderqueer,(72) 93604-8962,166,Pokemon Stadium,N64,Nintendo,1999,Strategy,3.18,1.24,0.94,0.09,5.45
+167,Tamar,Dewdney,tdewdney4m@imgur.com,Female,(44) 97186-1871,167,Call of Duty: World at War,PS3,Activision,2008,Shooter,2.72,1.87,0.00,0.84,5.43
+168,Tedi,Chestney,tchestney4n@amazon.co.jp,Female,(86) 98508-1145,168,Crash Bandicoot: The Wrath of Cortex,PS2,Universal Interactive,2001,Platform,2.07,2.29,0.24,0.82,5.42
+169,Biddy,Silburn,bsilburn4o@flavors.me,Female,(62) 90120-5269,169,Minecraft,PS3,Sony Computer Entertainment,2014,Misc,1.97,2.51,0.00,0.94,5.42
+170,Ker,Lenard,klenard4p@so-net.ne.jp,Non-binary,(23) 91291-9079,170,Final Fantasy XIII,PS3,Square Enix,2009,Role-Playing,1.74,1.24,1.87,0.52,5.36
+171,Nowell,Fiddy,nfiddy4q@bluehost.com,Male,(63) 93899-5320,171,Dr. Mario,GB,Nintendo,1989,Puzzle,2.18,0.96,2.00,0.20,5.34
+172,Jaynell,Curston,jcurston4r@edublogs.org,Female,(91) 91809-7548,172,Pokemon Pinball,GB,Nintendo,1999,Misc,3.02,1.12,1.01,0.16,5.31
+173,Allison,Izod,aizod4s@yellowbook.com,Female,(71) 91722-1360,173,Assassin's Creed III,X360,Ubisoft,2012,Action,3.13,1.71,0.03,0.44,5.30
+174,Crawford,Glozman,cglozman4t@photobucket.com,Polygender,(51) 98514-0897,174,Final Fantasy IX,PS,SquareSoft,2000,Role-Playing,1.62,0.77,2.78,0.14,5.30
+175,Noel,Skipper,nskipper4u@cpanel.net,Female,(36) 92331-2749,175,Final Fantasy X-2,PS2,Electronic Arts,2003,Role-Playing,1.92,1.08,2.11,0.17,5.29
+176,Hildegarde,Dessant,hdessant4v@geocities.com,Female,(25) 93537-4826,176,Donkey Kong 64,N64,Nintendo,1999,Platform,3.33,0.79,1.09,0.06,5.27
+177,Salaidh,Addie,saddie4w@tamu.edu,Female,(46) 94636-8194,177,Assassin's Creed II,X360,Ubisoft,2009,Action,3.10,1.56,0.08,0.51,5.27
+178,Gale,Rackham,grackham4x@discuz.net,Male,(30) 96126-0241,178,Professor Layton and the Curious Village,DS,Nintendo,2007,Puzzle,1.22,2.48,1.03,0.52,5.26
+179,Aleda,Disbrey,adisbrey4y@hao123.com,Female,(20) 97725-2302,179,Tomb Raider II,PS,Eidos Interactive,1997,Action,2.30,2.46,0.20,0.28,5.24
+180,Emmanuel,Carrington,ecarrington4z@reference.com,Male,(57) 94141-3660,180,Madden NFL 2004,PS2,Electronic Arts,2003,Sports,4.26,0.26,0.01,0.71,5.23
+181,Ezechiel,Vedeniktov,evedeniktov50@foxnews.com,Male,(43) 91432-8077,181,Dragon Quest VIII: Journey of the Cursed King,PS2,Square Enix,2004,Role-Playing,0.65,0.75,3.61,0.20,5.21
+182,Fanya,Johnsee,fjohnsee51@shareasale.com,Female,(53) 99473-5053,182,Diablo III,PC,Activision,2012,Role-Playing,2.43,2.15,0.00,0.62,5.20
+183,Sandie,Hugk,shugk52@weibo.com,Female,(75) 91738-3717,183,Super Mario Bros. 3,GBA,Nintendo,2003,Platform,2.93,1.25,0.83,0.20,5.20
+184,Melli,Mullinger,mmullinger53@dagondesign.com,Female,(46) 99085-6933,184,New Super Mario Bros. U,WiiU,Nintendo,2012,Platform,2.32,1.30,1.27,0.31,5.19
+185,Winnie,Braithwait,wbraithwait54@arstechnica.com,Male,(22) 95369-3882,185,Super Mario Land 3: Wario Land,GB,Nintendo,1994,Platform,2.49,0.98,1.57,0.15,5.19
+186,Oren,Presswell,opresswell55@netvibes.com,Male,(33) 91418-1663,186,FIFA Soccer 13,X360,Electronic Arts,2012,Action,1.08,3.48,0.03,0.58,5.18
+187,Brenda,Kall,bkall56@infoseek.co.jp,Female,(42) 92363-4282,187,The Legend of Zelda: Phantom Hourglass,DS,Nintendo,2007,Action,1.90,1.83,0.95,0.49,5.17
+188,Donn,Bows,dbows57@japanpost.jp,Male,(71) 91882-1489,188,Donkey Kong Country 2: Diddy's Kong Quest,SNES,Nintendo,1995,Platform,2.10,0.74,2.20,0.11,5.15
+189,Lesly,Yielding,lyielding58@xing.com,Female,(59) 92372-2264,189,Tomodachi Life,3DS,Nintendo,2013,Simulation,0.96,2.02,1.89,0.28,5.15
+190,Cesar,Waiton,cwaiton59@acquirethisname.com,Male,(63) 96246-6957,190,Mario & Sonic at the Olympic Games,DS,Sega,2008,Sports,1.64,2.48,0.44,0.58,5.14
+191,Rutherford,Folke,rfolke5a@cbc.ca,Male,(15) 98637-8225,191,Medal of Honor: Rising Sun,PS2,Electronic Arts,2003,Shooter,1.98,2.23,0.13,0.80,5.13
+192,Catharine,Korneluk,ckorneluk5b@loc.gov,Female,(20) 98683-5466,192,Kirby's Dream Land,GB,Nintendo,1992,Platform,2.71,0.61,1.70,0.11,5.13
+193,Darcy,Pyburn,dpyburn5c@stanford.edu,Male,(40) 96592-4564,193,Fable III,X360,Microsoft Game Studios,2010,Role-Playing,3.59,1.11,0.05,0.38,5.13
+194,Maisie,Golagley,mgolagley5d@marketwatch.com,Female,(86) 97143-2978,194,Call of Duty: Advanced Warfare,XOne,Activision,2014,Shooter,3.21,1.53,0.01,0.38,5.13
+195,Carlee,Dietz,cdietz5e@tumblr.com,Female,(26) 96042-5696,195,Microsoft Flight Simulator,PC,Microsoft Game Studios,1996,Simulation,3.22,1.69,0.00,0.20,5.12
+196,Redd,Liversidge,rliversidge5f@cnet.com,Male,(70) 93613-1357,196,Guitar Hero II,PS2,RedOctane,2006,Misc,3.81,0.63,0.00,0.68,5.12
+197,Glynnis,Mortlock,gmortlock5g@shutterfly.com,Female,(72) 99262-2280,197,Resident Evil 5,PS3,Capcom,2009,Action,1.96,1.43,1.08,0.65,5.11
+198,Robby,Raison,rraison5h@dion.ne.jp,Female,(46) 92001-5394,198,Grand Theft Auto V,XOne,Take-Two Interactive,2014,Action,2.66,2.01,0.00,0.41,5.08
+199,Berny,Manton,bmanton5i@symantec.com,Female,(17) 96649-1436,199,Grand Theft Auto: Vice City Stories,PSP,Take-Two Interactive,2006,Action,1.70,2.02,0.16,1.21,5.08
+200,Ricard,Jamme,rjamme5j@omniture.com,Male,(46) 97250-7121,200,FIFA Soccer 11,PS3,Electronic Arts,2010,Sports,0.60,3.29,0.06,1.13,5.08
+201,Jo,Jeste,jjeste5k@ed.gov,Non-binary,(38) 97842-0338,201,Super Mario Bros.,GB,Nintendo,1999,Platform,3.40,1.30,0.15,0.22,5.07
+202,Leupold,Bridge,lbridge5l@artisteer.com,Male,(48) 99304-1568,202,Resident Evil,PS,Virgin Interactive,1996,Action,2.05,1.16,1.11,0.73,5.05
+203,Obie,Markie,omarkie5m@howstuffworks.com,Male,(26) 91596-1808,203,Tony Hawk's Pro Skater,PS,Activision,1999,Sports,3.42,1.38,0.02,0.20,5.02
+204,Joete,Pulman,jpulman5n@dot.gov,Polygender,(11) 99074-2064,204,Super Smash Bros. for Wii U and 3DS,WiiU,Nintendo,2014,Fighting,2.59,1.06,0.80,0.57,5.02
+205,Byrom,Matt,bmatt5o@123-reg.co.uk,Male,(96) 94078-5721,205,Warzone 2100,PS,Eidos Interactive,1999,Strategy,2.79,1.89,0.00,0.33,5.01
+206,Carlotta,Richardson,crichardson5p@apache.org,Female,(62) 98149-9494,206,Spyro the Dragon,PS,Sony Computer Entertainment,1998,Platform,3.36,1.36,0.07,0.21,5.00
+207,Stuart,Daingerfield,sdaingerfield5q@netlog.com,Male,(49) 96085-9263,207,Link's Crossbow Training,Wii,Nintendo,2007,Shooter,3.06,1.18,0.29,0.46,5.00
+208,Fritz,Kamienski,fkamienski5r@huffingtonpost.com,Male,(47) 99253-9135,208,Guitar Hero III: Legends of Rock,PS2,Activision,2007,Misc,3.49,0.01,0.01,1.48,4.98
+209,Batholomew,McClintock,bmcclintock5s@skype.com,Male,(58) 97359-0214,209,Fallout 3,X360,Bethesda Softworks,2008,Role-Playing,3.39,1.03,0.09,0.44,4.96
+210,Cesare,Delicate,cdelicate5t@edublogs.org,Male,(41) 93130-4919,210,Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness,DS,Nintendo,2007,Role-Playing,1.85,1.20,1.54,0.37,4.96
+211,Tuck,Cato,tcato5u@miibeian.gov.cn,Male,(93) 97391-6387,211,Uncharted: Drake's Fortune,PS3,Sony Computer Entertainment,2007,Action,2.31,1.73,0.12,0.78,4.94
+212,Katuscha,Duffie,kduffie5v@ezinearticles.com,Female,(53) 97081-5207,212,Madden NFL 06,PS2,Electronic Arts,2005,Sports,3.98,0.26,0.01,0.66,4.91
+213,Gabriell,Strick,gstrick5w@cbslocal.com,Female,(91) 96899-5756,213,LEGO Star Wars: The Complete Saga,DS,LucasArts,2007,Action,2.89,1.54,0.00,0.46,4.90
+214,Zebulon,Pleven,zpleven5x@delicious.com,Polygender,(45) 94958-2057,214,Diddy Kong Racing,N64,Nintendo,1997,Racing,2.91,0.99,0.89,0.10,4.88
+215,Kenn,Blooman,kblooman5y@wsj.com,Male,(92) 98767-9147,215,Monster Hunter Freedom 3,PSP,Capcom,2010,Role-Playing,0.00,0.00,4.87,0.00,4.87
+216,Nessa,Kynvin,nkynvin5z@nasa.gov,Female,(62) 90912-9907,216,Dr. Mario,NES,Nintendo,1990,Puzzle,2.62,0.60,1.52,0.10,4.85
+217,Travus,Kofax,tkofax60@dyndns.org,Male,(43) 92411-4453,217,God of War III,PS3,Sony Computer Entertainment,2010,Action,2.74,1.36,0.12,0.63,4.84
+218,Kathleen,Sainsbury-Brown,ksainsburybrown61@nydailynews.com,Non-binary,(55) 92741-3586,218,StarCraft II: Wings of Liberty,PC,Activision,2010,Strategy,2.56,1.68,0.00,0.59,4.83
+219,Mikkel,Hadley,mhadley62@mac.com,Male,(98) 96023-7539,219,Assassin's Creed,PS3,Ubisoft,2007,Adventure,1.91,2.00,0.09,0.83,4.83
+220,Kristoforo,Marcome,kmarcome63@canalblog.com,Male,(16) 94685-9416,220,FIFA 15,PS3,Electronic Arts,2014,Sports,0.57,3.14,0.04,1.07,4.82
+221,Winny,Bysh,wbysh64@harvard.edu,Male,(54) 92157-1235,221,Crash Team Racing,PS,Sony Computer Entertainment,1999,Racing,2.57,1.57,0.44,0.21,4.79
+222,Sergio,Caulliere,scaulliere65@google.de,Male,(63) 99295-1356,222,FIFA 17,PS4,Electronic Arts,2016,Sports,0.28,3.75,0.06,0.69,4.77
+223,Sherie,Brunstan,sbrunstan66@paypal.com,Female,(11) 94344-0109,223,Batman: Arkham City,X360,Warner Bros. Interactive Entertainment,2011,Action,2.99,1.31,0.04,0.41,4.76
+224,Orrin,Derricoat,oderricoat67@dailymail.co.uk,Male,(61) 90148-0162,224,Driver 2,PS,Atari,2000,Action,2.36,2.10,0.02,0.25,4.73
+225,Tuckie,Le Gall,tlegall68@marketwatch.com,Male,(91) 92804-7611,225,The Simpsons: Hit & Run,PS2,Vivendi Games,2003,Racing,1.73,2.19,0.00,0.79,4.70
+226,Pearle,Stelljes,pstelljes69@surveymonkey.com,Female,(15) 98264-9929,226,Tony Hawk's Pro Skater 2,PS,Activision,2000,Sports,3.05,1.41,0.02,0.20,4.68
+227,Romain,Kayne,rkayne6a@hexun.com,Male,(36) 95622-1073,227,Animal Crossing: City Folk,Wii,Nintendo,2008,Simulation,1.87,1.12,1.32,0.37,4.68
+228,Regen,Frede,rfrede6b@senate.gov,Male,(44) 97728-3293,228,The Lord of the Rings: The Two Towers,PS2,Electronic Arts,2002,Action,1.94,1.95,0.08,0.70,4.67
+229,Celle,Plank,cplank6c@cbc.ca,Female,(98) 90567-3640,229,Forza Motorsport 4,X360,Microsoft Game Studios,2011,Racing,2.08,2.04,0.06,0.47,4.64
+230,Carey,Nafziger,cnafziger6d@typepad.com,Female,(59) 99201-6252,230,Tomb Raider,PS,Eidos Interactive,1996,Action,2.29,1.97,0.13,0.24,4.63
+231,Lanie,Shurlock,lshurlock6e@ehow.com,Female,(97) 95726-0337,231,Guitar Hero III: Legends of Rock,Wii,Activision,2007,Misc,3.06,1.12,0.00,0.44,4.62
+232,Daren,Benting,dbenting6f@mtv.com,Male,(69) 96830-5686,232,The Legend of Zelda: A Link to the Past,SNES,Nintendo,1991,Action,2.42,0.91,1.15,0.13,4.61
+233,Frederich,Itzchaky,fitzchaky6g@constantcontact.com,Male,(29) 90604-6202,233,The Legend of Zelda: The Wind Waker,GC,Nintendo,2002,Action,2.60,0.99,0.89,0.13,4.60
+234,Reese,Tortis,rtortis6h@t-online.de,Male,(31) 94719-6776,234,Mario & Sonic at the Olympic Winter Games,Wii,Sega,2009,Sports,1.89,1.99,0.22,0.48,4.58
+235,Cornela,Hembery,chembery6i@tamu.edu,Female,(52) 92696-4244,235,Luigi's Mansion: Dark Moon,3DS,Nintendo,2013,Action,1.78,1.39,1.10,0.30,4.58
+236,Hunt,Blemen,hblemen6j@quantcast.com,Non-binary,(89) 90162-3501,236,Splatoon,WiiU,Nintendo,2015,Shooter,1.55,1.15,1.44,0.43,4.57
+237,Malcolm,Brazelton,mbrazelton6k@odnoklassniki.ru,Male,(32) 98722-4835,237,The Last of Us,PS4,Sony Computer Entertainment,2014,Action,1.78,1.87,0.07,0.82,4.55
+238,Lynne,Giacobillo,lgiacobillo6l@ehow.com,Female,(26) 98624-6720,238,Guitar Hero III: Legends of Rock,X360,Activision,2007,Misc,3.19,0.92,0.01,0.42,4.53
+239,Steffen,Shynn,sshynn6m@aol.com,Male,(77) 94669-8461,239,Madden NFL 2005,PS2,Electronic Arts,2004,Sports,4.18,0.26,0.01,0.08,4.53
+240,Templeton,Gennerich,tgennerich6n@abc.net.au,Male,(17) 91271-1782,240,Pitfall!,2600,Activision,1981,Platform,4.21,0.24,0.00,0.05,4.50
+241,Bonita,Denecamp,bdenecamp6o@discuz.net,Female,(56) 90966-8565,241,Madden NFL 07,PS2,Electronic Arts,2006,Sports,3.63,0.24,0.01,0.61,4.49
+242,Beniamino,Comoletti,bcomoletti6p@netscape.com,Male,(47) 96453-5209,242,Spider-Man: The Movie,PS2,Activision,2002,Action,2.71,1.51,0.03,0.23,4.48
+243,Braden,Briston,bbriston6q@noaa.gov,Male,(14) 91166-0275,243,Dragon Quest VII: Warriors of Eden,PS,Enix Corporation,2000,Role-Playing,0.20,0.14,4.10,0.02,4.47
+244,Shirl,Johantges,sjohantges6r@mapquest.com,Female,(73) 94587-2967,244,Uncharted: The Nathan Drake Collection,PS4,Sony Computer Entertainment,2015,Action,1.96,1.69,0.08,0.74,4.47
+245,Alfi,Fancy,afancy6s@berkeley.edu,Female,(54) 93228-4801,245,Call of Duty: Advanced Warfare,PS3,Activision,2014,Shooter,1.54,1.94,0.19,0.77,4.45
+246,Ernst,Briton,ebriton6t@ted.com,Male,(85) 99768-4977,246,God of War,PS2,Sony Computer Entertainment,2005,Action,2.71,1.29,0.02,0.43,4.45
+247,Brooke,Frarey,bfrarey6u@freewebs.com,Male,(92) 93956-6899,247,Nintendo Land,WiiU,Nintendo,2012,Misc,2.55,1.11,0.46,0.33,4.44
+248,Gilbert,Kilpin,gkilpin6v@live.com,Male,(70) 94611-9723,248,Michael Jackson: The Experience,Wii,Ubisoft,2010,Misc,2.67,1.35,0.01,0.39,4.42
+249,Sari,Videler,svideler6w@jiathis.com,Female,(45) 96910-2535,249,Tony Hawk's Pro Skater 3,PS2,Activision,2001,Sports,2.66,1.29,0.01,0.46,4.41
+250,Claudianus,Gradwell,cgradwell6x@loc.gov,Male,(89) 93952-6441,250,Winning Eleven: Pro Evolution Soccer 2007,PS2,Konami Digital Entertainment,2006,Sports,0.10,2.39,1.05,0.86,4.39
+251,Morissa,Tichner,mtichner6y@flickr.com,Female,(41) 92855-6229,251,The Elder Scrolls IV: Oblivion,X360,Take-Two Interactive,2006,Role-Playing,2.82,1.05,0.13,0.40,4.39
+252,Xerxes,Paulat,xpaulat6z@fastcompany.com,Male,(52) 90227-0880,252,Zelda II: The Adventure of Link,NES,Nintendo,1987,Adventure,2.19,0.50,1.61,0.08,4.38
+253,Aeriell,Renneke,arenneke70@edublogs.org,Female,(99) 91686-9768,253,Need for Speed: Most Wanted,PS2,Electronic Arts,2005,Racing,2.03,1.79,0.08,0.47,4.37
+254,Federica,Willox,fwillox71@noaa.gov,Agender,(27) 92380-1809,254,Resistance: Fall of Man,PS3,Sony Computer Entertainment,2006,Shooter,1.73,1.73,0.14,0.75,4.35
+255,Joyann,Fackney,jfackney72@unesco.org,Genderfluid,(62) 95396-1369,255,Sonic the Hedgehog,GEN,Sega,1991,Platform,3.03,0.91,0.26,0.13,4.34
+256,Arlyne,Aldhouse,aaldhouse73@prweb.com,Female,(37) 91804-0422,256,Kingdom Hearts II,PS2,Square Enix,2005,Role-Playing,2.20,0.58,1.38,0.17,4.33
+257,Hank,Skune,hskune74@yandex.ru,Male,(47) 94022-5702,257,FIFA 14,X360,Electronic Arts,2013,Sports,0.92,2.93,0.01,0.46,4.31
+258,Corry,Baterip,cbaterip75@unicef.org,Female,(11) 92297-5073,258,Call of Duty: Advanced Warfare,X360,Activision,2014,Shooter,2.75,1.18,0.00,0.37,4.31
+259,Welsh,Darch,wdarch76@answers.com,Male,(56) 91079-0680,259,Asteroids,2600,Atari,1980,Shooter,4.00,0.26,0.00,0.05,4.31
+260,Quinn,Peltz,qpeltz77@xrea.com,Male,(26) 92261-0469,260,Fable II,X360,Microsoft Game Studios,2008,Role-Playing,2.51,1.27,0.11,0.41,4.31
+261,Emilee,Teodori,eteodori78@cbslocal.com,Female,(96) 96882-2105,261,Halo 5: Guardians,XOne,Microsoft Game Studios,2015,Shooter,2.64,1.20,0.03,0.39,4.26
+262,Ab,Kopp,akopp79@cdbaby.com,Male,(70) 99211-4837,262,Super Mario 3D World,WiiU,Nintendo,2013,Platform,2.11,1.11,0.72,0.30,4.25
+263,Bevvy,Squibe,bsquibe7a@cbsnews.com,Female,(69) 92731-6415,263,Batman: Arkham Asylum,PS3,Eidos Interactive,2009,Action,2.23,1.34,0.07,0.61,4.25
+264,Titos,McMichael,tmcmichael7b@qq.com,Male,(32) 95189-5762,264,Assassin's Creed: Revelations,PS3,Ubisoft,2011,Action,1.41,2.02,0.10,0.72,4.24
+265,Melvyn,Grimsdyke,mgrimsdyke7c@discuz.net,Male,(45) 95484-7470,265,Namco Museum,GBA,Namco Bandai Games,2001,Misc,3.00,1.11,0.05,0.07,4.24
+266,Marketa,Connell,mconnell7d@amazonaws.com,Female,(14) 98173-4434,266,Metal Gear Solid 3: Snake Eater,PS2,Konami Digital Entertainment,2004,Action,1.46,0.00,0.83,1.93,4.23
+267,Lane,Fransinelli,lfransinelli7e@who.int,Female,(98) 96520-6934,267,Daxter,PSP,Sony Computer Entertainment,2006,Platform,2.45,1.02,0.00,0.75,4.22
+268,Lauretta,Elener,lelener7f@techcrunch.com,Female,(20) 94937-3497,268,Warcraft II: Tides of Darkness,PC,Activision,1995,Strategy,1.70,2.27,0.00,0.23,4.21
+269,Darius,Sjostrom,dsjostrom7g@infoseek.co.jp,Male,(95) 99568-1283,269,The Legend of Zelda: Ocarina of Time,3DS,Nintendo,2011,Action,2.03,1.27,0.62,0.30,4.21
+270,Neilla,Rigby,nrigby7h@bluehost.com,Female,(68) 99697-6265,270,FIFA Soccer 06,PS2,Electronic Arts,2005,Sports,0.78,2.55,0.04,0.84,4.21
+271,Brendon,Issacof,bissacof7i@tinypic.com,Male,(55) 98775-5535,271,EyeToy Play,PS2,Sony Computer Entertainment,2003,Misc,0.88,2.30,0.20,0.83,4.20
+272,Martha,Hazeldene,mhazeldene7j@bbc.co.uk,Female,(63) 95670-9633,272,Uncharted 4: A Thief's End,PS4,Sony Computer Entertainment,2016,Shooter,1.30,2.07,0.18,0.65,4.20
+273,Cristobal,Friar,cfriar7k@imgur.com,Male,(99) 92175-8512,273,Gran Turismo 5 Prologue,PS3,Sony Computer Entertainment,2007,Racing,1.28,1.83,0.57,0.53,4.20
+274,Brana,Bingley,bbingley7l@jugem.jp,Female,(74) 96483-2689,274,Assassin's Creed: Revelations,X360,Ubisoft,2011,Action,2.25,1.47,0.04,0.43,4.19
+275,Saxe,Curnow,scurnow7m@comsenz.com,Male,(18) 98146-2201,275,Street Fighter IV,PS3,Capcom,2009,Fighting,2.02,1.06,0.58,0.53,4.19
+276,Dilly,Milson,dmilson7n@answers.com,Male,(13) 94026-4929,276,FIFA 12,X360,Electronic Arts,2011,Sports,0.84,2.79,0.02,0.53,4.19
+277,Audie,Rowley,arowley7o@tiny.cc,Female,(87) 99564-2840,277,Teenage Mutant Ninja Turtles,NES,Palcom,1989,Action,3.38,0.44,0.31,0.04,4.17
+278,Norean,Oakenfull,noakenfull7p@technorati.com,Female,(34) 97947-6948,278,Excitebike,NES,Nintendo,1984,Racing,2.04,0.48,1.57,0.07,4.16
+279,Quinton,Gregon,qgregon7q@theglobeandmail.com,Male,(63) 95636-4297,279,Frogger,PS,Hasbro Interactive,1997,Action,3.79,0.27,0.00,0.11,4.16
+280,Emmeline,Probbing,eprobbing7r@flavors.me,Female,(12) 98114-1280,280,Madden NFL 2003,PS2,Electronic Arts,2002,Sports,3.36,0.21,0.01,0.56,4.14
+281,Ashely,Ramirez,aramirez7s@about.me,Female,(82) 96891-9906,281,Watch Dogs,PS4,Ubisoft,2014,Action,1.40,1.86,0.11,0.77,4.14
+282,Gilbert,Gobourn,ggobourn7t@squidoo.com,Male,(55) 94256-7653,282,Half-Life,PC,Vivendi Games,1997,Shooter,4.03,0.00,0.09,0.00,4.12
+283,Dave,Coate,dcoate7u@cnet.com,Male,(60) 93528-0834,283,Super Mario World 2: Yoshi's Island,SNES,Nintendo,1995,Platform,1.65,0.61,1.76,0.09,4.12
+284,Henderson,Yurmanovev,hyurmanovev7v@wufoo.com,Male,(92) 93251-5480,284,FIFA Soccer 07,PS2,Electronic Arts,2006,Sports,0.71,2.48,0.03,0.89,4.11
+285,Fanny,Koppel,fkoppel7w@discovery.com,Female,(17) 92649-7266,285,The Legend of Zelda: Skyward Sword,Wii,Nintendo,2011,Action,2.14,1.20,0.37,0.40,4.10
+286,Wilmette,Carne,wcarne7x@de.vu,Female,(55) 94649-5071,286,Street Fighter II Turbo,SNES,Capcom,1992,Fighting,1.42,0.51,2.10,0.07,4.10
+287,Esme,Lokier,elokier7y@fda.gov,Male,(64) 97495-5075,287,Carnival Games,Wii,Take-Two Interactive,2007,Misc,2.13,1.50,0.05,0.42,4.10
+288,Linell,Pallis,lpallis7z@economist.com,Female,(11) 96607-0971,288,Fallout 4,XOne,Bethesda Softworks,2015,Role-Playing,2.45,1.26,0.01,0.37,4.09
+289,Dari,Glanton,dglanton80@mozilla.com,Female,(62) 97970-0628,289,World of Warcraft: The Burning Crusade,PC,Activision,2007,Role-Playing,2.57,1.52,0.00,0.00,4.09
+290,Jacki,Gaspero,jgaspero81@chicagotribune.com,Female,(23) 98673-3414,290,Fallout: New Vegas,X360,Bethesda Softworks,2010,Role-Playing,2.65,1.06,0.04,0.33,4.08
+291,Dinnie,Lamprey,dlamprey82@biglobe.ne.jp,Agender,(61) 92751-3026,291,God of War II,PS2,Sony Computer Entertainment,2007,Action,2.32,0.04,0.04,1.67,4.07
+292,Wyatt,Reimer,wreimer83@about.com,Male,(57) 99893-4644,292,Forza Motorsport 2,X360,Microsoft Game Studios,2007,Racing,2.35,1.28,0.03,0.41,4.06
+293,Ricky,Cocher,rcocher84@ted.com,Female,(62) 92590-8786,293,World Soccer Winning Eleven 9,PS2,Konami Digital Entertainment,2005,Sports,0.12,2.26,0.90,0.77,4.06
+294,Clayborn,Ommundsen,commundsen85@state.tx.us,Male,(52) 92289-1523,294,Namco Museum Vol.3,PS,Sony Computer Entertainment,1996,Misc,2.28,1.55,0.16,0.06,4.05
+295,Bendix,Halahan,bhalahan86@jugem.jp,Male,(82) 97371-8330,295,Tekken Tag Tournament,PS2,Namco Bandai Games,2000,Fighting,1.68,1.51,0.51,0.35,4.05
+296,Consuela,Baines,cbaines87@ameblo.jp,Female,(57) 90544-8771,296,Far Cry 4,PS4,Ubisoft,2014,Shooter,1.12,2.12,0.10,0.69,4.03
+297,Worthington,Dessant,wdessant88@nhs.uk,Male,(82) 95521-4290,297,Star Fox 64,N64,Nintendo,1997,Shooter,2.78,0.58,0.64,0.04,4.03
+298,Bengt,Olman,bolman89@sbwire.com,Male,(96) 94171-8147,298,Minecraft,PS4,Sony Computer Entertainment Europe,2014,Misc,1.38,1.87,0.12,0.65,4.02
+299,Ronny,Ruzic,rruzic8a@paypal.com,Male,(64) 95066-1995,299,Golf,NES,Nintendo,1984,Sports,1.22,0.28,2.46,0.04,4.01
+300,Noel,Beadell,nbeadell8b@epa.gov,Female,(88) 90148-9397,300,Fallout 3,PS3,Bethesda Softworks,2008,Role-Playing,2.15,1.20,0.07,0.59,4.01
+301,See,Balam,sbalam8c@biglobe.ne.jp,Male,(89) 90857-7635,301,Professor Layton and the Diabolical Box,DS,Nintendo,2007,Puzzle,0.92,1.78,0.92,0.37,4.00
+302,Giorgi,Simes,gsimes8d@blogger.com,Male,(70) 90298-9288,302,Left 4 Dead 2,X360,Electronic Arts,2009,Shooter,2.67,0.89,0.05,0.37,3.99
+303,Northrup,MacGahey,nmacgahey8e@cisco.com,Male,(45) 98784-1458,303,Namco Museum: 50th Anniversary,PS2,Namco Bandai Games,2005,Misc,2.08,1.35,0.00,0.54,3.98
+304,Shelton,Ledbury,sledbury8f@indiegogo.com,Male,(86) 96968-1582,304,EA Sports Active,Wii,Electronic Arts,2009,Sports,2.10,1.36,0.06,0.40,3.92
+305,Ariela,Stodd,astodd8g@linkedin.com,Female,(22) 90820-1260,305,Assassin's Creed: Unity,PS4,Ubisoft,2014,Action,1.18,1.96,0.08,0.70,3.92
+306,Osbert,Wakerley,owakerley8h@ucoz.ru,Male,(62) 99618-7586,306,Donkey Kong Land,GB,Nintendo,1994,Platform,1.97,0.76,1.07,0.11,3.91
+307,Ryley,Laverack,rlaverack8i@desdev.cn,Male,(21) 99883-7441,307,Tony Hawk's Underground,PS2,Activision,2003,Sports,2.29,1.17,0.01,0.42,3.90
+308,Fowler,Conner,fconner8j@photobucket.com,Male,(21) 93400-2347,308,Assassin's Creed IV: Black Flag,PS3,Ubisoft,2013,Action,1.33,1.71,0.13,0.73,3.89
+309,Baxter,Gheraldi,bgheraldi8k@marriott.com,Non-binary,(18) 96076-5893,309,Monster Hunter 4 Ultimate,3DS,Nintendo,2014,Role-Playing,0.67,0.49,2.62,0.11,3.89
+310,Bobbe,Mathieson,bmathieson8l@vkontakte.ru,Female,(19) 91650-5452,310,MotorStorm,PS3,Sony Computer Entertainment,2006,Racing,1.53,1.61,0.06,0.67,3.88
+311,Cletus,Giamitti,cgiamitti8m@google.cn,Male,(72) 94753-4586,311,The Elder Scrolls V: Skyrim,PC,Bethesda Softworks,2011,Role-Playing,1.15,2.09,0.00,0.64,3.88
+312,Mata,Dearden,mdearden8n@theatlantic.com,Male,(65) 90118-0026,312,Tekken 5,PS2,Namco Bandai Games,2005,Fighting,0.93,1.94,0.31,0.70,3.87
+313,Elvina,Sterman,esterman8o@sakura.ne.jp,Agender,(72) 95944-5762,313,Dragon Warrior III,NES,Enix Corporation,1988,Role-Playing,0.10,0.00,3.77,0.00,3.87
+314,Kaia,Freezer,kfreezer8p@paypal.com,Female,(75) 92097-2976,314,Sports Champions,PS3,Sony Computer Entertainment,2010,Sports,2.12,1.14,0.10,0.51,3.87
+315,Marysa,Fuke,mfuke8q@mapy.cz,Female,(75) 99349-5142,315,NBA 2K16,PS4,Take-Two Interactive,2015,Sports,2.48,0.65,0.03,0.69,3.85
+316,Payton,Caddan,pcaddan8r@bizjournals.com,Male,(85) 92137-8937,316,World Soccer Winning Eleven 8 International,PS2,Konami Digital Entertainment,2004,Sports,0.16,1.89,1.12,0.68,3.85
+317,Maridel,Barczynski,mbarczynski8s@sina.com.cn,Female,(82) 91806-6591,317,Flash Focus: Vision Training in Minutes a Day,DS,Nintendo,2007,Misc,0.87,1.57,1.05,0.35,3.84
+318,Kathrine,Senyard,ksenyard8t@jigsy.com,Female,(85) 91170-9844,318,Namco Museum Vol.1,PS,Sony Computer Entertainment,1995,Misc,2.12,1.44,0.22,0.06,3.84
+319,Briney,Casebourne,bcasebourne8u@free.fr,Female,(22) 91849-6319,319,The Legend of Zelda: Link's Awakening,GB,Nintendo,1992,Action,2.21,0.96,0.54,0.13,3.83
+320,Rogers,Samwaye,rsamwaye8v@dailymotion.com,Male,(63) 91790-2260,320,Mario & Luigi: Bowser's Inside Story,DS,Nintendo,2009,Role-Playing,2.26,0.48,0.81,0.27,3.83
+321,Nollie,Boatwright,nboatwright8w@dmoz.org,Female,(51) 90720-3174,321,Big Brain Academy: Wii Degree,Wii,Nintendo,2007,Misc,1.06,1.93,0.41,0.43,3.82
+322,Far,Stonelake,fstonelake8x@google.co.uk,Male,(97) 91691-8296,322,Nintendogs + cats,3DS,Nintendo,2011,Simulation,1.44,1.37,0.73,0.27,3.81
+323,Gertruda,Moggach,gmoggach8y@dell.com,Female,(89) 92570-5763,323,Batman: Arkham Knight,PS4,Warner Bros. Interactive Entertainment,2015,Action,1.49,1.58,0.10,0.61,3.79
+324,Berry,Heeps,bheeps8z@free.fr,Female,(62) 96608-6135,324,Mario & Sonic at the London 2012 Olympic Games,Wii,Sega,2011,Sports,1.14,1.91,0.27,0.46,3.78
+325,Guillema,Casey,gcasey90@mapy.cz,Female,(41) 93496-9861,325,LEGO Indiana Jones: The Original Adventures,X360,Activision,2008,Action,2.40,1.03,0.00,0.36,3.78
+326,Sandie,Goatcher,sgoatcher91@dmoz.org,Female,(93) 99480-5278,326,Resident Evil Director's Cut,PS,Virgin Interactive,1996,Action,1.82,1.24,0.47,0.25,3.77
+327,Lotta,Norridge,lnorridge92@usa.gov,Genderfluid,(92) 95781-9373,327,Ratchet & Clank: Size Matters,PSP,Sony Computer Entertainment,2007,Platform,1.40,1.40,0.10,0.87,3.77
+328,Goddart,Bourrel,gbourrel93@wunderground.com,Male,(52) 90577-5838,328,Just Dance 2014,Wii,Ubisoft,2013,Misc,1.98,1.47,0.00,0.32,3.76
+329,Lela,Odom,lodom94@tinyurl.com,Female,(31) 90380-0865,329,The Sims: Unleashed,PC,Electronic Arts,2002,Simulation,2.03,1.56,0.00,0.17,3.76
+330,Wilhelmina,McKernon,wmckernon95@pagesperso-orange.fr,Female,(76) 99557-9736,330,Super Paper Mario,Wii,Nintendo,2007,Platform,1.98,0.88,0.59,0.32,3.76
+331,Reinhold,Feathers,rfeathers96@gizmodo.com,Male,(73) 95374-6920,331,Harry Potter and the Sorcerer's Stone,PS,Electronic Arts,2001,Action,1.37,2.00,0.14,0.22,3.73
+332,Abelard,Attarge,aattarge97@omniture.com,Male,(30) 92736-3069,332,The Witcher 3: Wild Hunt,PS4,Namco Bandai Games,2015,Role-Playing,0.96,2.00,0.21,0.56,3.73
+333,Kalindi,Ronci,kronci98@marketwatch.com,Female,(60) 91604-3691,333,Resident Evil 3: Nemesis,PS,Eidos Interactive,1999,Action,1.30,0.77,1.54,0.11,3.72
+334,Kissiah,Haberfield,khaberfield99@auda.org.au,Female,(28) 96220-0539,334,Spyro: Year of the Dragon,PS,Sony Computer Entertainment,2000,Platform,1.93,1.58,0.00,0.19,3.71
+335,Petey,Macek,pmacek9a@howstuffworks.com,Male,(33) 94405-4792,335,FIFA Soccer 2005,PS2,Electronic Arts,2004,Sports,0.58,2.48,0.04,0.59,3.70
+336,Anton,Skough,askough9b@theglobeandmail.com,Male,(56) 93086-5283,336,Pokemon Trading Card Game,GB,Nintendo,1998,Strategy,1.49,0.73,1.38,0.10,3.70
+337,Gelya,Matfield,gmatfield9c@marketwatch.com,Genderqueer,(57) 97695-7568,337,Battlefield 4,PS3,Electronic Arts,2013,Shooter,1.30,1.51,0.27,0.61,3.69
+338,Richie,Chalkly,rchalkly9d@senate.gov,Agender,(51) 97733-0588,338,MySims,DS,Electronic Arts,2007,Simulation,1.59,1.61,0.08,0.41,3.69
+339,Raffarty,Imorts,rimorts9e@huffingtonpost.com,Male,(77) 99109-9503,339,Friend Collection,DS,Nintendo,2009,Misc,0.00,0.00,3.67,0.00,3.67
+340,Lowrance,Payle,lpayle9f@blogspot.com,Polygender,(59) 99299-0212,340,Tony Hawk's Pro Skater 4,PS2,Activision,2002,Sports,2.13,1.18,0.01,0.35,3.67
+341,Samuel,Petriello,spetriello9g@hostgator.com,Male,(11) 97676-4820,341,Midnight Club 3: DUB Edition,PSP,Take-Two Interactive,2005,Racing,1.65,1.22,0.00,0.79,3.66
+342,Abel,Isabell,aisabell9h@dedecms.com,Male,(30) 92673-8251,342,Banjo-Kazooie,N64,Nintendo,1998,Platform,1.87,1.13,0.55,0.10,3.65
+343,Edik,Balasini,ebalasini9i@about.me,Male,(22) 91932-3794,343,SOCOM: U.S. Navy SEALs,PS2,Sony Computer Entertainment,2002,Shooter,2.53,0.81,0.06,0.24,3.65
+344,Kurt,Noor,knoor9j@unblog.fr,Male,(61) 94773-6343,344,Guitar Hero: World Tour,Wii,Activision,2008,Misc,2.33,0.97,0.00,0.35,3.65
+345,Sharia,Dilrew,sdilrew9k@ed.gov,Genderqueer,(82) 92378-9505,345,Gran Turismo 6,PS3,Sony Computer Entertainment,2013,Racing,0.71,1.80,0.40,0.74,3.64
+346,Rriocard,Esposito,resposito9l@psu.edu,Male,(82) 95987-2928,346,Jak and Daxter: The Precursor Legacy,PS2,Sony Computer Entertainment,2001,Platform,2.08,1.09,0.15,0.33,3.64
+347,Ileane,Murrum,imurrum9m@edublogs.org,Female,(45) 92540-1466,347,Pokemon Snap,N64,Nintendo,1999,Simulation,2.23,0.68,0.66,0.06,3.63
+348,Pepillo,Treweela,ptreweela9n@imgur.com,Male,(28) 92369-9365,348,FIFA Soccer 10,PS3,Electronic Arts,2009,Sports,0.60,2.46,0.05,0.52,3.63
+349,Ruthi,Bellwood,rbellwood9o@irs.gov,Female,(90) 96659-2322,349,Pro Evolution Soccer 2008,PS2,Konami Digital Entertainment,2007,Sports,0.05,0.00,0.64,2.93,3.63
+350,Akim,Nolder,anolder9p@angelfire.com,Male,(60) 96320-5925,350,Call of Duty: Ghosts,PS4,Activision,2013,Shooter,1.78,1.42,0.05,0.38,3.63
+351,Cass,McPaike,cmcpaike9q@sphinn.com,Female,(43) 94127-2967,351,Resident Evil 4,PS2,Capcom,2005,Action,2.08,0.83,0.46,0.25,3.62
+352,Omar,Billanie,obillanie9r@google.nl,Male,(45) 93056-7317,352,Tom Clancy's The Division,PS4,Ubisoft,2016,Shooter,1.28,1.61,0.15,0.57,3.61
+353,Terrel,Sadd,tsadd9s@qq.com,Male,(40) 90068-9064,353,Star Wars: Battlefront,PS2,LucasArts,2004,Shooter,1.93,1.22,0.03,0.44,3.61
+354,Ariel,Eckhard,aeckhard9t@devhub.com,Male,(78) 99382-7225,354,Doom II: Hell on Earth,PC,Virgin Interactive,1994,Shooter,2.05,1.40,0.00,0.16,3.61
+355,Cesaro,Parks,cparks9u@soup.io,Male,(38) 98139-7318,355,The Simpsons: Road Rage,PS2,Electronic Arts,2001,Racing,2.02,1.17,0.00,0.42,3.61
+356,Teddi,Pohls,tpohls9v@shinystat.com,Female,(21) 99103-4568,356,Cooking Mama 2: Dinner With Friends,DS,505 Games,2007,Simulation,1.61,1.50,0.10,0.39,3.61
+357,Kath,O'Brogan,kobrogan9w@house.gov,Female,(52) 98121-7676,357,Luigi's Mansion,GC,Nintendo,2001,Action,2.38,0.67,0.46,0.10,3.60
+358,Almira,Newtown,anewtown9x@google.nl,Female,(24) 95054-7822,358,Star Wars: Battlefront II,PS2,LucasArts,2005,Shooter,2.18,1.02,0.03,0.37,3.59
+359,Cale,Babalola,cbabalola9y@census.gov,Male,(50) 95554-9933,359,WWF SmackDown!,PS,THQ,2000,Fighting,2.01,1.35,0.06,0.16,3.58
+360,Tracee,Thew,tthew9z@biblegateway.com,Female,(27) 91757-8175,360,Croc: Legend of the Gobbos,PS,Fox Interactive,1997,Platform,1.57,1.79,0.00,0.20,3.56
+361,Reuven,Siddaley,rsiddaleya0@cyberchimps.com,Male,(99) 94772-0406,361,Grand Theft Auto: Liberty City Stories,PS2,Take-Two Interactive,2006,Action,1.56,1.40,0.07,0.50,3.54
+362,Mario,Blanque,mblanquea1@arizona.edu,Male,(16) 99757-4506,362,The Getaway,PS2,Sony Computer Entertainment,2002,Action,1.23,1.77,0.05,0.49,3.54
+363,Lebbie,Frise,lfrisea2@si.edu,Female,(49) 93964-8659,363,Tomb Raider III: Adventures of Lara Croft,PS,Eidos Interactive,1997,Action,1.66,1.58,0.12,0.18,3.54
+364,Georgie,Meale,gmealea3@cmu.edu,Male,(87) 92373-4683,364,James Bond 007: Agent Under Fire,PS2,Electronic Arts,2001,Shooter,1.90,1.13,0.10,0.41,3.53
+365,Lauraine,Pettegre,lpettegrea4@jigsy.com,Female,(64) 95868-6449,365,LEGO Star Wars: The Video Game,PS2,Eidos Interactive,2005,Action,1.98,1.14,0.01,0.41,3.53
+366,Karlotta,Willingham,kwillinghama5@cloudflare.com,Female,(85) 95315-9520,366,Battlefield 4,X360,Electronic Arts,2013,Shooter,2.14,1.08,0.02,0.29,3.53
+367,Gaspar,Bowskill,gbowskilla6@icq.com,Male,(96) 99231-5950,367,FIFA Soccer 11,X360,Electronic Arts,2010,Sports,0.71,2.40,0.02,0.40,3.53
+368,Ezekiel,Lawlie,elawliea7@networkadvertising.org,Male,(23) 96776-7548,368,Rugrats in Paris: The Movie,PS,THQ,2000,Action,1.96,1.33,0.00,0.23,3.52
+369,Estella,Cutmare,ecutmarea8@instagram.com,Bigender,(47) 92383-4883,369,Spyro 2: Ripto's Rage!,PS,Sony Computer Entertainment,1999,Platform,2.14,1.21,0.01,0.17,3.52
+370,Bryce,Jaquemar,bjaquemara9@cdc.gov,Male,(84) 92325-1118,370,Left 4 Dead,X360,Electronic Arts,2008,Shooter,2.66,0.50,0.05,0.30,3.52
+371,Thatcher,Milella,tmilellaaa@vimeo.com,Male,(81) 98198-1775,371,Mario & Sonic at the Olympic Winter Games,DS,Sega,2009,Sports,1.22,1.66,0.27,0.38,3.52
+372,Mozes,Noakes,mnoakesab@cyberchimps.com,Male,(33) 93239-5461,372,Resident Evil 5,X360,Capcom,2009,Action,2.11,0.94,0.12,0.34,3.51
+373,Gianina,Alejandri,galejandriac@theatlantic.com,Female,(36) 93830-8315,373,Donkey Kong Country 3: Dixie Kong's Double Trouble!,SNES,Nintendo,1996,Platform,1.17,0.50,1.75,0.08,3.51
+374,Tedda,Pote,tpotead@businesswire.com,Female,(48) 91991-8142,374,Assassin's Creed: Brotherhood,X360,Ubisoft,2010,Action,2.84,0.39,0.03,0.24,3.50
+375,Margery,Sprules,msprulesae@prweb.com,Female,(84) 96453-3909,375,Kung Fu,NES,Nintendo,1985,Action,1.64,0.38,1.42,0.06,3.50
+376,Norby,Winders,nwindersaf@comcast.net,Male,(71) 99187-3605,376,Batman: Arkham Asylum,X360,Eidos Interactive,2009,Action,2.20,0.97,0.02,0.31,3.50
+377,Chris,Dzenisenka,cdzenisenkaag@msn.com,Female,(36) 95439-6678,377,Clubhouse Games,DS,Nintendo,2006,Misc,0.59,1.83,0.73,0.35,3.50
+378,Dougy,MacKibbon,dmackibbonah@latimes.com,Male,(28) 97105-1480,378,FIFA Soccer 2004,PS2,Electronic Arts,2003,Sports,0.59,2.36,0.04,0.51,3.49
+379,Dannie,Robez,drobezai@reference.com,Female,(53) 97798-6786,379,Star Wars Battlefront (2015),XOne,Electronic Arts,2015,Shooter,1.94,1.22,0.02,0.31,3.49
+380,Sherwynd,Lannin,slanninaj@shareasale.com,Non-binary,(19) 99475-3469,380,Battlefield: Bad Company 2,X360,Electronic Arts,2010,Shooter,2.09,1.02,0.04,0.32,3.48
+381,Eloise,Wheatland,ewheatlandak@usnews.com,Female,(61) 95191-8018,381,Guitar Hero: On Tour,DS,Activision,2008,Misc,2.11,1.01,0.01,0.35,3.48
+382,Scarlett,Brocking,sbrockingal@nsw.gov.au,Female,(62) 98948-0031,382,Assassin's Creed: Unity,XOne,Ubisoft,2014,Action,2.26,0.89,0.00,0.30,3.46
+383,Aldis,Mileham,amilehamam@free.fr,Male,(19) 92529-6614,383,Far Cry 3,PS3,Ubisoft,2012,Shooter,0.88,1.75,0.10,0.72,3.45
+384,Alyda,Advani,aadvanian@uiuc.edu,Female,(17) 91627-9676,384,Monster Hunter 4,3DS,Capcom,2013,Role-Playing,0.00,0.00,3.44,0.00,3.44
+385,Iorgo,Feragh,iferaghao@wp.com,Male,(78) 97110-9047,385,Borderlands,X360,Take-Two Interactive,2009,Shooter,2.39,0.73,0.03,0.29,3.44
+386,Brenden,Oyley,boyleyap@eventbrite.com,Male,(59) 91134-1460,386,Tekken 4,PS2,Namco Bandai Games,2002,Fighting,1.55,1.27,0.33,0.29,3.44
+387,Allard,Nealy,anealyaq@buzzfeed.com,Male,(52) 99222-1589,387,Battlefield 4,PS4,Electronic Arts,2013,Shooter,1.34,1.54,0.17,0.38,3.43
+388,Langsdon,Londing,llondingar@sohu.com,Male,(48) 99949-4215,388,LittleBigPlanet 2,PS3,Sony Computer Entertainment,2011,Platform,1.82,1.07,0.06,0.47,3.42
+389,Raimundo,Illingworth,rillingworthas@alexa.com,Male,(19) 92565-3195,389,Grand Theft Auto 2,PS,Take-Two Interactive,1998,Action,1.13,2.07,0.00,0.22,3.42
+390,Georgi,Jefford,gjeffordat@cbsnews.com,Male,(21) 93451-0369,390,Final Fantasy III,SNES,SquareSoft,1994,Role-Playing,0.86,0.00,2.55,0.02,3.42
+391,Rennie,Maffy,rmaffyau@exblog.jp,Female,(38) 97220-2183,391,Spider-Man 2,PS2,Activision,2004,Action,1.75,1.20,0.02,0.43,3.41
+392,Hunfredo,Wardley,hwardleyav@icio.us,Male,(13) 96155-7135,392,F-1 Race,GB,Nintendo,1990,Racing,1.73,0.69,0.59,0.40,3.41
+393,Carole,MacWhan,cmacwhanaw@addthis.com,Female,(46) 97727-5939,393,FIFA Soccer 2003,PS2,Electronic Arts,2002,Sports,0.46,2.28,0.05,0.61,3.40
+394,Zebulen,Valentinetti,zvalentinettiax@reddit.com,Male,(96) 92431-8782,394,Crash Bash,PS,Sony Computer Entertainment,2000,Misc,1.56,1.47,0.19,0.17,3.39
+395,Ezra,Woolfall,ewoolfallay@google.nl,Male,(17) 97515-7842,395,LEGO Batman: The Videogame,X360,Warner Bros. Interactive Entertainment,2008,Action,2.03,1.03,0.00,0.32,3.38
+396,Ellie,Coleridge,ecoleridgeaz@illinois.edu,Female,(37) 92959-0214,396,Metal Gear Solid V: The Phantom Pain,PS4,Konami Digital Entertainment,2015,Action,1.08,1.35,0.48,0.47,3.38
+397,Fifi,Casewell,fcasewellb0@nps.gov,Female,(78) 91402-4335,397,The Legend of Zelda: Spirit Tracks,DS,Nintendo,2009,Action,1.43,0.94,0.74,0.27,3.38
+398,Alford,Crose,acroseb1@squarespace.com,Male,(50) 90017-9431,398,WWF War Zone,PS,Acclaim Entertainment,1998,Fighting,2.47,0.76,0.00,0.13,3.36
+399,Cortie,Blackly,cblacklyb2@buzzfeed.com,Male,(66) 94847-4575,399,The Legend of Zelda: Majora's Mask,N64,Nintendo,2000,Action,1.90,0.67,0.73,0.06,3.36
+400,Mirella,Schwant,mschwantb3@fema.gov,Female,(84) 96545-4802,400,Professor Layton and the Unwound Future,DS,Nintendo,2008,Puzzle,0.65,1.61,0.82,0.28,3.36
+401,Melli,Cuddy,mcuddyb4@bing.com,Agender,(46) 98210-3212,401,Rugrats: Search For Reptar,PS,THQ,1998,Adventure,1.63,1.53,0.00,0.18,3.34
+402,Bone,Batter,bbatterb5@myspace.com,Male,(18) 95112-7447,402,Assassin's Creed IV: Black Flag,X360,Ubisoft,2013,Action,1.90,1.14,0.01,0.29,3.34
+403,Allie,Burchnall,aburchnallb6@plala.or.jp,Polygender,(88) 99520-8656,403,English Training: Have Fun Improving Your Skills!,DS,Nintendo,2006,Misc,0.00,0.99,2.32,0.02,3.33
+404,Silvia,Sooley,ssooleyb7@etsy.com,Female,(16) 98757-6001,404,James Bond 007: Nightfire,PS2,Electronic Arts,2002,Shooter,1.45,1.29,0.12,0.46,3.33
+405,Cati,Garnar,cgarnarb8@netvibes.com,Female,(55) 93901-2889,405,Ratchet & Clank,PS2,Sony Computer Entertainment,2002,Platform,1.44,1.01,0.57,0.30,3.33
+406,Verney,Frayne,vfrayneb9@sphinn.com,Genderqueer,(56) 98977-2631,406,Mario Party 9,Wii,Nintendo,2012,Misc,1.15,1.17,0.76,0.24,3.32
+407,Odell,Woolmore,owoolmoreba@jiathis.com,Male,(25) 93618-2327,407,Star Wars Episode III: Revenge of the Sith,PS2,LucasArts,2005,Action,1.47,1.39,0.03,0.43,3.32
+408,Lillian,Nucci,lnuccibb@cbsnews.com,Female,(95) 97410-6771,408,Max Payne,PS2,Take-Two Interactive,2001,Shooter,1.99,1.05,0.05,0.22,3.31
+409,Lockwood,Gerg,lgergbc@intel.com,Male,(66) 96968-7446,409,The Lord of the Rings: The Return of the King,PS2,Electronic Arts,2003,Action,1.50,1.28,0.05,0.46,3.28
+410,Nessi,Breen,nbreenbd@tripadvisor.com,Female,(93) 92795-2157,410,Assassin's Creed Syndicate,PS4,Ubisoft,2015,Action,0.80,1.92,0.06,0.50,3.28
+411,Trude,Blaker,tblakerbe@europa.eu,Female,(72) 93912-4706,411,Destiny,XOne,Activision,2014,Shooter,2.13,0.92,0.00,0.23,3.28
+412,Orelee,Duffitt,oduffittbf@last.fm,Female,(27) 97411-9664,412,True Crime: Streets of LA,PS2,Activision,2003,Action,1.89,1.05,0.02,0.31,3.27
+413,Margi,Soldner,msoldnerbg@sakura.ne.jp,Female,(68) 90059-9918,413,Wii Music,Wii,Nintendo,2008,Misc,1.36,1.13,0.46,0.32,3.27
+414,Haydon,Manwell,hmanwellbh@google.co.jp,Non-binary,(41) 91780-7812,414,Gran Turismo (PSP),PSP,Sony Computer Entertainment,2009,Racing,0.50,1.59,0.31,0.87,3.27
+415,Tova,Hartgill,thartgillbi@accuweather.com,Female,(59) 98273-9448,415,Monster Hunter X,3DS,Capcom,2015,Action,0.25,0.19,2.78,0.04,3.26
+416,Denna,Eltune,deltunebj@usatoday.com,Female,(32) 94267-6500,416,Tekken,PS,Sony Computer Entertainment,1995,Fighting,0.95,1.30,0.77,0.22,3.24
+417,Violetta,Kneeland,vkneelandbk@ca.gov,Agender,(77) 90017-1017,417,FIFA 16,XOne,Electronic Arts,2015,Sports,0.88,2.11,0.00,0.23,3.23
+418,Kamilah,Knolles-Green,kknollesgreenbl@tinypic.com,Female,(50) 97148-6345,418,L.A. Noire,PS3,Take-Two Interactive,2011,Adventure,1.27,1.33,0.12,0.51,3.23
+419,Chase,Grubb,cgrubbbm@salon.com,Genderfluid,(54) 93387-6476,419,Madden NFL 16,PS4,Electronic Arts,2015,Sports,2.33,0.30,0.00,0.59,3.22
+420,Mark,Pitblado,mpitbladobn@infoseek.co.jp,Male,(61) 90481-7560,420,Yokai Watch 2 Ganso/Honke,3DS,Nintendo,2014,Role-Playing,0.03,0.00,3.18,0.00,3.22
+421,Ferdy,Orme,formebo@example.com,Male,(58) 91151-9905,421,007: Tomorrow Never Dies,PS,Electronic Arts,1999,Shooter,1.72,1.33,0.00,0.16,3.21
+422,Vinny,Aldrich,valdrichbp@sphinn.com,Bigender,(29) 92142-4335,422,Baseball,NES,Nintendo,1983,Sports,0.73,0.10,2.35,0.02,3.20
+423,Melody,Latus,mlatusbq@cbc.ca,Genderfluid,(89) 96460-8875,423,Killer Instinct,SNES,Nintendo,1995,Fighting,2.26,0.72,0.12,0.10,3.20
+424,Leia,Major,lmajorbr@spiegel.de,Female,(38) 96086-8535,424,WWF SmackDown! 2: Know Your Role,PS,THQ,2000,Fighting,1.76,1.21,0.07,0.16,3.20
+425,Vergil,Etherson,vethersonbs@bbb.org,Male,(65) 97970-7770,425,Crisis Core: Final Fantasy VII,PSP,Square Enix,2007,Role-Playing,1.35,0.60,0.80,0.44,3.19
+426,Bronnie,Scottini,bscottinibt@ca.gov,Male,(93) 97444-1988,426,God of War: Chains of Olympus,PSP,Sony Computer Entertainment,2008,Action,1.48,1.01,0.04,0.66,3.19
+427,Obadiah,Brok,obrokbu@sitemeter.com,Male,(28) 97124-2087,427,Dragon Quest VI: Maboroshi no Daichi,SNES,Enix Corporation,1995,Role-Playing,0.00,0.00,3.19,0.00,3.19
+428,Elise,Habden,ehabdenbv@tmall.com,Female,(63) 98372-9226,428,Dance Central,X360,MTV Games,2010,Misc,2.15,0.77,0.01,0.26,3.19
+429,Sarah,Connachan,sconnachanbw@csmonitor.com,Female,(91) 96268-6212,429,Enter the Matrix,PS2,Atari,2003,Action,1.78,1.12,0.09,0.19,3.18
+430,Brigitta,Rupp,bruppbx@bizjournals.com,Female,(42) 97404-9022,430,Super Mario Maker,WiiU,Nintendo,2015,Platform,1.18,0.87,0.93,0.20,3.18
+431,Ivory,Dockrill,idockrillby@cnet.com,Female,(37) 96872-4368,431,Fallout: New Vegas,PS3,Bethesda Softworks,2010,Role-Playing,1.52,1.08,0.10,0.47,3.17
+432,Tiler,Handlin,thandlinbz@infoseek.co.jp,Male,(94) 96064-0759,432,LEGO Batman: The Videogame,Wii,Warner Bros. Interactive Entertainment,2008,Action,1.86,1.02,0.00,0.29,3.17
+433,Neil,Tschursch,ntschurschc0@yandex.ru,Male,(82) 96055-7356,433,Rhythm Heaven,DS,Nintendo,2008,Misc,0.58,0.51,1.93,0.14,3.17
+434,Stevie,Battany,sbattanyc1@wunderground.com,Male,(15) 91445-7471,434,Ace Combat 04: Shattered Skies,PS2,Sony Computer Entertainment Europe,2001,Simulation,2.06,0.56,0.38,0.17,3.17
+435,Adeline,Iannuzzelli,aiannuzzellic2@youku.com,Female,(15) 98487-6871,435,Club Penguin: Elite Penguin Force,DS,Disney Interactive Studios,2008,Adventure,1.88,0.98,0.00,0.30,3.16
+436,Vlad,Rosenstiel,vrosenstielc3@forbes.com,Male,(78) 90839-9473,436,Animal Crossing,GC,Nintendo,2001,Simulation,1.92,0.16,0.99,0.09,3.15
+437,Sigismund,Buckerfield,sbuckerfieldc4@netvibes.com,Male,(78) 90653-2774,437,LEGO Batman: The Videogame,DS,Warner Bros. Interactive Entertainment,2008,Action,1.79,1.06,0.00,0.29,3.15
+438,Gusty,Burstowe,gburstowec5@typepad.com,Female,(37) 95327-1379,438,Sonic Rush,DS,Sega,2005,Platform,1.22,1.57,0.06,0.29,3.15
+439,Rhodia,Flippini,rflippinic6@statcounter.com,Female,(93) 90725-6631,439,Resident Evil 6,PS3,Capcom,2012,Shooter,0.88,0.97,0.88,0.42,3.15
+440,Bride,Eilles,beillesc7@tmall.com,Female,(55) 95966-7339,440,Halo: The Master Chief Collection,XOne,Microsoft Game Studios,2014,Shooter,1.89,0.99,0.03,0.24,3.15
+441,Walden,Feaver,wfeaverc8@eventbrite.com,Male,(57) 94774-7319,441,FIFA Soccer 08,PS2,Electronic Arts,2007,Sports,0.68,0.00,0.00,2.46,3.14
+442,Fredek,Garett,fgarettc9@toplist.cz,Male,(91) 98570-7644,442,Spider-Man,PS,Activision,2000,Action,1.70,1.25,0.02,0.16,3.13
+443,Nikki,Clipston,nclipstonca@arstechnica.com,Female,(23) 90212-4303,443,Need for Speed III: Hot Pursuit,PS,Electronic Arts,1998,Racing,2.14,0.86,0.00,0.13,3.12
+444,Corty,Weekley,cweekleycb@marriott.com,Male,(14) 90798-3303,444,Star Wars Episode I Racer,N64,Nintendo,1999,Racing,2.31,0.62,0.14,0.04,3.12
+445,Deloria,Been,dbeencc@indiatimes.com,Female,(49) 91007-8161,445,Personal Trainer: Cooking,DS,Nintendo,2006,Misc,0.91,1.00,1.03,0.17,3.12
+446,Celisse,Kirtlan,ckirtlancd@sphinn.com,Female,(76) 93191-1408,446,The Elder Scrolls IV: Oblivion,PS3,Ubisoft,2007,Role-Playing,1.69,0.87,0.14,0.42,3.12
+447,Katerina,Woodford,kwoodfordce@adobe.com,Female,(92) 98024-8319,447,Dragon Warrior IV,NES,Enix Corporation,1990,Role-Playing,0.08,0.00,3.03,0.01,3.12
+448,Ira,Kupisz,ikupiszcf@amazonaws.com,Female,(42) 99700-8406,448,Heavy Rain,PS3,Sony Computer Entertainment,2010,Adventure,1.29,1.27,0.06,0.50,3.12
+449,Charisse,Oller,collercg@ft.com,Female,(58) 90103-0391,449,Mass Effect 2,X360,Electronic Arts,2010,Role-Playing,1.99,0.82,0.03,0.27,3.11
+450,Luce,Di Filippo,ldifilippoch@live.com,Female,(46) 98823-6493,450,FIFA 15,X360,Electronic Arts,2014,Sports,0.78,2.02,0.00,0.30,3.11
+451,Shara,Prantl,sprantlci@canalblog.com,Female,(44) 96278-9343,451,Dragon Ball Z: Budokai,PS2,Atari,2002,Fighting,2.17,0.28,0.55,0.08,3.09
+452,Shalne,Snassell,ssnassellcj@reuters.com,Female,(99) 99344-5195,452,Madden NFL 2002,PS2,Electronic Arts,2001,Sports,2.50,0.16,0.01,0.42,3.08
+453,Rossie,Pabelik,rpabelikck@yolasite.com,Male,(40) 96555-2690,453,World Class Track Meet,NES,Namco Bandai Games,1986,Sports,1.92,0.45,0.64,0.07,3.08
+454,Eliza,Bricknall,ebricknallcl@ucsd.edu,Female,(67) 90201-6677,454,Borderlands 2,X360,Take-Two Interactive,2012,Shooter,1.89,0.91,0.04,0.24,3.07
+455,Elmira,Timperley,etimperleycm@mit.edu,Non-binary,(83) 97241-5868,455,The Legend of Zelda: A Link Between Worlds,3DS,Nintendo,2013,Action,1.40,0.99,0.46,0.22,3.07
+456,Moyra,Larmour,mlarmourcn@dot.gov,Female,(49) 95249-8392,456,Donkey Kong,GB,Nintendo,1994,Platform,1.57,0.62,0.55,0.34,3.07
+457,Alyse,Selly,asellyco@hubpages.com,Female,(92) 90054-6058,457,The Sims: Vacation,PC,Electronic Arts,2002,Simulation,1.72,1.21,0.00,0.14,3.07
+458,Grover,Benoit,gbenoitcp@bloglovin.com,Male,(58) 90531-0787,458,Mass Effect 3,X360,Electronic Arts,2012,Role-Playing,1.94,0.86,0.03,0.24,3.07
+459,Leshia,Marzelo,lmarzelocq@wikimedia.org,Female,(24) 95179-3734,459,Kung Fu Panda,X360,Activision,2008,Action,1.91,0.84,0.00,0.29,3.05
+460,Griffy,Haggeth,ghaggethcr@ameblo.jp,Male,(31) 97026-9802,460,Far Cry 3,X360,Ubisoft,2012,Shooter,1.38,1.35,0.02,0.28,3.04
+461,Donnie,Nuttall,dnuttallcs@wisc.edu,Female,(32) 92212-9619,461,Epic Mickey,Wii,Disney Interactive Studios,2010,Platform,2.06,0.64,0.12,0.22,3.04
+462,Curcio,Rappport,crappportct@google.com.br,Male,(30) 91447-4347,462,Saints Row 2,X360,THQ,2008,Action,1.94,0.80,0.02,0.27,3.03
+463,Hilliard,Suggate,hsuggatecu@shinystat.com,Male,(36) 98051-2754,463,Rayman,PS,Ubisoft,1995,Platform,1.54,1.33,0.00,0.16,3.03
+464,Raymund,Gravells,rgravellscv@liveinternet.ru,Male,(65) 98950-5508,464,Killzone 2,PS3,Sony Computer Entertainment,2009,Shooter,1.40,1.07,0.08,0.47,3.02
+465,Janifer,Rosier,jrosiercw@ucoz.ru,Bigender,(60) 98983-8209,465,Tom Clancy's Splinter Cell,XB,Ubisoft,2002,Action,1.85,1.04,0.00,0.13,3.02
+466,Devon,Klausen,dklausencx@forbes.com,Female,(52) 95805-3495,466,Mike Tyson's Punch-Out!!,NES,Nintendo,1987,Fighting,2.03,0.47,0.45,0.07,3.02
+467,Eldridge,Caldeiro,ecaldeirocy@ocn.ne.jp,Male,(29) 92126-6426,467,WWE SmackDown! Shut Your Mouth,PS2,THQ,2002,Sports,1.45,1.13,0.07,0.38,3.02
+468,Remy,Seamarke,rseamarkecz@privacy.gov.au,Female,(18) 96374-9304,468,Gears of War: Ultimate Edition,XOne,Microsoft Game Studios,2015,Shooter,2.38,0.32,0.00,0.31,3.00
+469,Nickolas,Zavattiero,nzavattierod0@elpais.com,Male,(77) 92989-1912,469,NBA 2K13,X360,Take-Two Interactive,2012,Sports,2.60,0.21,0.01,0.19,3.00
+470,Angelique,Tant,atantd1@nationalgeographic.com,Non-binary,(51) 98106-6817,470,Dragon Ball Z: Budokai Tenkaichi 3,PS2,Atari,2007,Fighting,1.15,0.00,0.76,1.09,3.00
+471,Lorenza,Simonett,lsimonettd2@usa.gov,Female,(46) 96664-4192,471,wwe Smackdown vs. Raw 2006,PS2,,2006,Fighting,1.57,1.02,0.00,0.41,3.00
+472,Niles,Wellen,nwellend3@imgur.com,Male,(17) 98746-6902,472,Middle-Earth: Shadow of Mordor,PS4,Warner Bros. Interactive Entertainment,2014,Action,1.01,1.41,0.05,0.53,2.99
+473,Lorilee,Robilliard,lrobilliardd4@barnesandnoble.com,Female,(79) 99917-3767,473,Star Fox,SNES,Nintendo,1993,Shooter,1.61,0.51,0.80,0.07,2.99
+474,Cindi,Crimin,ccrimind5@prnewswire.com,Female,(62) 95528-9188,474,The Sims: Livin Large,PC,Electronic Arts,2000,Misc,1.67,1.18,0.00,0.13,2.99
+475,Luke,Smooth,lsmoothd6@people.com.cn,Male,(34) 98810-4012,475,World Soccer Winning Eleven 6 International,PS2,Konami Digital Entertainment,2002,Sports,0.12,1.26,1.16,0.45,2.99
+476,Loria,Cadell,lcadelld7@apache.org,Polygender,(57) 91858-5751,476,Devil May Cry,PS2,Capcom,2001,Action,1.36,0.86,0.64,0.13,2.99
+477,Brooks,Vyel,bvyeld8@cnet.com,Male,(12) 92168-0130,477,Animal Crossing: Happy Home Designer,3DS,Nintendo,2015,Simulation,0.47,1.00,1.39,0.12,2.98
+478,Arabela,Dimberline,adimberlined9@bbb.org,Female,(78) 91934-4262,478,Battlefield: Bad Company 2,PS3,Electronic Arts,2010,Shooter,1.33,1.12,0.08,0.45,2.97
+479,Rod,Finlow,rfinlowda@europa.eu,Agender,(24) 97066-0169,479,The Sims 4,PC,Electronic Arts,2014,Simulation,0.96,1.72,0.00,0.29,2.97
+480,Huntley,Bryett,hbryettdb@army.mil,Male,(67) 96420-3086,480,Star Wars: The Old Republic,PC,Electronic Arts,2011,Role-Playing,1.58,1.01,0.00,0.38,2.97
+481,Bob,Robjohns,brobjohnsdc@ucoz.com,Male,(12) 90971-5882,481,Sonic Heroes,PS2,Sega,2003,Platform,1.04,1.37,0.06,0.49,2.96
+482,Kerby,Zemler,kzemlerdd@loc.gov,Male,(33) 90960-8306,482,Kirby Super Star Ultra,DS,Nintendo,2008,Platform,1.57,0.04,1.19,0.15,2.96
+483,Addie,Swainsbury,aswainsburyde@mail.ru,Male,(27) 93785-7737,483,Hitman 2: Silent Assassin,PS2,Eidos Interactive,2002,Action,1.36,1.15,0.04,0.41,2.96
+484,Hilton,Hartles,hhartlesdf@t-online.de,Male,(90) 92012-5601,484,Street Fighter IV,X360,Capcom,2009,Fighting,1.82,0.71,0.15,0.26,2.95
+485,Dannel,Romao,dromaodg@paginegialle.it,Male,(12) 96145-7822,485,Wave Race 64,N64,Nintendo,1996,Racing,1.98,0.58,0.34,0.04,2.94
+486,Rickie,Duell,rduelldh@instagram.com,Female,(92) 96458-6450,486,SOCOM II: U.S. Navy SEALs,PS2,Sony Computer Entertainment,2003,Shooter,2.22,0.51,0.06,0.15,2.94
+487,Dicky,Manie,dmaniedi@wordpress.org,Male,(81) 96835-4158,487,WWE SmackDown! vs. RAW 2006,PS2,THQ,2005,Fighting,1.45,1.11,0.04,0.33,2.94
+488,Tony,Lyttle,tlyttledj@addthis.com,Female,(20) 94476-1884,488,inFAMOUS,PS3,Sony Computer Entertainment,2009,Action,1.76,0.69,0.12,0.37,2.94
+489,Ryon,Willavize,rwillavizedk@cbsnews.com,Male,(55) 96228-7040,489,Pac-Man Collection,GBA,Atari,2001,Puzzle,2.07,0.77,0.05,0.05,2.94
+490,Shepherd,Shinn,sshinndl@istockphoto.com,Male,(32) 99859-9940,490,Mass Effect,X360,Microsoft Game Studios,2007,Role-Playing,1.83,0.80,0.03,0.27,2.93
+491,Evyn,Huzzey,ehuzzeydm@nps.gov,Male,(37) 92146-3982,491,WarioWare: Smooth Moves,Wii,Nintendo,2006,Puzzle,0.87,1.06,0.73,0.26,2.92
+492,Denys,Siemens,dsiemensdn@unesco.org,Male,(69) 94027-0276,492,Cooking Mama: Cook Off,Wii,505 Games,2007,Simulation,1.43,1.13,0.05,0.30,2.91
+493,Lou,Anglim,langlimdo@rediff.com,Female,(60) 91287-6621,493,Super Mario World 2: Yoshi's Island,GBA,Nintendo,2002,Platform,1.75,0.45,0.62,0.09,2.91
+494,Pet,Synnott,psynnottdp@usda.gov,Female,(89) 94111-3940,494,FIFA 14,PS4,Electronic Arts,2013,Sports,0.61,1.85,0.11,0.33,2.90
+495,Sandra,Killingworth,skillingworthdq@indiegogo.com,Female,(29) 90234-6008,495,Titanfall,XOne,Electronic Arts,2014,Shooter,1.84,0.80,0.04,0.22,2.90
+496,Ive,Tesmond,itesmonddr@desdev.cn,Male,(16) 99804-7964,496,Sonic Mega Collection Plus,PS2,Sega,2004,Misc,1.54,1.14,0.00,0.22,2.90
+497,Burty,Croizier,bcroizierds@foxnews.com,Male,(72) 91164-3681,497,Sega Superstars Tennis,X360,Sega,2008,Sports,1.75,0.86,0.00,0.28,2.90
+498,Elfrieda,Fader,efaderdt@boston.com,Female,(40) 92204-7957,498,World Soccer Winning Eleven 7 International,PS2,Konami Digital Entertainment,2003,Sports,0.08,1.24,1.13,0.45,2.90
+499,Kerry,Chave,kchavedu@wikipedia.org,Female,(44) 97664-8128,499,Need for Speed: Most Wanted,PS3,Electronic Arts,2012,Racing,0.71,1.51,0.06,0.61,2.89
+500,Vyky,Fanton,vfantondv@nbcnews.com,Female,(11) 93828-5380,500,Hot Shots Golf 3,PS2,Sony Computer Entertainment,2001,Sports,0.99,0.32,1.38,0.20,2.89
+501,Maggi,Leijs,mleijsdw@ow.ly,Female,(29) 97622-1916,501,Call of Duty: Finest Hour,PS2,Activision,2004,Shooter,1.51,1.12,0.01,0.24,2.89
+502,Dorthy,Tincombe,dtincombedx@list-manage.com,Genderfluid,(81) 99934-0796,502,Zumba Fitness 2,Wii,Majesco Entertainment,2011,Sports,1.54,1.07,0.00,0.28,2.88
+503,Brose,Rosenblad,brosenbladdy@examiner.com,Male,(12) 99882-6515,503,Syphon Filter,PS,Sony Computer Entertainment,1999,Shooter,2.03,0.72,0.02,0.11,2.88
+504,Durward,Wandtke,dwandtkedz@usatoday.com,Male,(91) 97963-9161,504,Imagine: Babyz,DS,Ubisoft,2007,Simulation,1.30,1.27,0.00,0.31,2.88
+505,Gerick,Glitherow,gglitherowe0@deliciousdays.com,Male,(75) 92461-5650,505,Colin McRae Rally,PS,Codemasters,1998,Racing,0.09,2.43,0.12,0.22,2.87
+506,Crysta,Nuttey,cnutteye1@cdc.gov,Female,(21) 93591-3322,506,Call of Duty: Ghosts,XOne,Activision,2013,Shooter,1.87,0.77,0.00,0.22,2.86
+507,Sarah,Tarney,starneye2@buzzfeed.com,Female,(70) 91950-4432,507,Madden NFL 13,X360,Electronic Arts,2012,Sports,2.53,0.16,0.00,0.17,2.86
+508,Daniel,Burdon,dburdone3@clickbank.net,Male,(58) 99250-3846,508,The Elder Scrolls III: Morrowind,XB,Ubisoft,2002,Role-Playing,2.09,0.63,0.03,0.11,2.86
+509,Alfred,Schechter,aschechtere4@printfriendly.com,Male,(22) 95441-7132,509,Mortal Kombat,PS3,Warner Bros. Interactive Entertainment,2011,Fighting,1.98,0.55,0.00,0.32,2.85
+510,Enoch,Sambath,esambathe5@shop-pro.jp,Male,(72) 93629-8438,510,F-Zero,SNES,Nintendo,1990,Racing,1.37,0.51,0.89,0.07,2.85
+511,Gilbertina,Verzey,gverzeye6@weather.com,Female,(95) 93785-5803,511,Yoshi's Story,N64,Nintendo,1997,Platform,1.29,0.53,0.98,0.05,2.85
+512,Brody,Chatten,bchattene7@hp.com,Male,(48) 97631-2993,512,Command & Conquer: Red Alert,PC,Virgin Interactive,1996,Strategy,1.37,1.34,0.00,0.14,2.85
+513,Anson,Bowstead,abowsteade8@joomla.org,Male,(72) 97422-9543,513,Skylanders: Spyro's Adventure,Wii,Activision,2011,Action,1.40,1.14,0.00,0.31,2.85
+514,Burt,Jollands,bjollandse9@nationalgeographic.com,Male,(98) 91085-8853,514,FIFA 16,PS3,Electronic Arts,2015,Sports,0.40,1.98,0.05,0.42,2.85
+515,Charmion,Dumsday,cdumsdayea@tinyurl.com,Female,(15) 98279-5229,515,Assassin's Creed: Brotherhood,PS3,Ubisoft,2010,Action,1.87,0.57,0.11,0.30,2.84
+516,Roana,Lyptratt,rlyptratteb@dell.com,Female,(56) 90473-9822,516,BioShock,X360,Take-Two Interactive,2007,Shooter,1.65,0.86,0.05,0.28,2.83
+517,Ora,Zylbermann,ozylbermannec@cargocollective.com,Female,(12) 93865-4914,517,Madden NFL 10,X360,Electronic Arts,2009,Sports,2.52,0.09,0.00,0.22,2.83
+518,Leeland,McGrudder,lmcgruddered@utexas.edu,Polygender,(75) 91379-9712,518,Medal of Honor,PS3,Electronic Arts,2010,Shooter,1.28,1.05,0.07,0.43,2.83
+519,Burt,Todarello,btodarelloee@webnode.com,Male,(60) 97039-0569,519,WWE SmackDown! vs. Raw,PS2,THQ,2002,Fighting,1.32,1.08,0.04,0.39,2.83
+520,Griswold,Binder,gbinderef@noaa.gov,Male,(95) 93922-7560,520,Metroid Prime,GC,Nintendo,2002,Shooter,1.96,0.67,0.10,0.09,2.82
+521,Kevan,Novill,knovilleg@auda.org.au,Male,(40) 95381-2418,521,Finding Nemo,GBA,THQ,2003,Action,1.59,1.05,0.04,0.14,2.82
+522,Faydra,Poor,fpooreh@sina.com.cn,Female,(78) 99504-2782,522,Myst,PC,Red Orb,1994,Adventure,0.02,2.79,0.00,0.00,2.81
+523,Bari,Kuschel,bkuschelei@opensource.org,Female,(13) 95181-4689,523,Need for Speed: Hot Pursuit,PS3,Electronic Arts,2010,Racing,1.05,1.25,0.03,0.48,2.81
+524,Keven,McNerlin,kmcnerlinej@woothemes.com,Male,(21) 93621-6296,524,Imagine: Fashion Designer,DS,Ubisoft,2007,Simulation,1.32,1.19,0.00,0.30,2.81
+525,Leone,McMonnies,lmcmonniesek@moonfruit.com,Female,(97) 97971-4484,525,WWE SmackDown! Here Comes the Pain,PS2,THQ,2003,Fighting,1.32,1.06,0.04,0.38,2.80
+526,Bond,Dorrance,bdorranceel@xrea.com,Male,(44) 90080-7207,526,Star Wars: The Force Unleashed,X360,LucasArts,2008,Action,1.74,0.80,0.00,0.26,2.80
+527,Lorry,Calkin,lcalkinem@aol.com,Male,(66) 97179-4874,527,Yoshi's Island DS,DS,Nintendo,2006,Platform,1.47,0.07,1.10,0.15,2.80
+528,Una,Teese,uteeseen@github.com,Bigender,(80) 93661-2052,528,Hot Shots Golf,PS,Sony Computer Entertainment,1997,Sports,0.29,0.20,2.13,0.18,2.79
+529,Hobard,Twiggins,htwigginseo@skyrock.com,Male,(35) 96697-6570,529,Killzone 3,PS3,Sony Computer Entertainment,2011,Shooter,1.45,0.88,0.09,0.38,2.79
+530,Heriberto,Bretton,hbrettonep@marriott.com,Male,(98) 95596-7326,530,A Bug's Life,PS,Sony Computer Entertainment,1998,Platform,1.96,0.72,0.00,0.11,2.79
+531,Earle,Veschambre,eveschambreeq@bravesites.com,Male,(57) 94603-2608,531,WWF SmackDown! Just Bring It,PS2,THQ,2001,Fighting,1.19,1.15,0.04,0.41,2.79
+532,Consolata,Wines,cwineser@disqus.com,Female,(14) 90158-7817,532,Dragon Quest V: Tenkuu no Hanayome,SNES,Enix Corporation,1992,Role-Playing,0.00,0.00,2.78,0.01,2.79
+533,Florella,Peoples,fpeopleses@macromedia.com,Female,(18) 90063-2198,533,Mortal Kombat Trilogy,PS,GT Interactive,1996,Fighting,1.98,0.70,0.00,0.11,2.79
+534,Eugenie,Ionnidis,eionnidiset@rambler.ru,Female,(27) 97419-2214,534,Battlefield 3,PC,Electronic Arts,2011,Shooter,0.89,1.43,0.00,0.48,2.79
+535,Roxine,Elderbrant,relderbranteu@webs.com,Female,(80) 95749-9941,535,NBA Street,PS2,Electronic Arts,2001,Sports,2.19,0.22,0.00,0.38,2.79
+536,Emmye,Rolston,erolstonev@examiner.com,Female,(67) 93166-4995,536,Professor Layton and the Last Specter,DS,Nintendo,2009,Puzzle,0.30,1.47,0.68,0.34,2.79
+537,Manolo,Bartalucci,mbartalucciew@booking.com,Male,(93) 93276-0052,537,Monster Hunter Tri,3DS,Nintendo,2011,Role-Playing,0.46,0.29,1.96,0.07,2.79
+538,Paule,Boden,pbodenex@g.co,Female,(40) 95347-1984,538,Jak II,PS2,Sony Computer Entertainment,2003,Platform,1.68,0.74,0.00,0.36,2.78
+539,Killian,Aizlewood,kaizlewoodey@hhs.gov,Male,(85) 94736-1218,539,inFAMOUS: Second Son,PS4,Sony Computer Entertainment,2014,Action,1.27,0.97,0.07,0.47,2.78
+540,Gar,Melly,gmellyez@cocolog-nifty.com,Male,(73) 91698-3249,540,Ratchet & Clank: Going Commando,PS2,Sony Computer Entertainment,2003,Platform,1.44,0.83,0.26,0.25,2.78
+541,Tonie,Mager,tmagerf0@epa.gov,Female,(16) 93940-9745,541,Tekken 6,PS3,Namco Bandai Games,2009,Fighting,1.20,0.98,0.17,0.43,2.78
+542,Josey,Farmloe,jfarmloef1@example.com,Polygender,(45) 98247-8328,542,The Sims,PS2,Electronic Arts,2003,Simulation,1.41,1.12,0.00,0.24,2.77
+543,Garik,Newland,gnewlandf2@umn.edu,Male,(72) 94471-0995,543,Sonic and the Secret Rings,Wii,Sega,2007,Platform,1.24,1.20,0.04,0.30,2.77
+544,Thatcher,Outright,toutrightf3@indiatimes.com,Male,(17) 98066-7853,544,Saints Row: The Third,X360,THQ,2011,Action,1.25,1.15,0.07,0.30,2.77
+545,Kippar,Stannis,kstannisf4@yale.edu,Male,(52) 91119-7494,545,Missile Command,2600,Atari,1980,Shooter,2.56,0.17,0.00,0.03,2.76
+546,Lucas,Aveyard,laveyardf5@cornell.edu,Male,(41) 90877-4600,546,Mario Paint,SNES,Nintendo,1992,Misc,1.43,0.54,0.71,0.07,2.75
+547,Aloin,Dri,adrif6@exblog.jp,Male,(95) 93668-3767,547,Assassin's Creed IV: Black Flag,PS4,Ubisoft,2013,Action,1.07,1.31,0.06,0.31,2.74
+548,Bondie,Littlechild,blittlechildf7@pbs.org,Male,(96) 91329-5460,548,Pokemon Stadium 2,N64,Nintendo,2000,Strategy,1.02,0.36,1.13,0.23,2.73
+549,Jordan,Youthead,jyoutheadf8@chronoengine.com,Male,(73) 94887-4757,549,Metroid,NES,Nintendo,1986,Action,1.33,0.31,1.04,0.05,2.73
+550,Allsun,Gorhardt,agorhardtf9@salon.com,Female,(86) 94407-8509,550,L.A. Noire,X360,Take-Two Interactive,2011,Adventure,1.52,0.94,0.02,0.24,2.72
+551,Garrard,O'Doran,godoranfa@state.gov,Male,(77) 98640-4049,551,Call of Duty 3,X360,Activision,2006,Shooter,1.49,0.93,0.02,0.27,2.71
+552,Elle,Broader,ebroaderfb@nyu.edu,Female,(59) 93171-4339,552,The Legend of Zelda: A Link to the Past,GBA,Nintendo,2002,Action,1.75,0.52,0.33,0.10,2.70
+553,Standford,Mcwhinney,smcwhinneyfc@cdc.gov,Male,(88) 92437-9282,553,Onimusha: Warlords,PS2,Virgin Interactive,2001,Action,0.99,0.48,1.09,0.14,2.70
+554,Ciel,Booy,cbooyfd@phoca.cz,Female,(81) 91990-0329,554,Mortal Kombat X,PS4,Warner Bros. Interactive Entertainment,2015,Fighting,1.47,0.76,0.00,0.47,2.70
+555,Torr,Chudleigh,tchudleighfe@mashable.com,Male,(71) 96134-1190,555,Mario Party,N64,Nintendo,1998,Misc,1.25,0.53,0.87,0.05,2.70
+556,Ritchie,Junkin,rjunkinff@washington.edu,Male,(94) 91512-4451,556,Madden NFL 12,X360,Electronic Arts,2011,Sports,2.42,0.11,0.00,0.16,2.69
+557,Donall,Thewless,dthewlessfg@japanpost.jp,Male,(84) 96787-4450,557,LEGO Star Wars II: The Original Trilogy,PS2,LucasArts,2006,Action,1.85,0.64,0.01,0.19,2.69
+558,Harris,Radeliffe,hradeliffefh@51.la,Male,(27) 97751-2214,558,Madden NFL 11,X360,Electronic Arts,2010,Sports,2.38,0.12,0.00,0.18,2.69
+559,Cathee,Gladwish,cgladwishfi@pen.io,Female,(42) 95561-5758,559,Mario vs. Donkey Kong: Mini-Land Mayhem!,DS,Nintendo,2010,Puzzle,1.63,0.52,0.35,0.18,2.69
+560,Wendye,Frayn,wfraynfj@globo.com,Female,(55) 98543-4520,560,Skate 3,X360,Electronic Arts,2010,Sports,1.46,0.98,0.00,0.24,2.68
+561,Gris,Iozefovich,giozefovichfk@biglobe.ne.jp,Male,(36) 92390-4906,561,Burnout 3: Takedown,PS2,Electronic Arts,2004,Racing,1.23,1.11,0.00,0.34,2.68
+562,Lindsay,Bohje,lbohjefl@seattletimes.com,Female,(84) 99949-9590,562,Yokai Watch 2 Shinuchi,3DS,Level 5,2014,Role-Playing,0.00,0.00,2.68,0.00,2.68
+563,Judi,Vaughton,jvaughtonfm@trellian.com,Female,(89) 99116-9819,563,Need for Speed: Shift,PS3,Electronic Arts,2009,Racing,0.69,1.41,0.04,0.53,2.68
+564,Heddi,Awcock,hawcockfn@ca.gov,Female,(73) 93560-6215,564,Final Fantasy XIII-2,PS3,Square Enix,2011,Role-Playing,0.78,0.75,0.89,0.26,2.68
+565,Veronique,Caldecot,vcaldecotfo@unblog.fr,Bigender,(30) 97986-7122,565,Mortal Kombat,GEN,Arena Entertainment,1992,Fighting,1.95,0.63,0.00,0.09,2.67
+566,Nickey,Hattoe,nhattoefp@timesonline.co.uk,Male,(39) 91718-1049,566,Call Of Duty 2: Big Red One,PS2,Activision,2005,Shooter,1.48,0.92,0.01,0.26,2.67
+567,Vanni,Beavis,vbeavisfq@instagram.com,Female,(23) 98110-2765,567,Guitar Hero: World Tour,X360,Activision,2008,Misc,1.78,0.64,0.00,0.25,2.67
+568,Parrnell,Ziemens,pziemensfr@newyorker.com,Male,(67) 98313-0018,568,Medal of Honor,PS,Electronic Arts,1998,Shooter,1.44,1.09,0.00,0.14,2.67
+569,Teressa,McCaig,tmccaigfs@vk.com,Female,(54) 91512-1759,569,Fable,XB,Microsoft Game Studios,2004,Role-Playing,1.99,0.58,0.00,0.09,2.66
+570,Gaultiero,Hume,ghumeft@marketwatch.com,Male,(39) 94166-3487,570,Hannah Montana,DS,Disney Interactive Studios,2006,Action,1.59,0.80,0.00,0.26,2.65
+571,Fredek,Durban,fdurbanfu@over-blog.com,Male,(37) 95950-2069,571,Tom Clancy's Splinter Cell,PS2,Ubisoft,2003,Action,1.15,1.11,0.00,0.40,2.65
+572,Star,Degg,sdeggfv@cdc.gov,Female,(71) 98594-4309,572,Skylanders Giants,Wii,Activision,2012,Action,1.56,0.88,0.00,0.22,2.65
+573,Jeralee,Mc Corley,jmccorleyfw@rediff.com,Female,(31) 98139-7644,573,Medal of Honor Heroes,PSP,Electronic Arts,2006,Shooter,0.86,1.11,0.01,0.66,2.65
+574,Aprilette,Allflatt,aallflattfx@reverbnation.com,Female,(86) 90135-4436,574,Super Mario Bros.: The Lost Levels,NES,Nintendo,1986,Platform,0.00,0.00,2.65,0.00,2.65
+575,Esme,Leebetter,eleebetterfy@google.fr,Female,(77) 99036-2224,575,Star Wars: Shadows of the Empire,N64,Nintendo,1996,Action,2.00,0.50,0.12,0.03,2.65
+576,Joell,Congram,jcongramfz@sfgate.com,Female,(68) 92395-6865,576,LEGO Star Wars: The Complete Saga,X360,LucasArts,2007,Action,1.53,0.87,0.00,0.24,2.64
+577,Felike,Bryett,fbryettg0@upenn.edu,Male,(29) 93735-6079,577,Midnight Club: Street Racing,PS2,Take-Two Interactive,2000,Racing,2.00,0.47,0.02,0.14,2.63
+578,Stormy,Sterley,ssterleyg1@techcrunch.com,Female,(63) 90760-7036,578,Pac-Man: Adventures in Time,PSP,Sony Computer Entertainment,2006,Fighting,0.76,1.10,0.12,0.65,2.63
+579,Konstantin,Demcik,kdemcikg2@ning.com,Male,(47) 98124-8742,579,Halo Wars,X360,Microsoft Game Studios,2009,Strategy,1.53,0.82,0.04,0.24,2.63
+580,Wainwright,Asche,wascheg3@jugem.jp,Male,(67) 98202-3501,580,God of War Collection,PS3,Sony Computer Entertainment,2009,Action,1.70,0.46,0.06,0.41,2.63
+581,Adelheid,Cotter,acotterg4@edublogs.org,Female,(97) 90254-5106,581,ESPN NFL 2K5,PS2,Sega,2004,Sports,2.15,0.12,0.00,0.36,2.62
+582,Wynn,Aleksandrev,waleksandrevg5@facebook.com,Male,(89) 93516-2414,582,Mario Strikers Charged,Wii,Nintendo,2007,Sports,1.07,1.06,0.24,0.25,2.62
+583,Chev,Puve,cpuveg6@columbia.edu,Male,(16) 91788-2302,583,Medal of Honor,X360,Electronic Arts,2010,Shooter,1.55,0.81,0.04,0.21,2.62
+584,Dara,Egarr,degarrg7@ameblo.jp,Bigender,(92) 96326-5708,584,FIFA Soccer 10,X360,Electronic Arts,2009,Sports,0.59,1.79,0.01,0.23,2.62
+585,Gerrie,Elland,gellandg8@xing.com,Male,(15) 92810-0022,585,NBA 2K12,X360,Take-Two Interactive,2011,Sports,2.31,0.14,0.01,0.16,2.62
+586,Timoteo,Landsborough,tlandsboroughg9@ted.com,Male,(60) 95028-0490,586,Style Savvy,DS,Nintendo,2008,Simulation,0.63,0.84,0.96,0.19,2.61
+587,Sallyanne,Perfili,sperfiliga@whitehouse.gov,Female,(51) 94763-2059,587,Harry Potter and the Chamber of Secrets,PS2,Electronic Arts,2002,Action,0.90,1.22,0.04,0.44,2.61
+588,Barrie,Exposito,bexpositogb@bluehost.com,Female,(23) 97746-9623,588,Super Mario All-Stars: Limited Edition,Wii,Nintendo,2010,Platform,1.02,0.52,0.92,0.14,2.60
+589,Saundra,Hartopp,shartoppgc@apache.org,Female,(85) 91286-8409,589,Streets of Rage,GEN,Sega,1990,Action,1.86,0.55,0.11,0.08,2.60
+590,Adoree,Ronald,aronaldgd@delicious.com,Female,(66) 90578-2377,590,FIFA Soccer 09,PS3,Electronic Arts,2008,Sports,0.48,1.63,0.04,0.43,2.59
+591,Paxon,Lummus,plummusge@csmonitor.com,Male,(97) 93233-1058,591,Ratchet & Clank Future: Tools of Destruction,PS3,Sony Computer Entertainment,2007,Platform,0.93,1.12,0.08,0.45,2.59
+592,Arel,Skellington,askellingtongf@imgur.com,Polygender,(58) 98587-0970,592,NBA Live 2005,PS2,Electronic Arts,2004,Sports,2.03,0.21,0.00,0.35,2.59
+593,Jephthah,Perrygo,jperrygogg@google.ru,Male,(59) 90990-5198,593,LittleBigPlanet,PSP,Sony Computer Entertainment,2009,Platform,0.64,1.24,0.01,0.69,2.58
+594,Teri,Klimowski,tklimowskigh@ucoz.ru,Female,(17) 97948-8758,594,Killzone: Shadow Fall,PS4,Sony Computer Entertainment,2013,Shooter,0.89,1.33,0.07,0.28,2.58
+595,Gerek,Gravener,ggravenergi@addthis.com,Male,(44) 97308-9962,595,Ghostbusters: The Video Game (DS Version),X360,Take-Two Interactive,2009,Action,1.04,1.24,0.03,0.27,2.58
+596,Cicily,Cheetam,ccheetamgj@craigslist.org,Female,(78) 98639-5719,596,Monster Hunter Freedom 2,PSP,Capcom,2007,Role-Playing,0.37,0.27,1.75,0.18,2.58
+597,Panchito,Zanetello,pzanetellogk@earthlink.net,Male,(54) 97905-7777,597,WWE SmackDown vs. RAW 2007,PS2,THQ,2006,Fighting,1.40,0.88,0.03,0.26,2.58
+598,Josefina,McClory,jmcclorygl@w3.org,Female,(81) 90374-5663,598,Ratchet & Clank: Up Your Arsenal,PS2,Sony Computer Entertainment,2004,Platform,1.31,0.74,0.31,0.22,2.57
+599,Granville,Withull,gwithullgm@hostgator.com,Genderfluid,(67) 95942-2048,599,Art Academy,DS,Nintendo,2010,Misc,0.28,1.68,0.33,0.28,2.57
+600,Lloyd,Eastmead,leastmeadgn@umn.edu,Male,(93) 99589-6053,600,Dragon Age: Origins,X360,Electronic Arts,2009,Role-Playing,1.76,0.56,0.03,0.22,2.57
+601,Ewart,Huguet,ehuguetgo@yelp.com,Polygender,(96) 91639-4419,601,Madden NFL 08,PS2,Electronic Arts,2007,Sports,2.14,0.08,0.00,0.35,2.57
+602,Lenka,Furnell,lfurnellgp@fastcompany.com,Female,(74) 98870-6439,602,Sonic Adventure 2 Battle,GC,Sega,2001,Platform,1.70,0.59,0.21,0.07,2.56
+603,Gardner,Jaycocks,gjaycocksgq@umich.edu,Male,(45) 92153-7222,603,Dragon Warrior II,NES,Enix Corporation,1987,Role-Playing,0.15,0.00,2.41,0.00,2.56
+604,Anstice,Philimore,aphilimoregr@bloglines.com,Female,(53) 90269-7348,604,Madden NFL 13,PS3,Electronic Arts,2012,Sports,2.11,0.23,0.00,0.22,2.56
+605,Cheryl,Silveston,csilvestongs@japanpost.jp,Female,(33) 99066-0240,605,Pokémon Colosseum,GC,Nintendo,2003,Role-Playing,1.21,0.57,0.70,0.07,2.54
+606,Josephina,Nowill,jnowillgt@usnews.com,Female,(93) 97991-1949,606,Deca Sports,Wii,Konami Digital Entertainment,2008,Sports,1.13,0.87,0.29,0.25,2.54
+607,Coreen,Thurby,cthurbygu@un.org,Female,(63) 91124-6201,607,Madden NFL 09,X360,Electronic Arts,2008,Sports,2.21,0.12,0.00,0.20,2.54
+608,Kimmi,Melledy,kmelledygv@hostgator.com,Female,(11) 99054-0498,608,Space Invaders,2600,Atari,1978,Shooter,2.36,0.14,0.00,0.03,2.53
+609,Holly,Roberts,hrobertsgw@jimdo.com,Male,(95) 91807-7784,609,Crazy Taxi,PS2,Acclaim Entertainment,2001,Racing,1.13,1.12,0.06,0.22,2.52
+610,Idell,Adamik,iadamikgx@home.pl,Female,(68) 97954-6390,610,Perfect Dark,N64,Nintendo,2000,Action,1.55,0.75,0.16,0.06,2.52
+611,Marnie,Exrol,mexrolgy@hhs.gov,Female,(52) 90469-1107,611,Game Party,Wii,Midway Games,2007,Misc,1.50,0.78,0.00,0.24,2.52
+612,Allie,Thonason,athonasongz@disqus.com,Female,(38) 97172-2102,612,Dragon Warrior,NES,Capcom,1986,Role-Playing,0.49,0.00,0.52,1.51,2.52
+613,Llywellyn,Lees,lleesh0@reuters.com,Male,(57) 98751-4209,613,Tomb Raider (2013),PS3,Square Enix,2013,Action,0.60,1.31,0.08,0.52,2.51
+614,Winthrop,Trasler,wtraslerh1@jalbum.net,Male,(79) 91136-6997,614,Marvel: Ultimate Alliance,X360,Activision,2006,Role-Playing,2.29,0.02,0.00,0.19,2.50
+615,Callean,Milesop,cmilesoph2@kickstarter.com,Male,(64) 93580-6119,615,PES 2009: Pro Evolution Soccer,PS2,Konami Digital Entertainment,2008,Sports,0.13,0.07,0.26,2.05,2.50
+616,Stanford,Abramin,sabraminh3@tumblr.com,Male,(92) 93007-1585,616,Mario Party 2,N64,Nintendo,1999,Misc,1.28,0.14,1.08,0.01,2.50
+617,Gregoire,Speeding,gspeedingh4@discuz.net,Genderqueer,(44) 91186-0193,617,Saints Row: The Third,PS3,THQ,2011,Action,0.86,1.06,0.18,0.39,2.49
+618,Marci,Alliker,mallikerh5@wiley.com,Female,(11) 95842-8664,618,Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City,XB,Take-Two Interactive,2003,Action,1.84,0.56,0.00,0.09,2.49
+619,Aymer,Power,apowerh6@surveymonkey.com,Polygender,(47) 91304-1794,619,LEGO Harry Potter: Years 1-4,Wii,Warner Bros. Interactive Entertainment,2010,Action,1.29,0.97,0.00,0.23,2.49
+620,Miquela,Alvey,malveyh7@hc360.com,Female,(23) 91650-9040,620,Mortal Kombat: Deadly Alliance,PS2,Midway Games,2002,Fighting,1.81,0.52,0.00,0.15,2.49
+621,Dewie,Dawid,ddawidh8@php.net,Male,(93) 93134-8611,621,Resistance 2,PS3,Sony Computer Entertainment,2008,Shooter,1.15,0.85,0.10,0.39,2.48
+622,Lorettalorna,Trill,ltrillh9@lycos.com,Female,(47) 96575-9017,622,Pure,X360,Disney Interactive Studios,2008,Racing,1.38,0.85,0.00,0.25,2.48
+623,Mae,Tomley,mtomleyha@pcworld.com,Female,(16) 95135-2773,623,Tomb Raider: The Last Revelation,PS,Eidos Interactive,1998,Action,1.15,1.14,0.06,0.13,2.48
+624,Morten,Persicke,mpersickehb@sun.com,Male,(68) 90891-8014,624,NBA 2K13,PS3,Take-Two Interactive,2012,Sports,1.72,0.44,0.05,0.27,2.48
+625,Bond,Sahnow,bsahnowhc@miibeian.gov.cn,Male,(69) 98765-9111,625,Rock Band,X360,Electronic Arts,2009,Misc,1.93,0.34,0.00,0.21,2.48
+626,Les,Hare,lharehd@mozilla.com,Male,(12) 99796-7762,626,NBA 2K14,X360,Take-Two Interactive,2013,Sports,2.10,0.20,0.00,0.17,2.47
+627,Tawnya,Lafond,tlafondhe@simplemachines.org,Female,(54) 98035-2556,627,Mario Party 4,GC,Nintendo,2002,Misc,1.13,0.36,0.92,0.07,2.47
+628,Angie,Lorking,alorkinghf@latimes.com,Male,(82) 95480-1324,628,uDraw Studio,Wii,THQ,2010,Misc,1.67,0.58,0.00,0.20,2.46
+629,Fulvia,Siviour,fsiviourhg@ow.ly,Female,(14) 99058-6981,629,Midnight Club: Los Angeles,PS3,Take-Two Interactive,2008,Racing,1.55,0.54,0.05,0.31,2.45
+630,Bab,O'Duane,boduanehh@privacy.gov.au,Female,(41) 93761-7480,630,Final Fantasy V,SNES,SquareSoft,1992,Role-Playing,0.00,0.00,2.43,0.02,2.45
+631,Gunther,Prettyjohn,gprettyjohnhi@nyu.edu,Genderqueer,(22) 94449-3090,631,Final Fantasy Tactics,PS,SquareSoft,1997,Role-Playing,0.93,0.12,1.34,0.06,2.45
+632,Kamilah,Aysh,kayshhj@accuweather.com,Female,(44) 98889-4920,632,Twisted Metal 2,PS,Sony Computer Entertainment,1996,Racing,2.12,0.25,0.00,0.07,2.44
+633,Loren,Warbey,lwarbeyhk@g.co,Male,(12) 95103-8182,633,Halo: Combat Evolved Anniversary,X360,Microsoft Game Studios,2011,Shooter,1.44,0.73,0.04,0.22,2.44
+634,Kaylil,Jesson,kjessonhl@icq.com,Genderfluid,(41) 98375-7323,634,Need for Speed Carbon: Own the City,PSP,Electronic Arts,2006,Racing,0.87,0.98,0.00,0.59,2.44
+635,Kirsten,Jenicke,kjenickehm@uiuc.edu,Female,(91) 92372-3756,635,The Sims: Bustin' Out,PS2,Electronic Arts,2003,Simulation,1.07,1.19,0.00,0.18,2.43
+636,Thomasina,Broxton,tbroxtonhn@tuttocitta.it,Genderfluid,(82) 97530-0038,636,Riven: The Sequel to Myst,PC,Red Orb,1997,Adventure,1.52,0.82,0.00,0.10,2.43
+637,Junie,Rounsefull,jrounsefullho@engadget.com,Female,(18) 92819-7635,637,Tom Clancy's Rainbow Six: Vegas 2,X360,Ubisoft,2008,Shooter,1.56,0.61,0.02,0.23,2.42
+638,Dena,O'Spillane,dospillanehp@oracle.com,Genderqueer,(35) 93514-2753,638,Sonic Adventure,DC,Sega,1998,Platform,1.26,0.61,0.46,0.08,2.42
+639,Rafaelita,Markovich,rmarkovichhq@yellowpages.com,Genderqueer,(45) 97021-2935,639,Ice Hockey,NES,Nintendo,1988,Sports,1.27,0.32,0.78,0.05,2.42
+640,Berkie,Jell,bjellhr@dailymotion.com,Male,(46) 95553-7154,640,pro evolution soccer 2011,PS3,Konami Digital Entertainment,2010,Sports,0.29,1.18,0.54,0.41,2.42
+641,Verina,Logesdale,vlogesdalehs@sitemeter.com,Female,(72) 97023-1316,641,Dragon Ball Z: Budokai 2,PS2,Atari,2003,Fighting,1.63,0.22,0.51,0.06,2.41
+642,Leslie,Scullin,lscullinht@yahoo.com,Male,(15) 97534-0506,642,ATV Offroad Fury,PS2,Sony Computer Entertainment,2001,Racing,2.07,0.26,0.00,0.08,2.41
+643,Virginia,Wapplington,vwapplingtonhu@cdbaby.com,Female,(69) 98595-2106,643,Dino Crisis,PS,Capcom,1998,Action,0.81,0.76,0.70,0.14,2.41
+644,Curcio,Philimore,cphilimorehv@boston.com,Male,(35) 92946-2341,644,Minecraft,XOne,Microsoft Game Studios,2014,Misc,1.43,0.76,0.00,0.22,2.41
+645,Avigdor,Trahair,atrahairhw@senate.gov,Male,(81) 98113-7051,645,Need for Speed: ProStreet,PS2,Electronic Arts,2007,Racing,0.69,0.00,0.04,1.68,2.41
+646,Steven,Toppes,stoppeshx@symantec.com,Male,(66) 94656-5754,646,Madden NFL 16,XOne,Electronic Arts,2015,Sports,2.07,0.08,0.00,0.26,2.40
+647,Ashley,Revington,arevingtonhy@bizjournals.com,Male,(93) 93367-3583,647,Tetris Plus,PS,JVC,1996,Puzzle,2.10,0.24,0.00,0.07,2.40
+648,Kaela,Pointer,kpointerhz@cbsnews.com,Female,(84) 96376-7919,648,Pro Wrestling,NES,Nintendo,1987,Fighting,0.77,0.18,1.42,0.03,2.40
+649,Gibb,Ronan,gronani0@ustream.tv,Male,(99) 91833-6714,649,Theme Hospital,PC,Electronic Arts,1997,Strategy,2.30,0.10,0.00,0.00,2.40
+650,Olivie,Elwood,oelwoodi1@de.vu,Female,(21) 99938-2838,650,Frogger's Adventures: Temple of the Frog,GBA,Konami Digital Entertainment,2001,Adventure,2.15,0.18,0.00,0.07,2.39
+651,Florrie,Bartolini,fbartolinii2@bloomberg.com,Female,(86) 96347-2404,651,Need for Speed (2015),PS4,Electronic Arts,2015,Racing,0.49,1.49,0.05,0.36,2.39
+652,Stillmann,Mathy,smathyi3@washington.edu,Male,(49) 90695-3795,652,Zumba Fitness,X360,505 Games,2010,Sports,1.74,0.48,0.00,0.18,2.39
+653,Toddie,Josefovic,tjosefovici4@si.edu,Male,(62) 92176-9066,653,LEGO Indiana Jones: The Original Adventures,Wii,LucasArts,2008,Action,1.54,0.63,0.00,0.22,2.39
+654,Daffi,Farfolomeev,dfarfolomeevi5@exblog.jp,Female,(90) 98417-8947,654,Monopoly,PC,Hasbro Interactive,1994,Misc,1.49,0.81,0.00,0.10,2.39
+655,Doreen,Jagson,djagsoni6@dot.gov,Female,(38) 98474-2315,655,Batman: Arkham Origins,PS3,Warner Bros. Interactive Entertainment,2013,Action,1.07,0.87,0.04,0.40,2.39
+656,Ingemar,Sidebotton,isidebottoni7@umn.edu,Male,(78) 97417-4798,656,Dead Island,X360,Deep Silver,2011,Action,1.48,0.71,0.00,0.20,2.39
+657,Tyne,Tapenden,ttapendeni8@wikispaces.com,Genderqueer,(59) 98905-4561,657,Guitar Hero,PS2,RedOctane,2005,Misc,1.67,0.61,0.03,0.07,2.38
+658,Felix,Grcic,fgrcici9@technorati.com,Male,(71) 93873-4110,658,LEGO Star Wars: The Complete Saga,PS3,LucasArts,2007,Action,1.02,0.97,0.00,0.39,2.38
+659,Reuven,Peverell,rpeverellia@com.com,Male,(66) 92065-1878,659,Kinect: Disneyland Adventures,X360,Microsoft Game Studios,2011,Misc,1.73,0.46,0.02,0.18,2.38
+660,Humfrey,Commin,hcomminib@weebly.com,Male,(22) 95463-6872,660,WCW/nWo Revenge,N64,THQ,1998,Fighting,1.94,0.39,0.03,0.02,2.38
+661,Constancy,Ballinger,cballingeric@macromedia.com,Female,(22) 90589-4389,661,Bloodborne,PS4,Sony Computer Entertainment,2015,Action,1.00,0.76,0.26,0.36,2.38
+662,Jo ann,Franzettoini,jfranzettoiniid@mashable.com,Female,(95) 99399-6481,662,NBA 2K15,PS4,Take-Two Interactive,2014,Sports,1.46,0.54,0.01,0.37,2.38
+663,Salmon,Cheesley,scheesleyie@yellowpages.com,Male,(94) 99118-3320,663,Madden NFL 11,PS3,Electronic Arts,2010,Sports,2.04,0.15,0.00,0.19,2.38
+664,Diana,Rosewell,drosewellif@oracle.com,Female,(99) 95832-0915,664,Yu-Gi-Oh! The Duelists of the Roses,PS2,Konami Digital Entertainment,2001,Misc,1.16,0.91,0.00,0.30,2.38
+665,Marjy,Dun,mdunig@ehow.com,Female,(32) 97107-3440,665,Madden NFL 08,X360,Electronic Arts,2007,Sports,2.18,0.01,0.00,0.18,2.37
+666,Agretha,Swaby,aswabyih@springer.com,Female,(36) 92792-0987,666,Half-Life 2,PC,Vivendi Games,2004,Shooter,2.28,0.02,0.08,0.00,2.37
+667,Gaynor,Loblie,globlieii@jalbum.net,Female,(86) 90369-6201,667,The Incredibles,PS2,THQ,2004,Action,0.96,1.08,0.04,0.30,2.37
+668,Fredia,Jopling,fjoplingij@nih.gov,Female,(99) 96319-6288,668,Tony Hawk's Underground 2,PS2,Activision,2004,Sports,1.25,0.86,0.01,0.26,2.37
+669,Sheila,Rollin,srollinik@eepurl.com,Female,(70) 93753-8143,669,Madden NFL 10,PS3,Electronic Arts,2009,Sports,2.03,0.13,0.00,0.21,2.37
+670,Vivianna,Flaune,vflauneil@google.ru,Female,(32) 92229-4396,670,Kinect Sports: Season Two,X360,Microsoft Game Studios,2011,Sports,1.38,0.74,0.02,0.22,2.36
+671,Ninnetta,Peasey,npeaseyim@behance.net,Female,(65) 91565-4501,671,Kirby's Dream Land 2,GB,Nintendo,1995,Platform,0.69,0.14,1.48,0.05,2.36
+672,Bee,Giovannacci,bgiovannacciin@networksolutions.com,Female,(51) 97380-3408,672,LEGO Harry Potter: Years 1-4,DS,Warner Bros. Interactive Entertainment,2010,Action,1.07,1.05,0.00,0.23,2.35
+673,Harley,Risbrough,hrisbroughio@ucoz.ru,Female,(83) 90333-1802,673,Donkey Kong Land II,GB,Nintendo,1996,Platform,1.39,0.48,0.40,0.08,2.35
+674,Hodge,Brogini,hbroginiip@cocolog-nifty.com,Male,(56) 91649-9462,674,Dragon Warrior Monsters,GB,Eidos Interactive,1998,Role-Playing,0.00,0.00,2.34,0.01,2.35
+675,Nathaniel,Labbet,nlabbetiq@macromedia.com,Male,(62) 98584-5355,675,Midnight Club: Los Angeles,X360,Take-Two Interactive,2008,Racing,1.68,0.46,0.01,0.20,2.35
+676,Buckie,Arthars,bartharsir@newsvine.com,Agender,(62) 98860-0317,676,Skylanders SWAP Force,Wii,Activision,2013,Platform,1.32,0.83,0.00,0.20,2.34
+677,Erasmus,Beswell,ebeswellis@toplist.cz,Male,(37) 97254-3979,677,WWE SmackDown vs Raw 2008,PS2,THQ,2007,Fighting,0.92,0.00,0.01,1.41,2.34
+678,Roselia,Johanchon,rjohanchonit@reverbnation.com,Female,(68) 91771-9820,678,My Fitness Coach,Wii,Ubisoft,2008,Sports,1.20,0.90,0.00,0.24,2.34
+679,Maximo,Clementet,mclementetiu@microsoft.com,Male,(15) 97376-9733,679,Resident Evil - Code: Veronica X,PS2,Capcom,2001,Action,1.08,0.70,0.34,0.21,2.34
+680,Giana,Toun,gtouniv@businessweek.com,Genderqueer,(63) 98471-9284,680,The Sims 3,X360,Electronic Arts,2010,Simulation,1.27,0.86,0.00,0.20,2.33
+681,Killie,Pendlington,kpendlingtoniw@barnesandnoble.com,Male,(87) 98534-7418,681,The Legend of Zelda: Majora's Mask 3D,3DS,Nintendo,2015,Action,1.14,0.54,0.47,0.17,2.32
+682,Quinlan,Perceval,qpercevalix@jugem.jp,Male,(48) 93208-1472,682,NBA 2K16,XOne,Take-Two Interactive,2015,Sports,1.93,0.14,0.00,0.24,2.32
+683,Penrod,Staley,pstaleyiy@networksolutions.com,Male,(64) 95022-1780,683,Just Dance Kids,Wii,Ubisoft,2010,Misc,1.57,0.56,0.00,0.19,2.32
+684,Brunhilde,Blair,bblairiz@parallels.com,Female,(98) 92638-8367,684,Mario Tennis,N64,Nintendo,2000,Sports,0.78,0.40,1.06,0.07,2.32
+685,Mayne,Fingleton,mfingletonj0@bbc.co.uk,Male,(32) 97857-5333,685,Grand Theft Auto,PS,Take-Two Interactive,1997,Action,0.79,1.35,0.04,0.14,2.32
+686,Trace,Climie,tclimiej1@51.la,Male,(59) 99049-4255,686,James Bond 007: Everything or Nothing,PS2,Electronic Arts,2004,Shooter,0.85,1.06,0.09,0.32,2.31
+687,Inez,Fernan,ifernanj2@zdnet.com,Female,(12) 90350-8010,687,WarioWare Touched!,DS,Nintendo,2004,Puzzle,0.52,0.45,1.21,0.13,2.31
+688,Addi,Kadar,akadarj3@illinois.edu,Female,(59) 91975-9036,688,Need For Speed: High Stakes,PS,Electronic Arts,1999,Racing,1.58,0.64,0.00,0.09,2.31
+689,Barbie,McCleverty,bmcclevertyj4@utexas.edu,Female,(74) 93207-0877,689,Chrono Trigger,SNES,SquareSoft,1995,Role-Playing,0.28,0.00,2.02,0.01,2.31
+690,Gabriele,Thorlby,gthorlbyj5@dell.com,Male,(51) 95271-5058,690,Cool Boarders 3,PS,989 Studios,1998,Sports,1.65,0.46,0.10,0.10,2.31
+691,Madalyn,Barbery,mbarberyj6@networksolutions.com,Female,(64) 90583-2635,691,LEGO Marvel Super Heroes,X360,Warner Bros. Interactive Entertainment,2013,Action,1.24,0.85,0.00,0.21,2.30
+692,Desmund,Leinthall,dleinthallj7@desdev.cn,Male,(27) 98025-5798,692,Guild Wars 2,PC,NCSoft,2012,Action,0.95,1.06,0.00,0.29,2.30
+693,Bruis,Tavinor,btavinorj8@barnesandnoble.com,Agender,(59) 95282-2978,693,Pokemon Ranger: Shadows of Almia,DS,Nintendo,2008,Role-Playing,0.95,0.54,0.62,0.18,2.30
+694,Willard,Pherps,wpherpsj9@creativecommons.org,Male,(96) 99590-9522,694,Dead Island,PS3,Deep Silver,2011,Action,1.08,0.75,0.15,0.31,2.29
+695,Ebba,Keig,ekeigja@theatlantic.com,Female,(91) 91399-2347,695,Tomb Raider II,PC,Eidos Interactive,1997,Action,0.91,1.25,0.00,0.13,2.29
+696,Eleen,Rainforth,erainforthjb@photobucket.com,Female,(15) 99572-3536,696,God of War: Ascension,PS3,Sony Computer Entertainment,2013,Action,1.23,0.68,0.04,0.34,2.29
+697,Melosa,Wilhelmy,mwilhelmyjc@scientificamerican.com,Non-binary,(74) 97772-3195,697,Need for Speed Underground 2,XB,Electronic Arts,2004,Racing,1.38,0.80,0.00,0.10,2.28
+698,Daryl,Camelin,dcamelinjd@i2i.jp,Male,(78) 90585-3074,698,Pro Evolution Soccer 2010,PS3,Konami Digital Entertainment,2009,Sports,0.30,1.27,0.46,0.26,2.28
+699,Price,Leber,pleberje@imgur.com,Male,(74) 93840-9611,699,Just Dance 2015,Wii,Ubisoft,2014,Misc,1.11,0.98,0.00,0.20,2.28
+700,Kaleena,Ross,krossjf@discuz.net,Bigender,(91) 98244-7939,700,Yokai Watch Busters,3DS,Level 5,2015,Action,0.00,0.00,2.28,0.00,2.28
+701,Felicdad,Egre,fegrejg@icq.com,Female,(46) 92091-8491,701,Mario Bros.,NES,Nintendo,1983,Platform,0.51,0.12,1.63,0.02,2.28
+702,Brooke,Dexter,bdexterjh@wordpress.com,Male,(45) 94865-7054,702,FIFA Soccer 09,PS2,Electronic Arts,2008,Sports,0.38,0.07,0.01,1.82,2.28
+703,Simmonds,Goldbourn,sgoldbournji@mayoclinic.com,Male,(88) 93439-8267,703,Star Wars: The Force Unleashed,PS3,LucasArts,2008,Action,1.01,0.90,0.00,0.37,2.28
+704,Judah,Scroggie,jscroggiejj@cdbaby.com,Male,(22) 90524-4595,704,Borderlands 2,PS3,Take-Two Interactive,2012,Shooter,1.05,0.77,0.10,0.36,2.28
+705,Amandie,Gantley,agantleyjk@webnode.com,Polygender,(41) 98476-7974,705,TOCA Touring Car Championship,PS,Codemasters,1997,Racing,0.07,2.00,0.02,0.18,2.28
+706,Adair,Dolling,adollingjl@yahoo.co.jp,Male,(14) 90655-5913,706,Paper Mario: Sticker Star,3DS,Nintendo,2012,Role-Playing,1.12,0.39,0.64,0.12,2.27
+707,Corina,Phonix,cphonixjm@rediff.com,Female,(89) 96420-1650,707,Sonic's Ultimate Genesis Collection,PS3,Sega,2009,Misc,1.34,0.62,0.00,0.31,2.27
+708,Cristobal,Phizackarley,cphizackarleyjn@dion.ne.jp,Male,(82) 98766-6748,708,Super Monkey Ball: Banana Blitz,Wii,Sega,2006,Misc,1.07,0.92,0.04,0.24,2.27
+709,Christa,Brissenden,cbrissendenjo@economist.com,Genderfluid,(17) 94945-8291,709,Kirby: Nightmare in Dream Land,GBA,Nintendo,2002,Platform,1.22,0.10,0.91,0.04,2.27
+710,Rosco,Gilardoni,rgilardonijp@loc.gov,Male,(28) 90276-7493,710,Wario Land 4,GBA,Nintendo,2001,Platform,0.90,0.73,0.54,0.09,2.26
+711,Niven,Domotor,ndomotorjq@jugem.jp,Male,(65) 98961-0294,711,Guitar Hero III: Legends of Rock,PS3,Activision,2007,Misc,1.40,0.54,0.02,0.30,2.26
+712,Marian,Brackpool,mbrackpooljr@hubpages.com,Polygender,(94) 91123-2617,712,Call of Duty 3,Wii,Activision,2006,Shooter,1.19,0.84,0.00,0.23,2.26
+713,Sax,Jobes,sjobesjs@goodreads.com,Male,(91) 93676-7884,713,Resident Evil 4,Wii,Capcom,2007,Action,1.34,0.57,0.14,0.21,2.26
+714,Cody,Barkaway,cbarkawayjt@opensource.org,Male,(93) 91191-1808,714,Minecraft,PSV,Sony Computer Entertainment Europe,2014,Misc,0.28,0.79,0.87,0.32,2.25
+715,Lita,Oxbe,loxbeju@bing.com,Female,(36) 90898-1818,715,Onimusha 2: Samurai's Destiny,PS2,Capcom,2002,Adventure,0.62,0.44,1.06,0.13,2.25
+716,Dulce,Everal,deveraljv@google.es,Female,(91) 96346-4950,716,Cool Boarders 2,PS,UEP Systems,1997,Sports,1.52,0.46,0.20,0.08,2.25
+717,Johnnie,Dace,jdacejw@cdc.gov,Male,(30) 92382-6493,717,Paper Mario: The Thousand-Year Door,GC,Nintendo,2004,Role-Playing,1.48,0.25,0.46,0.06,2.25
+718,Abelard,Atterley,aatterleyjx@mozilla.org,Male,(92) 90139-4119,718,Madden NFL 12,PS3,Electronic Arts,2011,Sports,1.93,0.15,0.00,0.17,2.25
+719,Georgie,Gommery,ggommeryjy@forbes.com,Male,(48) 99929-9534,719,Monster Hunter Tri,Wii,Nintendo,2009,Role-Playing,0.67,0.41,1.05,0.11,2.25
+720,Jedediah,McReath,jmcreathjz@joomla.org,Male,(67) 99667-5940,720,Dissidia: Final Fantasy,PSP,Square Enix,2008,Fighting,0.51,0.51,0.91,0.32,2.25
+721,Donni,Sebastian,dsebastiank0@ow.ly,Female,(66) 95447-4257,721,Sonic Advance,GBA,Sega,2001,Platform,1.19,0.71,0.22,0.13,2.24
+722,Gianina,Tither,gtitherk1@cloudflare.com,Genderqueer,(53) 91119-0850,722,Spyro: Season of Ice,GBA,Vivendi Games,2001,Platform,1.29,0.83,0.00,0.11,2.23
+723,Rowan,Vader,rvaderk2@woothemes.com,Male,(21) 95818-8261,723,Teenage Mutant Ninja Turtles II: The Arcade Game,NES,Konami Digital Entertainment,1990,Action,1.74,0.25,0.21,0.03,2.23
+724,Marta,McGeaney,mmcgeaneyk3@seattletimes.com,Female,(28) 90116-2683,724,LEGO Indiana Jones: The Original Adventures,DS,Activision,2008,Action,1.42,0.61,0.00,0.21,2.23
+725,Osbourn,Lightman,olightmank4@mac.com,Male,(55) 97253-6299,725,Dance Dance Revolution X2,PS2,Konami Digital Entertainment,2009,Simulation,1.09,0.85,0.00,0.28,2.23
+726,Oliver,Lougheid,olougheidk5@youtube.com,Male,(91) 93171-8451,726,New Super Luigi U,WiiU,Nintendo,2013,Platform,1.27,0.62,0.18,0.16,2.22
+727,Heidi,Favel,hfavelk6@omniture.com,Female,(70) 91191-9143,727,Prince of Persia: The Sands of Time,PS2,Ubisoft,2003,Action,0.88,1.03,0.00,0.31,2.22
+728,Cos,Blackburne,cblackburnek7@twitpic.com,Male,(96) 90684-5633,728,Scribblenauts,DS,Warner Bros. Interactive Entertainment,2009,Puzzle,1.71,0.32,0.02,0.18,2.22
+729,Jed,Basford,jbasfordk8@networksolutions.com,Male,(49) 91802-7332,729,The Legend of Zelda: Link's Awakening DX,GB,Nintendo,1998,Adventure,1.00,0.63,0.45,0.13,2.22
+730,Valma,Friese,vfriesek9@dell.com,Female,(48) 95576-7355,730,Need for Speed: Hot Pursuit,X360,Electronic Arts,2010,Racing,1.03,0.98,0.00,0.21,2.22
+731,Jarred,Worsfield,jworsfieldka@umich.edu,Male,(86) 96163-3892,731,BioShock 2,X360,Take-Two Interactive,2010,Shooter,1.45,0.55,0.02,0.19,2.21
+732,Alysia,Pray,apraykb@webs.com,Genderqueer,(58) 98538-9809,732,Assassin's Creed IV: Black Flag,XOne,Ubisoft,2013,Action,1.47,0.55,0.00,0.19,2.21
+733,Ara,Lusty,alustykc@statcounter.com,Female,(84) 90107-4404,733,Devil May Cry 3: Dante's Awakening Special Edition,PS2,Capcom,2006,Action,1.06,0.82,0.05,0.28,2.21
+734,Ilyssa,Rivilis,iriviliskd@sogou.com,Female,(53) 90441-5400,734,Rock Band 2,X360,Electronic Arts,2008,Misc,1.78,0.24,0.00,0.18,2.20
+735,Kristan,Vivian,kvivianke@liveinternet.ru,Female,(32) 92038-5904,735,Frogger,2600,Parker Bros.,1981,Action,2.06,0.12,0.00,0.02,2.20
+736,Gerhardt,Waterhowse,gwaterhowsekf@eventbrite.com,Male,(75) 98054-7185,736,Guitar Hero II,X360,Activision,2007,Misc,2.01,0.02,0.00,0.17,2.20
+737,Ax,Halfhide,ahalfhidekg@drupal.org,Male,(35) 99447-9587,737,Wario Land 3,GB,Nintendo,2000,Platform,1.11,0.51,0.34,0.23,2.20
+738,Forster,Greenalf,fgreenalfkh@ucoz.ru,Male,(31) 90249-1640,738,Pro Yakyuu Family Stadium,NES,Namco Bandai Games,1986,Sports,0.15,0.00,2.05,0.00,2.20
+739,Marquita,Duckinfield,mduckinfieldki@oracle.com,Female,(82) 98177-4744,739,Sonic Unleashed,Wii,Sega,2008,Platform,1.28,0.68,0.02,0.21,2.20
+740,Martin,Habard,mhabardkj@themeforest.net,Non-binary,(59) 95055-8150,740,High School Musical: Makin' the Cut!,DS,Disney Interactive Studios,2007,Puzzle,1.06,0.91,0.00,0.23,2.20
+741,Kippar,Dillingham,kdillinghamkk@moonfruit.com,Male,(32) 94294-0725,741,Pro Evolution Soccer 2012,PS3,Konami Digital Entertainment,2011,Action,0.34,0.97,0.55,0.33,2.19
+742,Gauthier,Bollom,gbollomkl@jigsy.com,Male,(18) 99826-7096,742,Saints Row,X360,THQ,2006,Action,1.17,0.78,0.02,0.22,2.19
+743,Kim,Guiness,kguinesskm@people.com.cn,Male,(44) 93417-2034,743,Star Wars: Knights of the Old Republic,XB,Activision,2003,Role-Playing,1.68,0.44,0.00,0.08,2.19
+744,Jasper,Sara,jsarakn@nymag.com,Male,(54) 95149-0851,744,Kirby's Pinball Land,GB,Nintendo,1992,Misc,0.87,0.17,1.10,0.05,2.19
+745,Oswell,Oliphard,ooliphardko@fastcompany.com,Male,(52) 91861-0021,745,Donkey Kong Country,GB,Nintendo,2000,Platform,1.04,0.72,0.30,0.13,2.19
+746,Micky,Nevett,mnevettkp@rakuten.co.jp,Female,(48) 95799-9740,746,Hitman: Absolution,PS3,Square Enix,2012,Action,0.59,1.07,0.07,0.45,2.19
+747,Alano,Cockings,acockingskq@biblegateway.com,Male,(46) 90222-7174,747,Yu-Gi-Oh: Duel Monsters 4,GB,Konami Digital Entertainment,2000,Role-Playing,0.00,0.00,2.17,0.01,2.18
+748,Tawsha,Leatherborrow,tleatherborrowkr@reference.com,Female,(98) 91838-6962,748,ATV Offroad Fury 2,PS2,THQ,2002,Racing,1.92,0.20,0.00,0.06,2.18
+749,Karim,Schnitter,kschnitterks@pcworld.com,Male,(57) 94925-4844,749,Forza Motorsport 5,XOne,Microsoft Game Studios,2013,Racing,1.21,0.78,0.01,0.17,2.18
+750,Brinna,Batters,bbatterskt@rakuten.co.jp,Female,(30) 95324-6573,750,Madden NFL 25,X360,Electronic Arts,2013,Sports,1.97,0.07,0.00,0.13,2.18
+751,Adrian,Livesley,alivesleyku@tripadvisor.com,Male,(12) 95998-7348,751,Pokemon Ranger,DS,Nintendo,2006,Role-Playing,1.29,0.04,0.73,0.12,2.18
+752,Ax,Braam,abraamkv@weibo.com,Male,(53) 99081-8470,752,Mario & Luigi: Superstar Saga,GBA,Nintendo,2003,Role-Playing,1.48,0.17,0.47,0.06,2.17
+753,Tremayne,Flanne,tflannekw@skyrock.com,Male,(40) 99296-9926,753,Final Fantasy XIII,X360,Square Enix,2010,Role-Playing,1.27,0.68,0.01,0.20,2.17
+754,Elita,De Biasio,edebiasiokx@loc.gov,Non-binary,(46) 90652-4234,754,Star Wars: Rogue Squadron,N64,Nintendo,1998,Simulation,1.60,0.46,0.08,0.03,2.17
+755,Dorena,Brimham,dbrimhamky@harvard.edu,Female,(80) 99714-6083,755,Tennis,NES,Nintendo,1984,Sports,0.48,0.11,1.56,0.02,2.17
+756,Renate,Stygall,rstygallkz@etsy.com,Female,(90) 96168-7674,756,The Sims: House Party,PC,Electronic Arts,2001,Simulation,1.23,0.83,0.00,0.10,2.16
+757,Hazel,Guyan,hguyanl0@blogs.com,Male,(60) 94832-3457,757,Your Shape featuring Jenny McCarthy,Wii,Ubisoft,2009,Sports,1.51,0.47,0.00,0.18,2.16
+758,Margarete,Meiklem,mmeikleml1@wunderground.com,Female,(15) 97202-9997,758,Syphon Filter 2,PS,Sony Computer Entertainment,2000,Shooter,1.50,0.55,0.02,0.08,2.15
+759,Alleyn,Meeking,ameekingl2@exblog.jp,Male,(29) 95376-5869,759,Tom Clancy's Rainbow Six: Siege,PS4,Ubisoft,2015,Shooter,0.54,1.16,0.13,0.32,2.15
+760,Vinny,Cutsforth,vcutsforthl3@drupal.org,Female,(54) 91811-4478,760,Volleyball,NES,Nintendo,1987,Sports,0.14,0.03,1.98,0.00,2.15
+761,Mischa,Leser,mleserl4@dmoz.org,Male,(81) 96759-1567,761,FIFA 15,XOne,Electronic Arts,2014,Sports,0.60,1.41,0.00,0.14,2.15
+762,Quintin,Alenin,qaleninl5@youtube.com,Male,(37) 98265-0520,762,Call of Duty: Roads to Victory,PSP,Activision,2007,Shooter,0.52,1.03,0.00,0.59,2.14
+763,Garrott,Adriani,gadrianil6@blogs.com,Male,(30) 94285-2783,763,Super Mario RPG: Legend of the Seven Stars,SNES,Nintendo,1996,Role-Playing,0.66,0.00,1.45,0.03,2.14
+764,Elston,Aston,eastonl7@com.com,Male,(19) 97752-1159,764,Mahjong,NES,Nintendo,1983,Misc,0.01,0.00,2.13,0.00,2.14
+765,Christiana,Trimble,ctrimblel8@bbc.co.uk,Female,(24) 95742-8276,765,R.C. Pro-Am,NES,Nintendo,1988,Racing,1.47,0.38,0.19,0.10,2.14
+766,Ola,Honeywood,ohoneywoodl9@answers.com,Female,(31) 96133-9873,766,SimCity 2000,PC,Maxis,1992,Simulation,1.20,0.84,0.00,0.10,2.14
+767,Breanne,Fairey,bfaireyla@eventbrite.com,Female,(91) 90428-5299,767,Demon Attack,2600,Imagic,1981,Shooter,1.99,0.12,0.00,0.02,2.13
+768,Joseito,Galsworthy,jgalsworthylb@bbc.co.uk,Male,(39) 96147-6964,768,Dance Dance Revolution Extreme,PS2,Konami Digital Entertainment,2004,Simulation,1.04,0.81,0.00,0.27,2.13
+769,Deck,Garratt,dgarrattlc@pen.io,Male,(18) 99437-8460,769,Tetris DS,DS,Nintendo,2006,Puzzle,0.64,0.07,1.35,0.08,2.13
+770,Andros,Dudmarsh,adudmarshld@yellowbook.com,Male,(73) 91501-5718,770,Final Fantasy Tactics Advance,GBA,SquareSoft,2003,Role-Playing,0.82,0.37,0.89,0.05,2.13
+771,Lev,Trussell,ltrussellle@forbes.com,Male,(86) 97915-9143,771,Far Cry: Primal,PS4,Ubisoft,2016,Action,0.59,1.16,0.06,0.33,2.13
+772,Rossy,Dogerty,rdogertylf@whitehouse.gov,Male,(39) 92407-2509,772,Toy Story 3: The Video Game,DS,Disney Interactive Studios,2010,Action,0.93,0.97,0.02,0.21,2.12
+773,Farlay,Burwood,fburwoodlg@clickbank.net,Male,(13) 99462-4672,773,Final Fantasy III,DS,Square Enix,2006,Role-Playing,0.91,0.05,1.07,0.09,2.12
+774,Laurianne,Shead,lsheadlh@smh.com.au,Female,(15) 97841-1387,774,Kirby's Epic Yarn,Wii,Nintendo,2010,Platform,1.47,0.09,0.45,0.11,2.12
+775,Meyer,Merrick,mmerrickli@google.cn,Male,(40) 90843-9922,775,Project Gotham Racing,XB,Microsoft Game Studios,2001,Racing,1.37,0.61,0.05,0.09,2.12
+776,Corissa,Soldi,csoldilj@flickr.com,Female,(63) 94808-6943,776,Golf,GB,Nintendo,1989,Sports,0.83,0.33,0.92,0.04,2.12
+777,Auberon,Copo,acopolk@amazonaws.com,Male,(37) 90837-8894,777,NBA 2K12,PS3,Take-Two Interactive,2011,Sports,1.61,0.27,0.05,0.18,2.11
+778,Hedvige,Knoller,hknollerll@foxnews.com,Female,(50) 92313-3123,778,Borderlands,PS3,Take-Two Interactive,2009,Shooter,1.20,0.62,0.00,0.29,2.11
+779,Gerome,Branch,gbranchlm@ed.gov,Male,(98) 95307-4228,779,Tony Hawk's Pro Skater,N64,Activision,2000,Sports,1.68,0.40,0.00,0.03,2.11
+780,Verla,Shadfourth,vshadfourthln@hostgator.com,Female,(82) 91423-6672,780,PES 2009: Pro Evolution Soccer,PS3,Konami Digital Entertainment,2008,Sports,0.11,1.34,0.40,0.26,2.11
+781,Bobbi,Loker,blokerlo@amazonaws.com,Female,(66) 99564-5438,781,Need for Speed: Hot Pursuit 2,PS2,Electronic Arts,2002,Racing,1.68,0.31,0.02,0.09,2.11
+782,Chelsy,Antoniazzi,cantoniazzilp@hatena.ne.jp,Female,(91) 92722-9399,782,Mario Sports Mix,Wii,Nintendo,2010,Sports,0.90,0.45,0.63,0.13,2.11
+783,Kariotta,Harbertson,kharbertsonlq@goo.ne.jp,Female,(15) 93889-6768,783,Rock Band,Wii,MTV Games,2009,Misc,1.35,0.56,0.00,0.20,2.11
+784,Milicent,Stephenson,mstephensonlr@icio.us,Female,(64) 96252-9017,784,Dynasty Warriors 4,PS2,Tecmo Koei,2003,Action,0.63,0.21,1.13,0.13,2.11
+785,Steffie,Hellwich,shellwichls@studiopress.com,Female,(98) 90346-2049,785,Mortal Kombat,X360,Warner Bros. Interactive Entertainment,2011,Fighting,1.63,0.33,0.00,0.15,2.11
+786,Albina,Nagle,anaglelt@senate.gov,Female,(42) 94679-8267,786,Parasite Eve,PS,SquareSoft,1998,Role-Playing,0.94,0.07,1.05,0.04,2.10
+787,Rollins,Colleford,rcollefordlu@forbes.com,Male,(12) 99932-1493,787,Scooby-Doo! Night of 100 Frights,PS2,THQ,2002,Platform,1.17,0.72,0.00,0.22,2.10
+788,Felipe,Mullinder,fmullinderlv@about.com,Male,(27) 98964-9741,788,Project Gotham Racing (JP weekly sales),XB,Microsoft Game Studios,2002,Action,1.54,0.44,0.04,0.07,2.10
+789,Ario,Jentet,ajentetlw@cafepress.com,Male,(55) 99675-8709,789,Need for Speed: Most Wanted 5-1-0,PSP,Electronic Arts,2005,Racing,1.77,0.13,0.02,0.18,2.10
+790,Glenda,Buntin,gbuntinlx@indiegogo.com,Female,(53) 90554-6553,790,Portal 2,X360,Valve Software,2011,Shooter,1.41,0.51,0.01,0.17,2.10
+791,Flynn,Stot,fstotly@weibo.com,Male,(92) 93446-4426,791,Devil May Cry 3: Dante's Awakening,PS2,Capcom,2005,Action,0.99,0.63,0.29,0.19,2.09
+792,Kippy,Faccini,kfaccinilz@drupal.org,Male,(91) 93567-2091,792,Derby Stallion,PS,ASCII Entertainment,1997,Sports,0.00,0.00,1.96,0.14,2.09
+793,Celestia,McEntee,cmcenteem0@census.gov,Female,(47) 91129-8651,793,Dead Rising,X360,Capcom,2006,Action,1.16,0.65,0.08,0.20,2.09
+794,Salvador,Coddington,scoddingtonm1@comcast.net,Male,(68) 94210-7048,794,Finding Nemo,PS2,THQ,2003,Action,1.26,0.60,0.05,0.18,2.09
+795,Gabriela,MacNeish,gmacneishm2@huffingtonpost.com,Female,(29) 98071-0588,795,NBA 2K11,X360,Take-Two Interactive,2010,Action,1.84,0.12,0.01,0.13,2.09
+796,Mikaela,Huguet,mhuguetm3@fc2.com,Female,(80) 96198-5415,796,Wipeout: The Game,Wii,Mindscape,2009,Misc,1.97,0.00,0.00,0.12,2.09
+797,Cathyleen,Adolfson,cadolfsonm4@slashdot.org,Female,(71) 96362-5912,797,The Sims 2: Pets,DS,Electronic Arts,2006,Simulation,0.92,0.94,0.00,0.22,2.09
+798,Tilly,Witheridge,twitheridgem5@blogspot.com,Female,(15) 93187-3700,798,Battlefield: Hardline,PS4,Electronic Arts,2015,Shooter,0.70,0.93,0.14,0.32,2.09
+799,Darsey,Bau,dbaum6@cnn.com,Female,(48) 97285-0983,799,Metal Gear Solid: Peace Walker,PSP,Konami Digital Entertainment,2010,Action,0.46,0.42,0.96,0.25,2.09
+800,Cecelia,Stirrip,cstirripm7@ocn.ne.jp,Female,(40) 97237-5967,800,World of Warcraft: Cataclysm,PC,Activision,2010,Role-Playing,1.77,0.32,0.00,0.00,2.08
+801,Paige,Matthewson,pmatthewsonm8@bing.com,Female,(53) 91978-2077,801,Tetris Worlds,PS2,THQ,2002,Puzzle,1.11,0.71,0.00,0.27,2.08
+802,Christophe,Bouzek,cbouzekm9@nps.gov,Male,(69) 99375-9740,802,Need For Speed: Undercover,PS3,Electronic Arts,2008,Racing,0.63,1.02,0.05,0.39,2.08
+803,Javier,Iacovo,jiacovoma@weebly.com,Agender,(96) 96084-5121,803,Dance Dance Revolution: Hottest Party,Wii,Konami Digital Entertainment,2007,Simulation,1.36,0.52,0.00,0.20,2.08
+804,Jordan,Please,jpleasemb@taobao.com,Non-binary,(35) 90888-4247,804,Mario Party 5,GC,Nintendo,2003,Misc,0.97,0.33,0.73,0.06,2.08
+805,Waylen,Tommeo,wtommeomc@earthlink.net,Male,(27) 93578-1358,805,Ghostbusters: The Video Game (DS Version),PS3,Take-Two Interactive,2010,Action,0.59,0.99,0.13,0.36,2.08
+806,Sharyl,Micklem,smicklemmd@umn.edu,Female,(93) 90136-9008,806,Sim Theme Park,PC,Electronic Arts,1998,Strategy,2.04,0.04,0.00,0.00,2.08
+807,Jack,Jee,jjeeme@harvard.edu,Male,(55) 98757-7853,807,Warcraft: Orcs & Humans,PC,Activision,1994,Strategy,0.89,1.08,0.00,0.11,2.08
+808,Kacy,Leyland,kleylandmf@wikia.com,Female,(90) 94049-9198,808,Skate 3,PS3,Electronic Arts,2010,Sports,0.79,0.94,0.00,0.35,2.08
+809,Venus,Butt Gow,vbuttgowmg@boston.com,Female,(29) 90411-7904,809,Spec Ops: Airborne Commando,PS,Take-Two Interactive,2002,Shooter,1.54,0.46,0.00,0.08,2.07
+810,Xena,Robelow,xrobelowmh@mtv.com,Female,(22) 93032-6104,810,Kingdom Hearts: Birth by Sleep,PSP,Square Enix,2010,Role-Playing,0.63,0.42,0.75,0.26,2.07
+811,Hamid,Craighill,hcraighillmi@google.com.au,Male,(40) 90471-2138,811,UFC 2009 Undisputed,X360,THQ,2009,Fighting,1.48,0.39,0.00,0.19,2.07
+812,Meggi,Gingles,mginglesmj@devhub.com,Female,(82) 90850-3841,812,Dark Souls,PS3,Namco Bandai Games,2011,Role-Playing,0.75,0.54,0.54,0.23,2.07
+813,Moria,Lanbertoni,mlanbertonimk@state.tx.us,Female,(12) 96404-4395,813,Yu-Gi-Oh! The Eternal Duelist Soul,GBA,Konami Digital Entertainment,2001,Strategy,1.64,0.36,0.00,0.07,2.07
+814,Valle,Battman,vbattmanml@cnbc.com,Male,(55) 91197-8805,814,Need for Speed: ProStreet,X360,Electronic Arts,2007,Racing,1.04,0.80,0.01,0.22,2.06
+815,Carmella,Kirkpatrick,ckirkpatrickmm@mapquest.com,Female,(40) 99493-0291,815,The Sims 3,PS3,Electronic Arts,2010,Simulation,0.73,0.97,0.02,0.34,2.06
+816,Llewellyn,Gariff,lgariffmn@flickr.com,Male,(87) 94112-3727,816,Tom Clancy's Splinter Cell: Conviction,X360,Ubisoft,2010,Action,1.20,0.63,0.04,0.19,2.06
+817,Ketty,Stallworth,kstallworthmo@technorati.com,Female,(50) 93926-1881,817,Pokemon Mystery Dungeon: Red/Blue Rescue Team,GBA,Nintendo,2005,Role-Playing,0.71,0.52,0.74,0.08,2.06
+818,Tye,Fattorini,tfattorinimp@tinyurl.com,Male,(15) 98984-0697,818,The Incredibles,GBA,THQ,2004,Action,1.15,0.77,0.04,0.10,2.06
+819,Hayes,Elijahu,helijahumq@google.ca,Male,(95) 92294-9388,819,R4: Ridge Racer Type 4,PS,Namco Bandai Games,1998,Racing,0.68,0.46,0.79,0.13,2.06
+820,Benjie,Husk,bhuskmr@ucsd.edu,Bigender,(35) 91837-7359,820,SoulCalibur II,PS2,Namco Bandai Games,2003,Fighting,1.06,0.62,0.13,0.25,2.06
+821,Bryce,Deuss,bdeussms@sbwire.com,Male,(81) 97977-2988,821,Mario & Luigi: Dream Team,3DS,Nintendo,2013,Role-Playing,0.89,0.57,0.46,0.13,2.06
+822,Jenilee,Houston,jhoustonmt@reference.com,Female,(59) 96726-3041,822,Need for Speed: ProStreet,PS3,Electronic Arts,2007,Racing,0.73,0.92,0.04,0.37,2.05
+823,Leigh,Williamson,lwilliamsonmu@amazon.de,Female,(54) 90617-3776,823,Carnival Games,DS,Take-Two Interactive,2008,Misc,1.23,0.64,0.00,0.19,2.05
+824,Delinda,Sothern,dsothernmv@webs.com,Female,(14) 92131-8708,824,NBA 2K14,PS3,Take-Two Interactive,2013,Sports,1.43,0.33,0.04,0.25,2.05
+825,Liana,Gounard,lgounardmw@buzzfeed.com,Female,(12) 91675-2173,825,Pokémon Mystery Dungeon: Blue Rescue Team,DS,Nintendo,2005,Role-Playing,1.16,0.06,0.83,0.00,2.05
+826,Flori,Colerick,fcolerickmx@cloudflare.com,Agender,(79) 94151-4304,826,Sonic Mega Collection,GC,Infogrames,2002,Misc,1.47,0.48,0.05,0.06,2.05
+827,Tara,Savatier,tsavatiermy@printfriendly.com,Female,(96) 96231-5606,827,Diablo III,PS3,Activision,2013,Role-Playing,0.71,0.83,0.15,0.35,2.05
+828,Granthem,Moscon,gmosconmz@flickr.com,Male,(96) 96382-5248,828,NBA Jam,GEN,Arena Entertainment,1992,Sports,1.75,0.25,0.00,0.05,2.05
+829,Clemente,Vignal,cvignaln0@opensource.org,Male,(78) 90205-7034,829,PGR4 - Project Gotham Racing 4,X360,Microsoft Game Studios,2007,Racing,0.48,1.29,0.02,0.25,2.05
+830,Patrizio,Klehyn,pklehynn1@fda.gov,Male,(83) 95127-3784,830,Kingdom Hearts 358/2 Days,DS,Square Enix,2009,Role-Playing,1.11,0.27,0.53,0.14,2.04
+831,Edmon,Capner,ecapnern2@vinaora.com,Male,(40) 91385-7539,831,Dance Central 2,X360,Microsoft Game Studios,2011,Misc,1.45,0.42,0.01,0.16,2.04
+832,Blair,Colafate,bcolafaten3@wp.com,Female,(91) 96127-2891,832,Rayman Raving Rabbids: TV Party,Wii,Ubisoft,2008,Misc,0.73,1.09,0.00,0.23,2.04
+833,Skipper,Redington,sredingtonn4@newyorker.com,Male,(24) 98301-2422,833,SOCOM: U.S. Navy SEALs: Combined Assault,PS2,Sony Computer Entertainment,2006,Shooter,1.74,0.02,0.00,0.28,2.04
+834,Aldrich,Mingame,amingamen5@npr.org,Male,(33) 94931-6674,834,Peter Jackson's King Kong: The Official Game of the Movie,PS2,Ubisoft,2005,Action,0.71,1.02,0.00,0.31,2.04
+835,Garner,Couthard,gcouthardn6@de.vu,Male,(55) 96041-4438,835,Donkey Kong Country,GBA,Nintendo,2003,Platform,1.20,0.48,0.29,0.07,2.04
+836,Vere,Mangham,vmanghamn7@dmoz.org,Female,(24) 99428-5202,836,Need for Speed: The Run,PS3,Electronic Arts,2011,Action,0.58,1.06,0.03,0.37,2.04
+837,Hewie,Gronaller,hgronallern8@yellowpages.com,Male,(29) 98043-6136,837,Madden NFL 15,PS4,Electronic Arts,2014,Sports,1.53,0.25,0.00,0.25,2.03
+838,Ardella,McAster,amcastern9@dropbox.com,Female,(17) 99275-9132,838,1080°: TenEighty Snowboarding,N64,Nintendo,1998,Sports,1.25,0.61,0.13,0.05,2.03
+839,Aldwin,Glanfield,aglanfieldna@ucoz.com,Male,(57) 98639-8681,839,Just Dance 3,X360,Ubisoft,2011,Misc,1.47,0.40,0.00,0.16,2.03
+840,Job,Montez,jmonteznb@buzzfeed.com,Non-binary,(30) 93581-2062,840,NBA Live 2004,PS2,Electronic Arts,2003,Sports,1.57,0.18,0.00,0.27,2.03
+841,Andrei,Fencott,afencottnc@nasa.gov,Female,(49) 93858-2840,841,Dead Space,PS3,Electronic Arts,2008,Action,1.05,0.67,0.00,0.30,2.02
+842,Sydney,Sandyfirth,ssandyfirthnd@aboutads.info,Male,(49) 95166-5001,842,Call of Duty 2,X360,Activision,2005,Shooter,1.81,0.05,0.01,0.15,2.02
+843,Tobie,January,tjanuaryne@bloglines.com,Male,(36) 97986-0539,843,Madden NFL 15,X360,Electronic Arts,2014,Sports,1.76,0.09,0.00,0.17,2.02
+844,Neill,Ziehms,nziehmsnf@mtv.com,Agender,(32) 99596-3812,844,Forza Horizon,X360,Microsoft Game Studios,2012,Racing,0.82,0.98,0.04,0.18,2.02
+845,Whitaker,Ruprich,wruprichng@aol.com,Male,(72) 92987-0172,845,TouchMaster,DS,Midway Games,2007,Puzzle,0.49,1.27,0.00,0.25,2.01
+846,Gwenni,McMarquis,gmcmarquisnh@t-online.de,Female,(56) 92596-4133,846,Tom Clancy's The Division,XOne,Ubisoft,2016,Shooter,1.20,0.62,0.00,0.18,2.01
+847,Leann,Wolledge,lwolledgeni@1und1.de,Female,(41) 98149-8549,847,LEGO Marvel Super Heroes,PS3,Warner Bros. Interactive Entertainment,2013,Action,0.77,0.85,0.01,0.37,2.00
+848,Rebe,Thunderman,rthundermannj@skyrock.com,Female,(95) 97585-6389,848,Fire Emblem: Awakening,3DS,Nintendo,2012,Role-Playing,0.89,0.45,0.53,0.13,2.00
+849,Korella,Callinan,kcallinannk@ted.com,Female,(83) 96909-4453,849,DriveClub,PS4,Sony Computer Entertainment,2014,Racing,0.35,1.31,0.02,0.33,2.00
+850,Derron,Gilman,dgilmannl@tmall.com,Non-binary,(13) 93807-2803,850,Super Street Fighter II,SNES,Nintendo,1993,Fighting,0.52,0.16,1.29,0.03,2.00
+851,Caren,Reddyhoff,creddyhoffnm@merriam-webster.com,Polygender,(97) 91091-3641,851,Mortal Kombat vs. DC Universe,PS3,Midway Games,2008,Fighting,1.48,0.30,0.00,0.22,2.00
+852,Lois,Shearsby,lshearsbynn@csmonitor.com,Female,(32) 97961-9303,852,Tenchu: Stealth Assassins,PS,Activision,1997,Action,0.95,0.64,0.27,0.13,1.99
+853,Gaile,Oliveto,golivetono@livejournal.com,Male,(81) 95348-3202,853,Tennis,GB,Nintendo,1989,Sports,0.75,0.30,0.90,0.04,1.99
+854,Selby,Sager,ssagernp@soup.io,Male,(76) 90064-4667,854,Harry Potter and the Chamber of Secrets,GBA,Electronic Arts,2002,Action,1.21,0.64,0.05,0.09,1.99
+855,Verge,Reinhardt,vreinhardtnq@wunderground.com,Male,(65) 92141-6776,855,Harry Potter and the Chamber of Secrets,PS,Electronic Arts,2002,Action,0.75,1.09,0.02,0.12,1.98
+856,Barbabas,Saynor,bsaynornr@twitter.com,Male,(56) 90390-9082,856,SimCity,SNES,Nintendo,1991,Simulation,0.93,0.27,0.75,0.04,1.98
+857,Chloris,Apedaile,capedailens@utexas.edu,Female,(40) 91833-6170,857,Battlefield 4,XOne,Electronic Arts,2013,Shooter,1.25,0.58,0.00,0.16,1.98
+858,Ester,Whewell,ewhewellnt@bandcamp.com,Female,(94) 90946-0409,858,Resident Evil 6,X360,Capcom,2012,Shooter,1.11,0.63,0.07,0.16,1.98
+859,Shepherd,Waine,swainenu@accuweather.com,Male,(76) 92988-1404,859,Dragon Age: Inquisition,PS4,Electronic Arts,2014,Role-Playing,0.72,0.86,0.08,0.32,1.97
+860,Humberto,Schwand,hschwandnv@sciencedaily.com,Male,(66) 91898-3365,860,Sonic Classic Collection,DS,Sega,2010,Platform,0.99,0.80,0.00,0.18,1.97
+861,Wilhelmina,Murrie,wmurrienw@slashdot.org,Non-binary,(37) 90900-5587,861,Spyro: Enter the Dragonfly,PS2,Universal Interactive,2002,Platform,0.74,0.95,0.00,0.28,1.97
+862,Cammie,Bareford,cbarefordnx@si.edu,Female,(29) 96073-3577,862,Call of Duty: World at War,Wii,Activision,2008,Shooter,1.20,0.59,0.00,0.19,1.97
+863,Brodie,Balassa,bbalassany@biblegateway.com,Male,(36) 98679-1807,863,Devil May Cry 2,PS2,Capcom,2003,Action,0.71,0.58,0.51,0.17,1.97
+864,Dacie,Giovanetti,dgiovanettinz@histats.com,Female,(11) 91026-2272,864,Burnout Paradise,PS3,Electronic Arts,2008,Racing,1.01,0.64,0.02,0.30,1.97
+865,Normie,Carnier,ncarniero0@globo.com,Male,(97) 90921-1192,865,E.T.: The Extra Terrestrial,2600,Atari,1981,Action,1.84,0.11,0.00,0.02,1.97
+866,Danya,Reisen,dreiseno1@seesaa.net,Male,(43) 94438-5446,866,BioShock Infinite,X360,Take-Two Interactive,2013,Shooter,1.22,0.57,0.02,0.15,1.96
+867,Dorri,Pancast,dpancasto2@marriott.com,Female,(29) 99417-1286,867,Hot Shots Golf: Open Tee,PSP,Sony Computer Entertainment,2004,Sports,0.50,0.50,0.63,0.33,1.96
+868,Jamie,Walshaw,jwalshawo3@nps.gov,Female,(56) 95373-9427,868,Rad Racer,NES,Nintendo,1986,Racing,1.13,0.37,0.41,0.05,1.96
+869,Rene,Chastang,rchastango4@myspace.com,Male,(49) 91414-6992,869,Soccer,NES,Nintendo,1985,Sports,0.18,0.23,1.53,0.02,1.96
+870,Robinet,Ginnane,rginnaneo5@surveymonkey.com,Male,(30) 96965-1473,870,Kirby Squeak Squad,DS,Nintendo,2006,Platform,0.79,0.03,1.05,0.08,1.96
+871,Victoria,Muir,vmuiro6@eepurl.com,Female,(53) 93977-9585,871,Tom Clancy's Rainbow Six: Vegas,X360,Ubisoft,2006,Shooter,1.09,0.65,0.02,0.20,1.96
+872,Lorilyn,Gooddie,lgooddieo7@gov.uk,Female,(40) 94029-8854,872,Destiny,X360,Activision,2014,Shooter,1.30,0.49,0.00,0.16,1.95
+873,Cello,Trownson,ctrownsono8@sciencedaily.com,Male,(37) 99748-8962,873,Crash Nitro Kart,PS2,Vivendi Games,2003,Racing,0.74,1.01,0.00,0.20,1.95
+874,Frederic,Jumel,fjumelo9@microsoft.com,Male,(54) 99414-6553,874,Grand Theft Auto: San Andreas,XB,Take-Two Interactive,2005,Action,1.26,0.61,0.00,0.09,1.95
+875,Ervin,Dugood,edugoodoa@princeton.edu,Genderfluid,(78) 99162-7345,875,Star Wars: Dark Forces,PC,LucasArts,1994,Shooter,1.09,0.77,0.00,0.09,1.95
+876,Mateo,Plowright,mplowrightob@yahoo.com,Agender,(35) 99802-4935,876,NBA Street Vol. 2,PS2,Electronic Arts,2003,Sports,1.69,0.20,0.00,0.06,1.95
+877,Samson,Grigoletti,sgrigolettioc@marriott.com,Agender,(37) 96994-6712,877,Def Jam Vendetta,PS2,Electronic Arts,2003,Fighting,0.95,0.74,0.00,0.25,1.94
+878,Crosby,McCurlye,cmccurlyeod@jigsy.com,Male,(45) 97652-2965,878,FIFA Soccer 09,X360,Electronic Arts,2008,Sports,0.49,1.26,0.01,0.18,1.94
+879,Sawyere,Pocklington,spocklingtonoe@cbc.ca,Male,(87) 94090-5685,879,Who wants to be a millionaire,PC,Disney Interactive Studios,1999,Misc,1.94,0.00,0.00,0.00,1.94
+880,Bearnard,Websdale,bwebsdaleof@pinterest.com,Male,(29) 99553-6539,880,Scooby Doo and the Cyber Chase,PS,THQ,2001,Adventure,0.59,1.23,0.00,0.13,1.94
+881,Arty,Semper,asemperog@nsw.gov.au,Male,(49) 94816-3989,881,Alleyway,GB,Nintendo,1989,Puzzle,0.96,0.38,0.55,0.05,1.94
+882,Jasmin,Plumbley,jplumbleyoh@boston.com,Female,(89) 99998-2202,882,Dragon Ball Z: Budokai 3,PS2,Atari,2004,Fighting,1.09,0.15,0.65,0.04,1.94
+883,Ulric,Proom,uproomoi@networkadvertising.org,Male,(64) 97107-8738,883,Jet Moto 2,PS,Sony Computer Entertainment,1997,Racing,1.41,0.42,0.03,0.07,1.94
+884,Wyn,Revie,wrevieoj@addtoany.com,Genderfluid,(56) 90332-1246,884,Tom Clancy's Ghost Recon,PS2,Ubisoft,2002,Shooter,1.42,0.40,0.00,0.12,1.94
+885,Tera,Palethorpe,tpalethorpeok@altervista.org,Female,(27) 93242-2881,885,X-Men Legends,PS2,Activision,2004,Role-Playing,1.00,0.72,0.00,0.21,1.93
+886,Ginnifer,Grey,ggreyol@apache.org,Female,(52) 96652-3026,886,Batman: Arkham Origins,X360,Warner Bros. Interactive Entertainment,2013,Action,1.15,0.61,0.00,0.17,1.93
+887,Tymon,Schoolcroft,tschoolcroftom@alexa.com,Male,(24) 95947-0421,887,Guitar Hero: World Tour,PS3,Activision,2008,Misc,1.10,0.56,0.00,0.27,1.93
+888,Jandy,Genthner,jgenthneron@vinaora.com,Female,(62) 97477-1135,888,Mortal Kombat II,SNES,Acclaim Entertainment,1993,Fighting,1.48,0.39,0.00,0.06,1.93
+889,Agnes,Gomer,agomeroo@hud.gov,Female,(21) 95084-8110,889,Virtua Fighter 2,SAT,Sega,1995,Fighting,0.34,0.26,1.30,0.03,1.93
+890,Roxine,Northern,rnorthernop@forbes.com,Female,(44) 94117-9210,890,Tetris DX,GB,Nintendo,1998,Puzzle,1.06,0.60,0.20,0.07,1.93
+891,Gerrie,Piele,gpieleoq@blog.com,Male,(84) 98837-9493,891,Mortal Kombat vs. DC Universe,X360,Midway Games,2008,Fighting,1.53,0.24,0.00,0.16,1.93
+892,Gracia,Feechan,gfeechanor@yolasite.com,Female,(47) 94469-6884,892,Watch Dogs,PS3,Ubisoft,2014,Action,0.56,0.89,0.10,0.37,1.93
+893,Garik,Bonson,gbonsonos@wsj.com,Male,(98) 97658-8271,893,Mario Super Sluggers,Wii,Nintendo,2008,Sports,1.51,0.00,0.29,0.12,1.93
+894,Caz,Jacmar,cjacmarot@google.fr,Bigender,(35) 96637-4620,894,Tomb Raider (2013),X360,Square Enix,2013,Action,0.86,0.87,0.01,0.17,1.92
+895,Gregorius,Buckberry,gbuckberryou@stanford.edu,Male,(70) 97547-9509,895,The Legend of Zelda: Oracle of Ages,GB,Nintendo,2001,Action,0.92,0.53,0.41,0.06,1.92
+896,Dame,Regi,dregiov@sun.com,Male,(19) 91008-5406,896,Need for Speed: Shift,X360,Electronic Arts,2009,Racing,0.73,0.97,0.01,0.22,1.92
+897,Darla,Graeber,dgraeberow@gravatar.com,Female,(48) 97587-9740,897,Monopoly,Wii,Electronic Arts,2008,Misc,0.87,0.85,0.00,0.20,1.92
+898,Gaspar,Parfrey,gparfreyox@fda.gov,Bigender,(77) 95964-8124,898,Red Faction,PS2,THQ,2001,Shooter,0.76,0.96,0.00,0.20,1.92
+899,Estella,Linnett,elinnettoy@ucsd.edu,Female,(20) 99465-3634,899,The Sims: Makin' Magic,PC,Electronic Arts,2003,Simulation,1.03,0.80,0.00,0.09,1.92
+900,Leigh,Haslen,lhaslenoz@hp.com,Male,(70) 96910-3356,900,MX Unleashed,PS2,THQ,2004,Racing,0.94,0.73,0.00,0.25,1.92
+901,Horatius,Labitt,hlabittp0@apache.org,Male,(87) 95364-8584,901,PaRappa The Rapper,PS,Sony Computer Entertainment,1996,Misc,0.26,0.16,1.46,0.03,1.92
+902,Bonnie,Oglesbee,boglesbeep1@thetimes.co.uk,Female,(15) 94806-7327,902,Toy Story Mania!,Wii,Disney Interactive Studios,2009,Misc,1.06,0.67,0.00,0.18,1.92
+903,Hogan,Meadowcraft,hmeadowcraftp2@wp.com,Male,(85) 91501-3238,903,Mario Party 3,N64,Nintendo,2000,Misc,0.72,0.16,1.01,0.02,1.91
+904,Alanson,Torricella,atorricellap3@hibu.com,Male,(38) 98859-2046,904,Star Wars: The Force Unleashed,Wii,LucasArts,2008,Action,1.14,0.57,0.00,0.19,1.91
+905,Sonny,Shinn,sshinnp4@usda.gov,Female,(26) 95766-6175,905,Game Party 2,Wii,Midway Games,2008,Misc,1.30,0.44,0.00,0.17,1.91
+906,Nessi,Pirazzi,npirazzip5@xing.com,Female,(15) 97946-3375,906,Destiny: The Taken King,PS4,Activision,2015,Shooter,0.77,0.78,0.04,0.31,1.91
+907,Noe,Bolwell,nbolwellp6@amazon.co.jp,Male,(25) 97640-2085,907,LEGO Star Wars III: The Clone Wars,Wii,LucasArts,2011,Action,1.08,0.66,0.00,0.17,1.91
+908,Bernie,Braitling,bbraitlingp7@dot.gov,Male,(57) 94802-6997,908,Star Wars Rogue Leader: Rogue Squadron II,GC,LucasArts,2001,Simulation,1.03,0.75,0.03,0.09,1.90
+909,Stefan,Fone,sfonep8@cyberchimps.com,Male,(93) 94763-8006,909,Max Payne 3,PS3,Take-Two Interactive,2012,Shooter,0.59,0.92,0.06,0.32,1.90
+910,Francklin,Pleager,fpleagerp9@tiny.cc,Male,(91) 93124-6660,910,Need for Speed Rivals,PS4,Electronic Arts,2013,Racing,0.73,0.91,0.03,0.22,1.89
+911,Pavla,Southan,psouthanpa@dagondesign.com,Female,(88) 94910-5295,911,Madden NFL 09,PS3,Electronic Arts,2008,Sports,1.56,0.15,0.00,0.18,1.89
+912,Meridith,Purchon,mpurchonpb@spiegel.de,Female,(36) 91546-8600,912,Yokai Watch,3DS,Nintendo,2013,Role-Playing,0.21,0.30,1.33,0.04,1.89
+913,Otes,Waghorn,owaghornpc@hugedomains.com,Male,(15) 92722-3163,913,Ratchet & Clank Future: A Crack in Time,PS3,Sony Computer Entertainment,2009,Platform,1.05,0.54,0.03,0.26,1.88
+914,Helsa,Childe,hchildepd@pinterest.com,Female,(11) 93957-3535,914,Yu-Gi-Oh! Forbidden Memories,PS,Konami Digital Entertainment,1999,Role-Playing,1.37,0.44,0.00,0.08,1.88
+915,Blaire,Valentinuzzi,bvalentinuzzipe@oracle.com,Female,(69) 96173-4181,915,Mortal Kombat: Deception,PS2,Midway Games,2004,Fighting,0.92,0.72,0.00,0.24,1.88
+916,Ricca,Cornu,rcornupf@yahoo.com,Female,(77) 93497-8915,916,Hot Shots Golf 2,PS,Sony Computer Entertainment,1999,Sports,0.25,0.12,1.48,0.03,1.88
+917,Sondra,Yushkov,syushkovpg@skype.com,Bigender,(52) 96257-4263,917,Medal of Honor: European Assault (All Region sales),PS2,Electronic Arts,2005,Shooter,0.89,0.69,0.09,0.21,1.88
+918,Luci,Teulier,lteulierph@indiegogo.com,Female,(37) 96057-1218,918,WCW Nitro,PS,THQ,1998,Fighting,1.42,0.36,0.03,0.07,1.88
+919,Florance,McMenamy,fmcmenamypi@phoca.cz,Female,(33) 98510-8370,919,High School Musical: Sing It!,PS2,Disney Interactive Studios,2007,Misc,0.47,0.08,0.00,1.33,1.87
+920,Karie,McCabe,kmccabepj@hp.com,Female,(38) 96039-1752,920,Star Fox Adventures,GC,Nintendo,2002,Adventure,0.96,0.53,0.30,0.09,1.87
+921,Kele,Musker,kmuskerpk@fema.gov,Male,(77) 95257-3333,921,FIFA 2000,PS,Electronic Arts,1998,Sports,0.22,1.47,0.04,0.14,1.87
+922,Porter,Grigorey,pgrigoreypl@nydailynews.com,Agender,(30) 94334-1556,922,Dynasty Warriors 3,PS2,THQ,2001,Action,0.53,0.16,1.07,0.10,1.87
+923,Paulita,Godsal,pgodsalpm@networkadvertising.org,Female,(47) 92984-3303,923,Donkey Kong Country Returns,3DS,Nintendo,2013,Platform,0.73,0.62,0.40,0.12,1.87
+924,Malissia,Grandin,mgrandinpn@bbc.co.uk,Female,(79) 98221-0028,924,The Legend of Zelda: Oracle of Seasons,GB,Nintendo,2001,Adventure,0.87,0.52,0.41,0.06,1.86
+925,Nickolaus,Penhale,npenhalepo@mozilla.org,Male,(27) 93271-6499,925,Madden NFL 06,XB,Electronic Arts,2005,Sports,1.75,0.03,0.00,0.08,1.86
+926,Danny,Igonet,digonetpp@google.co.uk,Female,(88) 94887-6646,926,Shrek 2,PS2,Activision,2004,Platform,1.12,0.69,0.03,0.02,1.86
+927,Annabella,Braam,abraampq@homestead.com,Female,(43) 98459-6391,927,The Legend of Dragoon,PS,Sony Computer Entertainment,1999,Role-Playing,0.94,0.44,0.39,0.10,1.86
+928,Raff,Canacott,rcanacottpr@dell.com,Male,(40) 90512-2643,928,Turok 2: Seeds of Evil,N64,Acclaim Entertainment,1997,Platform,1.37,0.41,0.04,0.04,1.86
+929,Mortie,Holehouse,mholehouseps@cyberchimps.com,Male,(53) 91461-8629,929,SingStar,PS2,Sony Computer Entertainment,2004,Misc,0.00,1.37,0.00,0.49,1.86
+930,Cesar,Sloss,cslosspt@go.com,Male,(31) 99480-5470,930,LittleBigPlanet 3,PS4,Sony Computer Entertainment,2014,Platform,0.64,0.92,0.01,0.29,1.86
+931,Kanya,Bridgens,kbridgenspu@ning.com,Female,(57) 93007-1817,931,NBA Live 2002,PS2,Electronic Arts,2001,Sports,0.91,0.71,0.00,0.24,1.86
+932,Say,Schutt,sschuttpv@va.gov,Male,(67) 98629-7549,932,Phineas and Ferb,DS,Disney Interactive Studios,2009,Action,1.34,0.37,0.00,0.15,1.86
+933,Darill,Aguirre,daguirrepw@oracle.com,Bigender,(84) 97388-3961,933,Chrono Cross,PS,SquareSoft,1999,Role-Playing,0.62,0.42,0.69,0.12,1.86
+934,Kahlil,Exell,kexellpx@wordpress.com,Male,(75) 97504-6306,934,GoldenEye 007 (2010),Wii,Activision,2010,Action,0.85,0.71,0.13,0.16,1.86
+935,Gussy,Avery,gaverypy@goo.ne.jp,Female,(20) 97777-9207,935,Mario Party: Island Tour,3DS,Nintendo,2013,Misc,0.61,0.59,0.55,0.11,1.85
+936,Wallas,Blease,wbleasepz@opera.com,Male,(69) 96703-4090,936,Jak 3,PS2,Sony Computer Entertainment,2004,Platform,1.33,0.49,0.00,0.03,1.85
+937,Farleigh,Nickols,fnickolsq0@sphinn.com,Male,(96) 90581-6267,937,Rayman Raving Rabbids 2,Wii,Ubisoft,2007,Misc,0.83,0.82,0.00,0.20,1.85
+938,Erin,Spurge,espurgeq1@linkedin.com,Agender,(93) 95661-1486,938,Kingdom Hearts: Chain of Memories,GBA,Square Enix,2004,Role-Playing,1.26,0.18,0.35,0.06,1.85
+939,Giulia,Iacopetti,giacopettiq2@tripod.com,Female,(99) 96921-7818,939,Pinball,NES,Nintendo,1984,Action,0.80,0.19,0.83,0.03,1.85
+940,Meredeth,McTavish,mmctavishq3@biglobe.ne.jp,Male,(12) 98915-0659,940,inFAMOUS 2,PS3,Sony Computer Entertainment,2011,Action,1.05,0.49,0.08,0.23,1.85
+941,Fairleigh,Axford,faxfordq4@zdnet.com,Male,(47) 94974-1109,941,Gran Turismo Concept 2001 Tokyo,PS2,Unknown,2001,Racing,0.00,1.10,0.42,0.33,1.84
+942,Elmo,Colegate,ecolegateq5@vk.com,Male,(16) 98444-1372,942,Demon's Souls,PS3,Namco Bandai Games,2009,Role-Playing,0.97,0.34,0.35,0.18,1.84
+943,Doti,Kuschel,dkuschelq6@cnbc.com,Female,(77) 92384-7404,943,NCAA Football 06,PS2,Electronic Arts,2005,Sports,1.53,0.05,0.00,0.25,1.84
+944,Jeanelle,Dy,jdyq7@comsenz.com,Female,(92) 91831-1149,944,"Hey You, Pikachu!",N64,Nintendo,1998,Simulation,0.83,0.06,0.93,0.00,1.83
+945,Erda,Raddon,eraddonq8@sourceforge.net,Female,(41) 98532-5074,945,2 Games in 1: Sonic Advance & ChuChu Rocket!,GBA,THQ,2005,Misc,1.31,0.49,0.00,0.03,1.83
+946,Flinn,MacGillicuddy,fmacgillicuddyq9@jalbum.net,Male,(17) 99892-9217,946,World of Warcraft: Mists of Pandaria,PC,Activision,2012,Role-Playing,0.84,0.76,0.00,0.23,1.83
+947,Tommy,Westmerland,twestmerlandqa@ocn.ne.jp,Male,(92) 98105-2625,947,Jet Moto,PS,Sony Computer Entertainment,1996,Racing,1.33,0.40,0.03,0.07,1.83
+948,Jeanne,Ricciardelli,jricciardelliqb@sbwire.com,Female,(22) 95318-7252,948,Just Cause 3,PS4,Square Enix,2015,Action,0.46,1.02,0.07,0.28,1.83
+949,Ezequiel,Vaggs,evaggsqc@t-online.de,Male,(56) 94114-5759,949,Secret of Mana,SNES,SquareSoft,1993,Role-Playing,0.25,0.07,1.49,0.02,1.83
+950,Jesse,Talloe,jtalloeqd@epa.gov,Male,(27) 99677-6311,950,The Orange Box,X360,Electronic Arts,2007,Shooter,1.09,0.54,0.02,0.17,1.83
+951,Sandra,Cropton,scroptonqe@bbb.org,Female,(66) 92073-4167,951,Air Combat,PS,Sony Computer Entertainment,1995,Simulation,0.92,0.33,0.52,0.05,1.83
+952,Leighton,Aymer,laymerqf@smugmug.com,Male,(81) 96085-2660,952,Kirby: Triple Deluxe,3DS,Nintendo,2014,Platform,0.61,0.34,0.79,0.09,1.82
+953,Rhys,Hiddy,rhiddyqg@gov.uk,Male,(45) 97358-7006,953,Sonic & Knuckles,GEN,Sega,1994,Platform,1.24,0.43,0.03,0.12,1.82
+954,Sancho,Strass,sstrassqh@yelp.com,Male,(48) 92030-9464,954,Namco Museum,PS2,Namco Bandai Games,2001,Misc,1.73,0.07,0.00,0.02,1.82
+955,Allyson,Fernant,afernantqi@sbwire.com,Female,(11) 97946-8000,955,The Sims: Hot Date,PC,Electronic Arts,2001,Simulation,1.81,0.00,0.00,0.00,1.82
+956,Denys,Crigin,dcriginqj@miitbeian.gov.cn,Male,(65) 96756-2994,956,Metroid Prime 3: Corruption,Wii,Nintendo,2007,Shooter,0.91,0.74,0.07,0.09,1.82
+957,Ingar,Whatling,iwhatlingqk@themeforest.net,Genderqueer,(49) 91362-7280,957,Dragon Quest VI: Realms of Revelation,DS,Nintendo,2010,Role-Playing,0.22,0.21,1.35,0.03,1.81
+958,Hazel,Scopyn,hscopynql@addthis.com,Male,(64) 95870-9824,958,The Evil Within,PS4,Bethesda Softworks,2014,Action,0.55,0.84,0.11,0.31,1.81
+959,Stormi,Beeck,sbeeckqm@mail.ru,Female,(35) 92105-2968,959,DDRMAX2: Dance Dance Revolution,PS2,Konami Digital Entertainment,2003,Simulation,1.05,0.59,0.00,0.18,1.81
+960,Tadio,Peat,tpeatqn@canalblog.com,Male,(53) 92916-0122,960,Crazy Taxi,DC,Sega,2000,Racing,1.10,0.51,0.12,0.08,1.81
+961,Kaspar,Dzenisenka,kdzenisenkaqo@home.pl,Male,(45) 95638-0836,961,Virtua Fighter 4,PS2,Sega,2002,Fighting,0.78,0.44,0.56,0.04,1.81
+962,Kalle,Furminger,kfurmingerqp@buzzfeed.com,Male,(44) 94257-3053,962,Sly 2: Band of Thieves,PS2,Sony Computer Entertainment,2004,Platform,0.88,0.69,0.00,0.23,1.81
+963,Jobyna,Fedoronko,jfedoronkoqq@illinois.edu,Female,(88) 99169-9090,963,Guitar Hero: World Tour,PS2,Activision,2008,Misc,1.00,0.03,0.00,0.77,1.80
+964,Erinn,Cowill,ecowillqr@admin.ch,Female,(26) 99402-0284,964,Sonic Advance 2,GBA,Sega,2002,Platform,0.93,0.59,0.21,0.07,1.80
+965,Maurine,Axby,maxbyqs@biblegateway.com,Female,(72) 99993-6473,965,Madden NFL 07,X360,Electronic Arts,2006,Sports,1.66,0.00,0.01,0.13,1.80
+966,Sayres,Gecks,sgecksqt@tmall.com,Male,(32) 98010-1747,966,NBA 2K11,PS3,Take-Two Interactive,2010,Action,1.41,0.21,0.03,0.16,1.80
+967,Naomi,Naseby,nnasebyqu@bluehost.com,Female,(12) 96713-6852,967,NFL GameDay 2000,PS,989 Studios,1999,Sports,1.00,0.68,0.00,0.12,1.80
+968,Dale,Sharrier,dsharrierqv@w3.org,Male,(36) 90474-4480,968,Call of Duty: Black Ops 3,PS3,Activision,2015,Shooter,0.49,0.96,0.07,0.27,1.79
+969,Carrol,Reape,creapeqw@google.com,Male,(48) 93906-9041,969,Disney's The Lion King,SNES,Virgin Interactive,1994,Platform,1.26,0.39,0.08,0.06,1.79
+970,Darsey,Di Roberto,ddirobertoqx@delicious.com,Female,(61) 93350-8927,970,Beyond: Two Souls,PS3,Sony Computer Entertainment,2013,Adventure,0.52,0.88,0.06,0.34,1.79
+971,Happy,Kenington,hkeningtonqy@taobao.com,Female,(96) 99955-2218,971,Kinect Star Wars,X360,Microsoft Game Studios,2012,Action,1.05,0.57,0.03,0.14,1.78
+972,Emmott,Tweedell,etweedellqz@hhs.gov,Male,(14) 98695-9292,972,Midnight Club II,PS2,Take-Two Interactive,2003,Racing,1.25,0.29,0.00,0.24,1.78
+973,Bartolomeo,Rule,bruler0@gov.uk,Male,(94) 93433-4609,973,Dragon Quest Monsters: Joker,DS,Square Enix,2006,Role-Playing,0.23,0.03,1.49,0.03,1.78
+974,Hill,Jirousek,hjirousekr1@cdbaby.com,Male,(80) 95831-7099,974,SpongeBob SquarePants: SuperSponge,PS,THQ,2001,Action,1.12,0.58,0.00,0.08,1.78
+975,Trixi,Fullager,tfullagerr2@sphinn.com,Female,(33) 90667-9677,975,The Getaway: Black Monday,PS2,Sony Computer Entertainment,2004,Action,0.39,1.01,0.02,0.36,1.78
+976,Jase,Couzens,jcouzensr3@google.com.au,Male,(87) 94201-1475,976,Professor Layton and the Mask of Miracle,3DS,Nintendo,2011,Puzzle,0.32,0.95,0.36,0.14,1.78
+977,Amandy,Pindar,apindarr4@google.es,Female,(84) 93874-3054,977,Just Cause 2,PS3,Square Enix,2010,Action,0.45,0.94,0.06,0.33,1.78
+978,Lane,Dyett,ldyettr5@un.org,Female,(38) 96993-5447,978,Dragon's Dogma,PS3,Capcom,2012,Role-Playing,0.41,0.46,0.72,0.19,1.78
+979,Abram,Loidl,aloidlr6@bloomberg.com,Male,(44) 94154-5585,979,The Legend of Zelda: The Wind Waker,WiiU,Nintendo,2013,Action,0.93,0.57,0.14,0.13,1.77
+980,Brandy,Rowson,browsonr7@techcrunch.com,Male,(35) 95465-6273,980,50 Cent: Bulletproof,PS2,Vivendi Games,2005,Action,0.85,0.76,0.00,0.16,1.77
+981,Dacie,McArtan,dmcartanr8@guardian.co.uk,Female,(31) 93463-8889,981,High School Musical: Sing It!,Wii,Disney Interactive Studios,2007,Misc,1.16,0.45,0.00,0.16,1.77
+982,Ester,Giacobillo,egiacobillor9@rambler.ru,Female,(18) 92985-3707,982,Wii Party U,WiiU,Nintendo,2013,Misc,0.31,0.54,0.84,0.08,1.77
+983,Laurie,Cicconettii,lcicconettiira@tuttocitta.it,Male,(27) 96911-0878,983,Madden NFL 25,PS3,Electronic Arts,2013,Sports,1.59,0.03,0.00,0.15,1.77
+984,Gardy,McKain,gmckainrb@loc.gov,Male,(82) 96775-6345,984,Final Fantasy II,SNES,Square,1991,Role-Playing,0.24,0.09,1.33,0.12,1.77
+985,Philbert,Powdrill,ppowdrillrc@yahoo.co.jp,Male,(72) 91625-7456,985,Kirby 64: The Crystal Shards,N64,Nintendo,2000,Platform,0.63,0.06,1.03,0.04,1.77
+986,Wilmar,Bissiker,wbissikerrd@pen.io,Male,(79) 98318-1854,986,Dead or Alive 3,XB,Microsoft Game Studios,2001,Fighting,1.19,0.29,0.24,0.06,1.77
+987,Debbi,Wimms,dwimmsre@google.com.au,Female,(44) 96313-7997,987,UFC 2009 Undisputed,PS3,THQ,2009,Fighting,1.07,0.45,0.01,0.24,1.77
+988,Flori,Karoly,fkarolyrf@slashdot.org,Female,(21) 98944-2199,988,Metroid II: Return of Samus,GB,Nintendo,1991,Adventure,0.85,0.31,0.56,0.04,1.76
+989,Court,Duffrie,cduffrierg@nydailynews.com,Male,(74) 95080-4928,989,WWF Attitude,PS,Acclaim Entertainment,1998,Fighting,1.27,0.42,0.00,0.07,1.76
+990,Yorgos,Kupke,ykupkerh@amazon.co.jp,Male,(68) 95996-0894,990,The SpongeBob SquarePants Movie,PS2,THQ,2004,Platform,1.06,0.54,0.00,0.16,1.76
+991,Gibby,Chitson,gchitsonri@cdbaby.com,Male,(66) 92697-3394,991,Golden Sun,GBA,Nintendo,2001,Role-Playing,0.93,0.38,0.40,0.06,1.76
+992,Gerhardt,Graybeal,ggraybealrj@state.gov,Male,(37) 95984-2748,992,Sonic the Hedgehog 3,GEN,Sega,1994,Platform,1.02,0.47,0.20,0.07,1.76
+993,Gypsy,Corteis,gcorteisrk@yahoo.co.jp,Genderqueer,(78) 99035-2619,993,Kid Icarus,NES,Nintendo,1986,Platform,0.53,0.12,1.09,0.02,1.76
+994,Melonie,Donnachie,mdonnachierl@harvard.edu,Female,(33) 96844-5301,994,Def Jam: Fight for NY,PS2,Electronic Arts,2004,Fighting,0.86,0.67,0.00,0.22,1.76
+995,Frances,Gryglewski,fgryglewskirm@ustream.tv,Polygender,(69) 91673-5709,995,Tom Clancy's Ghost Recon,XB,Ubisoft,2002,Shooter,1.23,0.46,0.00,0.07,1.76
+996,Una,Stonnell,ustonnellrn@infoseek.co.jp,Female,(48) 94795-5827,996,State of Emergency,PS2,Take-Two Interactive,2002,Action,0.86,0.67,0.00,0.22,1.76
+997,Alene,Dobie,adobiero@amazon.co.uk,Female,(42) 92916-2344,997,BioShock Infinite,PS3,Take-Two Interactive,2013,Shooter,0.72,0.69,0.04,0.31,1.76
+998,Rebecka,Andriesse,randriesserp@icq.com,Genderqueer,(24) 95327-9461,998,Hitman: Absolution,X360,Square Enix,2012,Action,0.68,0.90,0.01,0.17,1.76
+999,Gustaf,Brou,gbrourq@twitter.com,Male,(64) 99359-2198,999,2 Games in 1 Double Pack: The Incredibles / Finding Nemo: The Continuing Adventures,GBA,THQ,2007,Action,1.26,0.47,0.00,0.03,1.76
+1000,Trenna,Maplesden,tmaplesdenrr@google.com.au,Female,(67) 91856-6895,1000,Call of Duty: Black Ops 3,X360,Activision,2015,Shooter,1.11,0.48,0.00,0.16,1.76
