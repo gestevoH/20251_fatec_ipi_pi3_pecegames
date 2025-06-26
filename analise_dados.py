@@ -10,7 +10,6 @@ dbname = "projeto_integrador3"
 
 # Engine de conexão
 engine = create_engine(f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{dbname}")
-
 # Carregando as tabelas
 fato_vendas_jogos = pd.read_sql("SELECT * FROM fato_vendas_jogos", engine)
 dim_jogo = pd.read_sql("SELECT * FROM dim_jogo", engine)
