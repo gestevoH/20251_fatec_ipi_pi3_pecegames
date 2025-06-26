@@ -22,5 +22,5 @@
 -- FOR EACH ROW
 -- EXECUTE FUNCTION registrar_log_conserto();
 
--- Testando
+-- Testando 
 SELECT * FROM log_consertos;
