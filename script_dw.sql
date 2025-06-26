@@ -273,6 +273,3 @@
 --     vendas_globais = vendas_globais * 1000000;
 
 -- SELECT * FROM fato_vendas_jogos;
-
-
-
