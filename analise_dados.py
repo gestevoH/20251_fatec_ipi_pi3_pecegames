@@ -3,7 +3,7 @@ import pandas as pd
 
 # Conexão com o banco
 user = "postgres"
-password = "1490Gu"
+password = ""
 host = "localhost"
 port = "5432"
 dbname = "projeto_integrador3"
@@ -73,34 +73,27 @@ def preferencias_genero_por_regiao(fato_vendas_jogos, dim_jogo, dim_genero):
     return resultado
 
 # ----------------------------------Chamando as Funções Criadas---------------------------------------------
-
 # Ajuste de exibição para não mostrar notação científica
 pd.options.display.float_format = '{:,.0f}'.format
 
 # Q1
 resultado_q1 = generos_mais_vendidos(fato_vendas_jogos, dim_jogo, dim_genero)
 print("\nGêneros mais vendidos:\n", resultado_q1)
-
 # Q2
 resultado_q2 = plataformas_mais_vendidas(fato_vendas_jogos, dim_jogo, dim_plataforma)
 print("\nPlataformas com mais jogos vendidos:\n", resultado_q2)
-
 # Q3
 resultado_q3 = editoras_mais_vendidas(fato_vendas_jogos, dim_jogo, dim_publicadora)
 print("\nEditoras com maior volume de vendas:\n", resultado_q3)
-
 # Q4
 resultado_q4 = vendas_por_ano(fato_vendas_jogos, dim_tempo)
 print("\nVendas por ano:\n", resultado_q4)
-
 # Q5
 resultado_q5 = jogos_mais_vendidos(fato_vendas_jogos, dim_jogo)
 print("\nTop 5 jogos mais vendidos:\n", resultado_q5)
-
 # Q6
 resultado_q6 = distribuicao_geografica(fato_vendas_jogos)
 print("\nDistribuição Geográfica de Vendas:\n", resultado_q6)
-
 # Q7
 resultado_q7 = preferencias_genero_por_regiao(fato_vendas_jogos, dim_jogo, dim_genero)
 print("\nPreferência de Gênero por Região:\n", resultado_q7)
