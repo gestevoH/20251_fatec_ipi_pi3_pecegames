@@ -272,4 +272,19 @@
 --     vendas_outros = vendas_outros * 1000000,
 --     vendas_globais = vendas_globais * 1000000;
 
+-- INSERT INTO dim_console (nome_console, fabricante, ano_lancamento)
+-- VALUES('PSP', 'Sony', 2005),
+-- ('3DS', 'Nintendo', 2011)
+
+-- INSERT INTO fato_consertos (id_cliente, id_console, id_tempo, id_servico, valor_conserto, tempo_execucao_dias, garantia_meses)
+-- VALUES (7, 4, 2, 4, 300.00, 7, 6);
+-- INSERT INTO fato_consertos (id_cliente, id_console, id_tempo, id_servico, valor_conserto, tempo_execucao_dias, garantia_meses)
+-- VALUES (8, 4, 2, 1, 200.00, 5, 12);
+-- INSERT INTO fato_consertos (id_cliente, id_console, id_tempo, id_servico, valor_conserto, tempo_execucao_dias, garantia_meses)
+-- VALUES (9, 5, 2, 4, 300.00, 7, 6);
+-- INSERT INTO fato_consertos (id_cliente, id_console, id_tempo, id_servico, valor_conserto, tempo_execucao_dias, garantia_meses)
+-- VALUES (10, 5, 2, 3, 100.00, 2, 3);
+-- INSERT INTO fato_consertos (id_cliente, id_console, id_tempo, id_servico, valor_conserto, tempo_execucao_dias, garantia_meses)
+-- VALUES (11, 5, 2, 3, 100.00, 2, 3);
+
 -- SELECT * FROM fato_vendas_jogos;
